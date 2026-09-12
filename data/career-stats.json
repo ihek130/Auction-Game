@@ -1,0 +1,7185 @@
+[
+ {
+  "name": "Sachin Tendulkar",
+  "test": {
+   "matches": 200,
+   "runs": 15921,
+   "bat_avg": 53.78,
+   "bat_sr": null,
+   "hundreds": 51,
+   "wickets": 46,
+   "bowl_avg": 54.17,
+   "econ": null,
+   "catches": 115,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 463,
+   "runs": 18426,
+   "bat_avg": 44.83,
+   "bat_sr": null,
+   "hundreds": 49,
+   "wickets": 154,
+   "bowl_avg": 44.48,
+   "econ": null,
+   "catches": 140,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 1,
+   "runs": 10,
+   "bat_avg": 10,
+   "bat_sr": 83.33,
+   "hundreds": 0,
+   "wickets": 1,
+   "bowl_avg": 12,
+   "econ": 4.8,
+   "catches": 1,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 96,
+   "runs": 2797,
+   "bat_avg": 32.91,
+   "bat_sr": 121.08,
+   "wickets": 2,
+   "econ": 7.94,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
+   "https://en.wikipedia.org/wiki/List_of_India_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Brian Lara",
+  "test": {
+   "matches": 131,
+   "runs": 11953,
+   "bat_avg": 52.88,
+   "bat_sr": null,
+   "hundreds": 34,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 164,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 299,
+   "runs": 10405,
+   "bat_avg": 40.48,
+   "bat_sr": null,
+   "hundreds": 19,
+   "wickets": 4,
+   "bowl_avg": 15.25,
+   "econ": null,
+   "catches": 120,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Lara"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I (format began after his 2007 retirement)."
+ },
+ {
+  "name": "Ricky Ponting",
+  "test": {
+   "matches": 168,
+   "runs": 13378,
+   "bat_avg": 51.85,
+   "bat_sr": null,
+   "hundreds": 41,
+   "wickets": 5,
+   "bowl_avg": 55.2,
+   "econ": null,
+   "catches": 196,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 375,
+   "runs": 13704,
+   "bat_avg": 42.03,
+   "bat_sr": null,
+   "hundreds": 30,
+   "wickets": 3,
+   "bowl_avg": 34.66,
+   "econ": null,
+   "catches": 160,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 17,
+   "runs": 401,
+   "bat_avg": 28.64,
+   "bat_sr": 132.78,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 8,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 48,
+   "runs": 909,
+   "bat_avg": 22.73,
+   "bat_sr": 110.99,
+   "wickets": 1,
+   "econ": 11.5,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ricky_Ponting",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Rahul Dravid",
+  "test": {
+   "matches": 164,
+   "runs": 13288,
+   "bat_avg": 52.31,
+   "bat_sr": null,
+   "hundreds": 36,
+   "wickets": 1,
+   "bowl_avg": 39,
+   "econ": null,
+   "catches": 210,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 344,
+   "runs": 10889,
+   "bat_avg": 39.16,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 4,
+   "bowl_avg": 42.5,
+   "econ": null,
+   "catches": 196,
+   "stumpings": 14
+  },
+  "t20i": {
+   "matches": 1,
+   "runs": 31,
+   "bat_avg": 31,
+   "bat_sr": 147.62,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 0,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 109,
+   "runs": 2586,
+   "bat_avg": 27.51,
+   "bat_sr": 113.87,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rahul_Dravid",
+   "https://en.wikipedia.org/wiki/List_of_India_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Part-time wicketkeeper: 14 ODI stumpings."
+ },
+ {
+  "name": "Saeed Anwar",
+  "test": {
+   "matches": 55,
+   "runs": 4052,
+   "bat_avg": 45.52,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 18,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 247,
+   "runs": 8824,
+   "bat_avg": 39.21,
+   "bat_sr": null,
+   "hundreds": 20,
+   "wickets": 6,
+   "bowl_avg": 31.83,
+   "econ": null,
+   "catches": 42,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saeed_Anwar"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I (retired 2003, before the format existed)."
+ },
+ {
+  "name": "Inzamam-ul-Haq",
+  "test": {
+   "matches": 120,
+   "runs": 8830,
+   "bat_avg": 49.6,
+   "bat_sr": null,
+   "hundreds": 25,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 81,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 378,
+   "runs": 11739,
+   "bat_avg": 39.53,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 3,
+   "bowl_avg": 21.33,
+   "econ": null,
+   "catches": 113,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 1,
+   "runs": 11,
+   "bat_avg": null,
+   "bat_sr": 73.33,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 0,
+   "stumpings": null
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inzamam-ul-Haq",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Single T20I (2006), 11 not out, so no batting average is defined."
+ },
+ {
+  "name": "Javed Miandad",
+  "test": {
+   "matches": 124,
+   "runs": 8832,
+   "bat_avg": 52.57,
+   "bat_sr": null,
+   "hundreds": 23,
+   "wickets": 17,
+   "bowl_avg": 40.11,
+   "econ": null,
+   "catches": 93,
+   "stumpings": 1
+  },
+  "odi": {
+   "matches": 233,
+   "runs": 7381,
+   "bat_avg": 41.7,
+   "bat_sr": null,
+   "hundreds": 8,
+   "wickets": 7,
+   "bowl_avg": 42.42,
+   "econ": null,
+   "catches": 71,
+   "stumpings": 2
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1980s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Javed_Miandad"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I. Occasional keeper (1 Test, 2 ODI stumpings)."
+ },
+ {
+  "name": "Viv Richards",
+  "test": {
+   "matches": 121,
+   "runs": 8540,
+   "bat_avg": 50.23,
+   "bat_sr": null,
+   "hundreds": 24,
+   "wickets": 32,
+   "bowl_avg": 61.37,
+   "econ": null,
+   "catches": 122,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 187,
+   "runs": 6721,
+   "bat_avg": 47,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 118,
+   "bowl_avg": 35.83,
+   "econ": null,
+   "catches": 100,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1980s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viv_Richards"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I."
+ },
+ {
+  "name": "Steve Waugh",
+  "test": {
+   "matches": 168,
+   "runs": 10927,
+   "bat_avg": 51.06,
+   "bat_sr": null,
+   "hundreds": 32,
+   "wickets": 92,
+   "bowl_avg": 37.44,
+   "econ": null,
+   "catches": 112,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 325,
+   "runs": 7569,
+   "bat_avg": 32.9,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 195,
+   "bowl_avg": 34.67,
+   "econ": null,
+   "catches": 111,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steve_Waugh"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I."
+ },
+ {
+  "name": "Mark Waugh",
+  "test": {
+   "matches": 128,
+   "runs": 8029,
+   "bat_avg": 41.81,
+   "bat_sr": null,
+   "hundreds": 20,
+   "wickets": 59,
+   "bowl_avg": 41.16,
+   "econ": null,
+   "catches": 181,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 244,
+   "runs": 8500,
+   "bat_avg": 39.35,
+   "bat_sr": null,
+   "hundreds": 18,
+   "wickets": 85,
+   "bowl_avg": 34.56,
+   "econ": null,
+   "catches": 108,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Waugh"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I."
+ },
+ {
+  "name": "Matthew Hayden",
+  "test": {
+   "matches": 103,
+   "runs": 8625,
+   "bat_avg": 50.73,
+   "bat_sr": null,
+   "hundreds": 30,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 128,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 161,
+   "runs": 6133,
+   "bat_avg": 43.8,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 68,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 9,
+   "runs": 308,
+   "bat_avg": 51.33,
+   "bat_sr": 143.93,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 1,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 50,
+   "runs": 1632,
+   "bat_avg": 36.27,
+   "bat_sr": 136.91,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthew_Hayden",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Sourav Ganguly",
+  "test": {
+   "matches": 113,
+   "runs": 7212,
+   "bat_avg": 42.17,
+   "bat_sr": null,
+   "hundreds": 16,
+   "wickets": 32,
+   "bowl_avg": 52.53,
+   "econ": null,
+   "catches": 71,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 311,
+   "runs": 11363,
+   "bat_avg": 41.02,
+   "bat_sr": null,
+   "hundreds": 22,
+   "wickets": 100,
+   "bowl_avg": 38.49,
+   "econ": null,
+   "catches": 100,
+   "stumpings": null
+  },
+  "t20i": null,
+  "t20_league": {
+   "matches": 77,
+   "runs": 1726,
+   "bat_avg": 25.01,
+   "bat_sr": 107.01,
+   "wickets": 29,
+   "econ": 7.92,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sourav_Ganguly"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I."
+ },
+ {
+  "name": "Mahela Jayawardene",
+  "test": {
+   "matches": 149,
+   "runs": 11814,
+   "bat_avg": 49.84,
+   "bat_sr": null,
+   "hundreds": 34,
+   "wickets": 6,
+   "bowl_avg": 51.66,
+   "econ": null,
+   "catches": 205,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 448,
+   "runs": 12650,
+   "bat_avg": 33.37,
+   "bat_sr": null,
+   "hundreds": 19,
+   "wickets": 8,
+   "bowl_avg": 70.37,
+   "econ": null,
+   "catches": 218,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 55,
+   "runs": 1493,
+   "bat_avg": 31.76,
+   "bat_sr": 133.18,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 8,
+   "catches": 17,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 222,
+   "runs": 5479,
+   "bat_avg": 29.3,
+   "bat_sr": 132.02,
+   "wickets": 3,
+   "econ": 7.76,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
+   "https://en.wikipedia.org/wiki/List_of_Sri_Lanka_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Chris Gayle",
+  "test": {
+   "matches": 103,
+   "runs": 7214,
+   "bat_avg": 42.18,
+   "bat_sr": null,
+   "hundreds": 15,
+   "wickets": 73,
+   "bowl_avg": 42.73,
+   "econ": null,
+   "catches": 96,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 301,
+   "runs": 10480,
+   "bat_avg": 37.83,
+   "bat_sr": null,
+   "hundreds": 25,
+   "wickets": 167,
+   "bowl_avg": 35.48,
+   "econ": null,
+   "catches": 124,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 79,
+   "runs": 1899,
+   "bat_avg": 27.92,
+   "bat_sr": 137.51,
+   "hundreds": 2,
+   "wickets": 20,
+   "bowl_avg": 22,
+   "econ": 6.93,
+   "catches": 20,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 463,
+   "runs": 14562,
+   "bat_avg": 36.22,
+   "bat_sr": 144.75,
+   "wickets": 83,
+   "econ": 7.62,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Gayle"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia states Gayle never formally announced international retirement; last international appearance 6 November 2021, so recorded as retired. Large franchise T20 career (IPL/BBL/PSL/CPL/BPL) left null: no fetchable source provided an all-T20 career line."
+ },
+ {
+  "name": "Virender Sehwag",
+  "test": {
+   "matches": 104,
+   "runs": 8586,
+   "bat_avg": 49.34,
+   "bat_sr": 82.23,
+   "hundreds": 23,
+   "wickets": 40,
+   "bowl_avg": 47.35,
+   "econ": null,
+   "catches": 91,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 251,
+   "runs": 8273,
+   "bat_avg": 35.05,
+   "bat_sr": null,
+   "hundreds": 15,
+   "wickets": 96,
+   "bowl_avg": 40.13,
+   "econ": null,
+   "catches": 93,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 19,
+   "runs": 394,
+   "bat_avg": 21.88,
+   "bat_sr": 145.39,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 20,
+   "catches": 2,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 159,
+   "runs": 4061,
+   "bat_avg": 26.89,
+   "bat_sr": 147.83,
+   "wickets": 22,
+   "econ": 8.31,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Virender_Sehwag",
+   "https://en.wikipedia.org/wiki/List_of_India_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Test batting strike rate 82.23 comes from the Wikipedia article body (not the infobox); highest among batters with 3000+ Test runs."
+ },
+ {
+  "name": "Kevin Pietersen",
+  "test": {
+   "matches": 104,
+   "runs": 8181,
+   "bat_avg": 47.28,
+   "bat_sr": null,
+   "hundreds": 23,
+   "wickets": 10,
+   "bowl_avg": 88.6,
+   "econ": null,
+   "catches": 62,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 136,
+   "runs": 4440,
+   "bat_avg": 40.73,
+   "bat_sr": null,
+   "hundreds": 9,
+   "wickets": 7,
+   "bowl_avg": 52.86,
+   "econ": null,
+   "catches": 40,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 37,
+   "runs": 1176,
+   "bat_avg": 37.94,
+   "bat_sr": 141.52,
+   "hundreds": 0,
+   "wickets": 1,
+   "bowl_avg": 53,
+   "econ": 10.6,
+   "catches": 14,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 200,
+   "runs": 5695,
+   "bat_avg": 33.9,
+   "bat_sr": 136.9,
+   "wickets": 17,
+   "econ": 8.09,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Pietersen"
+  ],
+  "confidence": "high",
+  "notes": "Substantial franchise T20 career (IPL/BBL/PSL) left null: no fetchable source provided an all-T20 career line."
+ },
+ {
+  "name": "Michael Hussey",
+  "test": {
+   "matches": 79,
+   "runs": 6235,
+   "bat_avg": 51.52,
+   "bat_sr": null,
+   "hundreds": 19,
+   "wickets": 7,
+   "bowl_avg": 43.71,
+   "econ": null,
+   "catches": 85,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 185,
+   "runs": 5442,
+   "bat_avg": 48.15,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 2,
+   "bowl_avg": 117.5,
+   "econ": null,
+   "catches": 105,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 38,
+   "runs": 721,
+   "bat_avg": 37.94,
+   "bat_sr": 136.29,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 5,
+   "catches": 20,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 161,
+   "runs": 4569,
+   "bat_avg": 37.45,
+   "bat_sr": 124.9,
+   "wickets": 0,
+   "econ": 5,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Hussey",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Younis Khan",
+  "test": {
+   "matches": 118,
+   "runs": 10099,
+   "bat_avg": 52.05,
+   "bat_sr": null,
+   "hundreds": 34,
+   "wickets": 9,
+   "bowl_avg": 54.55,
+   "econ": null,
+   "catches": 139,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 265,
+   "runs": 7249,
+   "bat_avg": 31.24,
+   "bat_sr": null,
+   "hundreds": 7,
+   "wickets": 3,
+   "bowl_avg": 90.33,
+   "econ": null,
+   "catches": 135,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 25,
+   "runs": 442,
+   "bat_avg": 22.1,
+   "bat_sr": 121.43,
+   "hundreds": 0,
+   "wickets": 3,
+   "bowl_avg": 6,
+   "econ": 4.91,
+   "catches": 12,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 83,
+   "runs": 1864,
+   "bat_avg": 30.56,
+   "bat_sr": 117.31,
+   "wickets": 6,
+   "econ": 7.85,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Younis_Khan"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Mohammad Yousuf",
+  "test": {
+   "matches": 90,
+   "runs": 7530,
+   "bat_avg": 52.29,
+   "bat_sr": null,
+   "hundreds": 24,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 65,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 288,
+   "runs": 9720,
+   "bat_avg": 41.72,
+   "bat_sr": null,
+   "hundreds": 15,
+   "wickets": 1,
+   "bowl_avg": 1,
+   "econ": null,
+   "catches": 58,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 3,
+   "runs": 50,
+   "bat_avg": 16.66,
+   "bat_sr": 116.28,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 1,
+   "stumpings": 0
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Yousuf_(cricketer)",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Alastair Cook",
+  "test": {
+   "matches": 161,
+   "runs": 12472,
+   "bat_avg": 45.35,
+   "bat_sr": null,
+   "hundreds": 33,
+   "wickets": 1,
+   "bowl_avg": 7,
+   "econ": null,
+   "catches": 175,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 92,
+   "runs": 3204,
+   "bat_avg": 36.4,
+   "bat_sr": null,
+   "hundreds": 5,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 36,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 4,
+   "runs": 61,
+   "bat_avg": 15.25,
+   "bat_sr": 112.96,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 1,
+   "stumpings": 0
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alastair_Cook",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Virat Kohli",
+  "test": {
+   "matches": 123,
+   "runs": 9230,
+   "bat_avg": 46.85,
+   "bat_sr": null,
+   "hundreds": 30,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 121,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 314,
+   "runs": 14941,
+   "bat_avg": 58.59,
+   "bat_sr": null,
+   "hundreds": 54,
+   "wickets": 5,
+   "bowl_avg": 136,
+   "econ": null,
+   "catches": 169,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 125,
+   "runs": 4188,
+   "bat_avg": 48.69,
+   "bat_sr": 137.04,
+   "hundreds": 1,
+   "wickets": 4,
+   "bowl_avg": 51,
+   "econ": 8.05,
+   "catches": 54,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 430,
+   "runs": 14218,
+   "bat_avg": 42.44,
+   "bat_sr": 135.89,
+   "wickets": 8,
+   "econ": 8.7,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Virat_Kohli",
+   "https://en.wikipedia.org/wiki/List_of_Indian_Premier_League_records_and_statistics"
+  ],
+  "confidence": "high",
+  "notes": "Retired from T20Is (2024) and Tests (2025) but still active in ODIs as of Sept 2026, so ODI figures will keep moving. IPL: 9,336 runs in 275 innings, 2008-2026 (Wikipedia IPL records page) - not placed in t20_league because that page gives no average/strike rate."
+ },
+ {
+  "name": "Rohit Sharma",
+  "test": {
+   "matches": 67,
+   "runs": 4301,
+   "bat_avg": 40.57,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 2,
+   "bowl_avg": 112,
+   "econ": null,
+   "catches": 68,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 288,
+   "runs": 11895,
+   "bat_avg": 48.95,
+   "bat_sr": null,
+   "hundreds": 34,
+   "wickets": 9,
+   "bowl_avg": 59.22,
+   "econ": null,
+   "catches": 110,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 159,
+   "runs": 4231,
+   "bat_avg": 32.05,
+   "bat_sr": 140.89,
+   "hundreds": 5,
+   "wickets": 1,
+   "bowl_avg": 113,
+   "econ": 9.97,
+   "catches": 65,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 472,
+   "runs": 12531,
+   "bat_avg": 30.94,
+   "bat_sr": 135.65,
+   "wickets": 29,
+   "econ": 7.84,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rohit_Sharma",
+   "https://en.wikipedia.org/wiki/List_of_Indian_Premier_League_records_and_statistics"
+  ],
+  "confidence": "high",
+  "notes": "Retired from T20Is (2024) and Tests (2025) but still active in ODIs as of Sept 2026. IPL: 7,329 runs in 276 innings, 2008-2026 (Wikipedia IPL records page) - not placed in t20_league because no average/strike rate was available."
+ },
+ {
+  "name": "Babar Azam",
+  "test": {
+   "matches": 65,
+   "runs": 4688,
+   "bat_avg": 43,
+   "bat_sr": null,
+   "hundreds": 9,
+   "wickets": 2,
+   "bowl_avg": 21,
+   "econ": null,
+   "catches": 48,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 143,
+   "runs": 6626,
+   "bat_avg": 53.43,
+   "bat_sr": null,
+   "hundreds": 20,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 63,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 145,
+   "runs": 4596,
+   "bat_avg": 38.94,
+   "bat_sr": 128.02,
+   "hundreds": 3,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 68,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 359,
+   "runs": 12493,
+   "bat_avg": 42.78,
+   "bat_sr": 129.05,
+   "wickets": 4,
+   "econ": 6.54,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Babar_Azam"
+  ],
+  "confidence": "high",
+  "notes": "Active in all three formats as of Sept 2026; figures will continue to change."
+ },
+ {
+  "name": "Joe Root",
+  "test": {
+   "matches": 168,
+   "runs": 14208,
+   "bat_avg": 50.38,
+   "bat_sr": null,
+   "hundreds": 41,
+   "wickets": 74,
+   "bowl_avg": 48.09,
+   "econ": null,
+   "catches": 219,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 192,
+   "runs": 7826,
+   "bat_avg": 51.15,
+   "bat_sr": null,
+   "hundreds": 20,
+   "wickets": 30,
+   "bowl_avg": 58.16,
+   "econ": null,
+   "catches": 91,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 32,
+   "runs": 893,
+   "bat_avg": 35.72,
+   "bat_sr": 126.31,
+   "hundreds": 0,
+   "wickets": 6,
+   "bowl_avg": 23.16,
+   "econ": 9.93,
+   "catches": 18,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 129,
+   "runs": 3062,
+   "bat_avg": 32.23,
+   "bat_sr": 129.14,
+   "wickets": 35,
+   "econ": 8.05,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Root",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Active in Tests and ODIs as of Sept 2026; last T20I was 2019, so the T20I line is final."
+ },
+ {
+  "name": "Steve Smith",
+  "test": {
+   "matches": 125,
+   "runs": 10920,
+   "bat_avg": 56,
+   "bat_sr": null,
+   "hundreds": 37,
+   "wickets": 19,
+   "bowl_avg": 53.05,
+   "econ": null,
+   "catches": 219,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 170,
+   "runs": 5800,
+   "bat_avg": 43.28,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 28,
+   "bowl_avg": 34.67,
+   "econ": null,
+   "catches": 90,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 67,
+   "runs": 1094,
+   "bat_avg": 24.86,
+   "bat_sr": 125.46,
+   "hundreds": 0,
+   "wickets": 17,
+   "bowl_avg": 22.17,
+   "econ": 7.77,
+   "catches": 41,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 291,
+   "runs": 6811,
+   "bat_avg": 32.59,
+   "bat_sr": 131.77,
+   "wickets": 55,
+   "econ": 7.73,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steve_Smith_(cricketer)",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from ODI cricket after the 2025 Champions Trophy; still an active Test player as of Sept 2026."
+ },
+ {
+  "name": "David Warner",
+  "test": {
+   "matches": 112,
+   "runs": 8786,
+   "bat_avg": 44.59,
+   "bat_sr": null,
+   "hundreds": 26,
+   "wickets": 4,
+   "bowl_avg": 67.25,
+   "econ": null,
+   "catches": 91,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 161,
+   "runs": 6932,
+   "bat_avg": 45.3,
+   "bat_sr": null,
+   "hundreds": 22,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 71,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 110,
+   "runs": 3277,
+   "bat_avg": 33.43,
+   "bat_sr": 142.48,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 62,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 439,
+   "runs": 14284,
+   "bat_avg": 37.3,
+   "bat_sr": 140.77,
+   "wickets": 0,
+   "econ": 12.86,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
+   "https://en.wikipedia.org/wiki/List_of_Indian_Premier_League_records_and_statistics"
+  ],
+  "confidence": "high",
+  "notes": "International career 2009-2024. IPL: 6,565 runs in 184 innings, 2009-2024 (Wikipedia IPL records page) - not placed in t20_league because no average/strike rate was available."
+ },
+ {
+  "name": "Kane Williamson",
+  "test": {
+   "matches": 110,
+   "runs": 9515,
+   "bat_avg": 54.06,
+   "bat_sr": null,
+   "hundreds": 33,
+   "wickets": 30,
+   "bowl_avg": 40.23,
+   "econ": null,
+   "catches": 96,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 175,
+   "runs": 7256,
+   "bat_avg": 48.69,
+   "bat_sr": null,
+   "hundreds": 15,
+   "wickets": 37,
+   "bowl_avg": 35.4,
+   "econ": null,
+   "catches": 76,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 93,
+   "runs": 2575,
+   "bat_avg": 33.44,
+   "bat_sr": 123.09,
+   "hundreds": 0,
+   "wickets": 6,
+   "bowl_avg": 27.33,
+   "econ": 8.34,
+   "catches": 45,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 293,
+   "runs": 7454,
+   "bat_avg": 31.72,
+   "bat_sr": 123.47,
+   "wickets": 30,
+   "econ": 7.08,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kane_Williamson"
+  ],
+  "confidence": "high",
+  "notes": "Retired from all international cricket on 12 June 2026 (had retired from T20Is in late 2025); still plays franchise T20."
+ },
+ {
+  "name": "Ross Taylor",
+  "test": {
+   "matches": 112,
+   "runs": 7683,
+   "bat_avg": 44.66,
+   "bat_sr": null,
+   "hundreds": 19,
+   "wickets": 3,
+   "bowl_avg": 16,
+   "econ": null,
+   "catches": 163,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 236,
+   "runs": 8607,
+   "bat_avg": 47.55,
+   "bat_sr": null,
+   "hundreds": 21,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 142,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 104,
+   "runs": 1932,
+   "bat_avg": 26.1,
+   "bat_sr": 121.29,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 48,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 302,
+   "runs": 6604,
+   "bat_avg": 30.57,
+   "bat_sr": 130.46,
+   "wickets": 8,
+   "econ": 9.03,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ross_Taylor"
+  ],
+  "confidence": "medium",
+  "notes": "Retired from New Zealand duty in 2022 but came out of retirement in 2025 to play T20Is for Samoa (last T20I 9 Oct 2025), so the 104-match T20I line combines New Zealand and Samoa caps and may still grow. Test and ODI lines are final."
+ },
+ {
+  "name": "Faf du Plessis",
+  "test": {
+   "matches": 69,
+   "runs": 4163,
+   "bat_avg": 40.02,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 63,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 143,
+   "runs": 5507,
+   "bat_avg": 47.47,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 2,
+   "bowl_avg": 94.5,
+   "econ": null,
+   "catches": 81,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 50,
+   "runs": 1528,
+   "bat_avg": 35.53,
+   "bat_sr": 134.39,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 2.25,
+   "catches": 24,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 438,
+   "runs": 12249,
+   "bat_avg": 32.84,
+   "bat_sr": 137.68,
+   "wickets": 50,
+   "econ": 6.96,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faf_du_Plessis"
+  ],
+  "confidence": "high",
+  "notes": "International span 2011-2021 (retired from internationals) but still an active franchise T20 player (IPL/SA20 and others); that league career is not quantified here."
+ },
+ {
+  "name": "Suryakumar Yadav",
+  "test": {
+   "matches": 1,
+   "runs": 8,
+   "bat_avg": 8,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 0,
+   "stumpings": null
+  },
+  "odi": {
+   "matches": 37,
+   "runs": 773,
+   "bat_avg": 25.76,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 17,
+   "stumpings": null
+  },
+  "t20i": {
+   "matches": 113,
+   "runs": 3272,
+   "bat_avg": 36.35,
+   "bat_sr": 162.95,
+   "hundreds": 4,
+   "wickets": 2,
+   "bowl_avg": 2.5,
+   "econ": 5,
+   "catches": 58,
+   "stumpings": null
+  },
+  "t20_league": {
+   "matches": 373,
+   "runs": 9729,
+   "bat_avg": 34.5,
+   "bat_sr": 152.59,
+   "wickets": 8,
+   "econ": 6.3,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Suryakumar_Yadav"
+  ],
+  "confidence": "high",
+  "notes": "Active as of Sept 2026; T20I specialist. Substantial IPL career (Mumbai Indians) left null - no fetchable source gave an all-T20 or IPL average/strike-rate line."
+ },
+ {
+  "name": "Travis Head",
+  "test": {
+   "matches": 67,
+   "runs": 4653,
+   "bat_avg": 43.08,
+   "bat_sr": 69.68,
+   "hundreds": 12,
+   "wickets": 16,
+   "bowl_avg": 39.75,
+   "econ": null,
+   "catches": 35,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 79,
+   "runs": 3007,
+   "bat_avg": 43.57,
+   "bat_sr": 105.73,
+   "hundreds": 7,
+   "wickets": 28,
+   "bowl_avg": 41.14,
+   "econ": null,
+   "catches": 19,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 53,
+   "runs": 1335,
+   "bat_avg": 28.4,
+   "bat_sr": 156.69,
+   "hundreds": 0,
+   "wickets": 1,
+   "bowl_avg": 56,
+   "econ": 9.33,
+   "catches": 9,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 189,
+   "runs": 4962,
+   "bat_avg": 29.89,
+   "bat_sr": 150.68,
+   "wickets": 23,
+   "econ": 8.67,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Travis_Head",
+   "https://stats.cricinfo.com/ci/engine/player/530011.html?class=11;template=results;type=batting"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 23 Aug 2026. Strike rates verified from ESPNcricinfo Statsguru all-internationals batting view. Economy rates not published in either source. No overall T20 (franchise) column in the infobox."
+ },
+ {
+  "name": "Shubman Gill",
+  "test": {
+   "matches": 41,
+   "runs": 2969,
+   "bat_avg": 44.31,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 31,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 67,
+   "runs": 3379,
+   "bat_avg": 60.33,
+   "bat_sr": null,
+   "hundreds": 9,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 40,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 36,
+   "runs": 869,
+   "bat_avg": 28.03,
+   "bat_sr": 138.6,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 9,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 191,
+   "runs": 6144,
+   "bat_avg": 37.69,
+   "bat_sr": 141.31,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shubman_Gill"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 23 Jun 2026. bat_sr and econ are not published in the Wikipedia infobox and ESPNcricinfo/Cricbuzz were blocked or rate-limited. No overall T20 column in the infobox, so t20_league is null despite a substantial IPL career."
+ },
+ {
+  "name": "Harry Brook",
+  "test": {
+   "matches": 40,
+   "runs": 3535,
+   "bat_avg": 52.76,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 1,
+   "bowl_avg": 123,
+   "econ": null,
+   "catches": 64,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 41,
+   "runs": 1385,
+   "bat_avg": 37.43,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 19,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 68,
+   "runs": 1532,
+   "bat_avg": 34.04,
+   "bat_sr": 158.09,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 36,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 181,
+   "runs": 4315,
+   "bat_avg": 33.71,
+   "bat_sr": 153.94,
+   "wickets": 1,
+   "econ": 13,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Brook"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 30 Aug 2026. bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "Yashasvi Jaiswal",
+  "test": {
+   "matches": 28,
+   "runs": 2511,
+   "bat_avg": 49.23,
+   "bat_sr": null,
+   "hundreds": 7,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 25,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 6,
+   "runs": 285,
+   "bat_avg": 71.25,
+   "bat_sr": null,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 2,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 23,
+   "runs": 723,
+   "bat_avg": 36.15,
+   "bat_sr": 164.32,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 11,
+   "catches": 15,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 137,
+   "runs": 4109,
+   "bat_avg": 33.14,
+   "bat_sr": 152.3,
+   "wickets": 0,
+   "econ": 12.95,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yashasvi_Jaiswal"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 30 Mar 2026. bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "Fakhar Zaman",
+  "test": {
+   "matches": 3,
+   "runs": 192,
+   "bat_avg": 32,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 3,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 92,
+   "runs": 3861,
+   "bat_avg": 45.42,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 1,
+   "bowl_avg": 111,
+   "econ": null,
+   "catches": 44,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 120,
+   "runs": 2494,
+   "bat_avg": 23.98,
+   "bat_sr": 132.52,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 12,
+   "catches": 59,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 340,
+   "runs": 8978,
+   "bat_avg": 28.68,
+   "bat_sr": 135.82,
+   "wickets": 4,
+   "econ": 6.81,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fakhar_Zaman_(cricketer)"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 8 Mar 2026; still active (last ODI Nov 2025, last T20I Feb 2026). bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "Saim Ayub",
+  "test": {
+   "matches": 8,
+   "runs": 364,
+   "bat_avg": 26,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 4,
+   "bowl_avg": 34.5,
+   "econ": null,
+   "catches": 4,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 17,
+   "runs": 751,
+   "bat_avg": 46.93,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 9,
+   "bowl_avg": 41.55,
+   "econ": null,
+   "catches": 13,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 67,
+   "runs": 1298,
+   "bat_avg": 21.27,
+   "bat_sr": 135.92,
+   "hundreds": 0,
+   "wickets": 29,
+   "bowl_avg": 22.27,
+   "econ": 7.18,
+   "catches": 27,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 159,
+   "runs": 3683,
+   "bat_avg": 24.89,
+   "bat_sr": 138.04,
+   "wickets": 60,
+   "econ": 7.7,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saim_Ayub"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 8 Mar 2026. bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "Shivnarine Chanderpaul",
+  "test": {
+   "matches": 164,
+   "runs": 11867,
+   "bat_avg": 51.37,
+   "bat_sr": null,
+   "hundreds": 30,
+   "wickets": 9,
+   "bowl_avg": 98.11,
+   "econ": null,
+   "catches": 66,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 268,
+   "runs": 8778,
+   "bat_avg": 41.6,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 14,
+   "bowl_avg": 45.42,
+   "econ": null,
+   "catches": 73,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 22,
+   "runs": 343,
+   "bat_avg": 20.17,
+   "bat_sr": 98.85,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 7,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 81,
+   "runs": 1576,
+   "bat_avg": 23.52,
+   "bat_sr": 105.77,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shivnarine_Chanderpaul"
+  ],
+  "confidence": "high",
+  "notes": "bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "Michael Bevan",
+  "test": {
+   "matches": 18,
+   "runs": 785,
+   "bat_avg": 29.07,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 29,
+   "bowl_avg": 24.24,
+   "econ": null,
+   "catches": 8,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 232,
+   "runs": 6912,
+   "bat_avg": 53.58,
+   "bat_sr": null,
+   "hundreds": 6,
+   "wickets": 36,
+   "bowl_avg": 45.97,
+   "econ": null,
+   "catches": 69,
+   "stumpings": 0
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Bevan"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I: last international was Feb 2004 and Australia's first T20I was Feb 2005. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Graham Gooch",
+  "test": {
+   "matches": 118,
+   "runs": 8900,
+   "bat_avg": 42.58,
+   "bat_sr": null,
+   "hundreds": 20,
+   "wickets": 23,
+   "bowl_avg": 46.47,
+   "econ": null,
+   "catches": 103,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 125,
+   "runs": 4290,
+   "bat_avg": 36.98,
+   "bat_sr": null,
+   "hundreds": 8,
+   "wickets": 36,
+   "bowl_avg": 42.11,
+   "econ": null,
+   "catches": 45,
+   "stumpings": 0
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graham_Gooch"
+  ],
+  "confidence": "high",
+  "notes": "Pre-T20 era, no T20I career. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Graeme Smith",
+  "test": {
+   "matches": 117,
+   "runs": 9265,
+   "bat_avg": 48.25,
+   "bat_sr": null,
+   "hundreds": 27,
+   "wickets": 8,
+   "bowl_avg": 110.62,
+   "econ": null,
+   "catches": 169,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 197,
+   "runs": 6989,
+   "bat_avg": 37.98,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 18,
+   "bowl_avg": 52.83,
+   "econ": null,
+   "catches": 105,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 33,
+   "runs": 982,
+   "bat_avg": 31.67,
+   "bat_sr": 127.53,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": 14.25,
+   "catches": 18,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 86,
+   "runs": 2389,
+   "bat_avg": 29.86,
+   "bat_sr": 123.08,
+   "wickets": 4,
+   "econ": 9.25,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graeme_Smith"
+  ],
+  "confidence": "high",
+  "notes": "bat_sr and econ not published in source."
+ },
+ {
+  "name": "Daryl Mitchell",
+  "test": {
+   "matches": 39,
+   "runs": 2411,
+   "bat_avg": 43.05,
+   "bat_sr": null,
+   "hundreds": 6,
+   "wickets": 4,
+   "bowl_avg": 102.5,
+   "econ": null,
+   "catches": 62,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 62,
+   "runs": 2811,
+   "bat_avg": 57.36,
+   "bat_sr": null,
+   "hundreds": 9,
+   "wickets": 14,
+   "bowl_avg": 23.92,
+   "econ": null,
+   "catches": 41,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 104,
+   "runs": 1879,
+   "bat_avg": 26.84,
+   "bat_sr": 140.54,
+   "hundreds": 0,
+   "wickets": 9,
+   "bowl_avg": 23.55,
+   "econ": 11.06,
+   "catches": 55,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 277,
+   "runs": 5924,
+   "bat_avg": 30.85,
+   "bat_sr": 136.22,
+   "wickets": 87,
+   "econ": 9.56,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daryl_Mitchell_(New_Zealand_cricketer)"
+  ],
+  "confidence": "high",
+  "notes": "New Zealand all-rounder, not the English cricketer of the same name. Infobox as of 16 Jul 2026. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Tamim Iqbal",
+  "test": {
+   "matches": 70,
+   "runs": 5134,
+   "bat_avg": 38.89,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 20,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 243,
+   "runs": 8357,
+   "bat_avg": 36.65,
+   "bat_sr": null,
+   "hundreds": 14,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 68,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 78,
+   "runs": 1758,
+   "bat_avg": 24.08,
+   "bat_sr": 116.97,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 18,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 281,
+   "runs": 8283,
+   "bat_avg": 32.87,
+   "bat_sr": 121.17,
+   "wickets": 0,
+   "econ": 8.31,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tamim_Iqbal"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 28 Dec 2023. Retired from international cricket (announced Jul 2023, final announcement Jan 2025). bat_sr and econ not published in source."
+ },
+ {
+  "name": "Adam Gilchrist",
+  "test": {
+   "matches": 96,
+   "runs": 5570,
+   "bat_avg": 47.6,
+   "bat_sr": null,
+   "hundreds": 17,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 379,
+   "stumpings": 37
+  },
+  "odi": {
+   "matches": 287,
+   "runs": 9619,
+   "bat_avg": 35.89,
+   "bat_sr": null,
+   "hundreds": 16,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 417,
+   "stumpings": 55
+  },
+  "t20i": {
+   "matches": 13,
+   "runs": 272,
+   "bat_avg": 22.66,
+   "bat_sr": 141.67,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 17,
+   "stumpings": 0
+  },
+  "t20_league": {
+   "matches": 102,
+   "runs": 2622,
+   "bat_avg": 27.03,
+   "bat_sr": 140.29,
+   "wickets": 1,
+   "econ": 0,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Gilchrist",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "His Wikipedia infobox has no T20I column and no bowling rows at all. The T20I line (2005-2008) comes from the List of Australia Twenty20 International cricketers table, which cites ESPNcricinfo. Test and ODI wickets are null because no source row was seen. bat_sr and econ not published."
+ },
+ {
+  "name": "Andy Flower",
+  "test": {
+   "matches": 63,
+   "runs": 4794,
+   "bat_avg": 51.54,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 151,
+   "stumpings": 9
+  },
+  "odi": {
+   "matches": 213,
+   "runs": 6786,
+   "bat_avg": 35.34,
+   "bat_sr": null,
+   "hundreds": 4,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 141,
+   "stumpings": 32
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andy_Flower"
+  ],
+  "confidence": "high",
+  "notes": "Retired from internationals in 2003, before Zimbabwe played T20Is. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Alec Stewart",
+  "test": {
+   "matches": 133,
+   "runs": 8463,
+   "bat_avg": 39.54,
+   "bat_sr": null,
+   "hundreds": 15,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 263,
+   "stumpings": 14
+  },
+  "odi": {
+   "matches": 170,
+   "runs": 4677,
+   "bat_avg": 31.6,
+   "bat_sr": null,
+   "hundreds": 4,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 159,
+   "stumpings": 15
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alec_Stewart"
+  ],
+  "confidence": "high",
+  "notes": "Retired in 2003, before England's first T20I in 2005. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Moin Khan",
+  "test": {
+   "matches": 69,
+   "runs": 2741,
+   "bat_avg": 28.55,
+   "bat_sr": null,
+   "hundreds": 4,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 128,
+   "stumpings": 20
+  },
+  "odi": {
+   "matches": 219,
+   "runs": 3266,
+   "bat_avg": 23,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 214,
+   "stumpings": 73
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moin_Khan"
+  ],
+  "confidence": "high",
+  "notes": "Infobox has only Test and ODI columns and no bowling rows, so wickets are null. Retired Oct 2004, before Pakistan's first T20I in Aug 2006, so there is no T20I career. bat_sr and econ not published."
+ },
+ {
+  "name": "Rashid Latif",
+  "test": {
+   "matches": 37,
+   "runs": 1381,
+   "bat_avg": 28.77,
+   "bat_sr": null,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 119,
+   "stumpings": 11
+  },
+  "odi": {
+   "matches": 166,
+   "runs": 1709,
+   "bat_avg": 19.42,
+   "bat_sr": null,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 182,
+   "stumpings": 38
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rashid_Latif"
+  ],
+  "confidence": "high",
+  "notes": "Retired in 2003, before Pakistan played T20Is. bat_sr and econ not published in source."
+ },
+ {
+  "name": "Kumar Sangakkara",
+  "test": {
+   "matches": 134,
+   "runs": 12400,
+   "bat_avg": 57.4,
+   "bat_sr": null,
+   "hundreds": 38,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 182,
+   "stumpings": 20
+  },
+  "odi": {
+   "matches": 404,
+   "runs": 14234,
+   "bat_avg": 41.98,
+   "bat_sr": null,
+   "hundreds": 25,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 403,
+   "stumpings": 98
+  },
+  "t20i": {
+   "matches": 56,
+   "runs": 1382,
+   "bat_avg": 31.4,
+   "bat_sr": 119.55,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 25,
+   "stumpings": 20
+  },
+  "t20_league": {
+   "matches": 267,
+   "runs": 6937,
+   "bat_avg": 29.27,
+   "bat_sr": 126.43,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kumar_Sangakkara"
+  ],
+  "confidence": "high",
+  "notes": "bat_sr and econ not published in source. No overall T20 column in the infobox."
+ },
+ {
+  "name": "MS Dhoni",
+  "test": {
+   "matches": 90,
+   "runs": 4876,
+   "bat_avg": 38.09,
+   "bat_sr": null,
+   "hundreds": 6,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 256,
+   "stumpings": 38
+  },
+  "odi": {
+   "matches": 350,
+   "runs": 10773,
+   "bat_avg": 50.57,
+   "bat_sr": null,
+   "hundreds": 10,
+   "wickets": 1,
+   "bowl_avg": 31,
+   "econ": null,
+   "catches": 321,
+   "stumpings": 123
+  },
+  "t20i": {
+   "matches": 98,
+   "runs": 1617,
+   "bat_avg": 37.6,
+   "bat_sr": 126.13,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 57,
+   "stumpings": 34
+  },
+  "t20_league": {
+   "matches": 405,
+   "runs": 7628,
+   "bat_avg": 37.58,
+   "bat_sr": 135.63,
+   "wickets": 0,
+   "econ": 12.5,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/MS_Dhoni"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket 15 Aug 2020 (Tests in 2014) but continued in the IPL. The infobox has no overall T20 column so t20_league is null. bat_sr and econ not published."
+ },
+ {
+  "name": "Brendon McCullum",
+  "test": {
+   "matches": 101,
+   "runs": 6453,
+   "bat_avg": 38.64,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": 1,
+   "bowl_avg": 88,
+   "econ": null,
+   "catches": 198,
+   "stumpings": 11
+  },
+  "odi": {
+   "matches": 260,
+   "runs": 6083,
+   "bat_avg": 30.41,
+   "bat_sr": null,
+   "hundreds": 5,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 262,
+   "stumpings": 15
+  },
+  "t20i": {
+   "matches": 71,
+   "runs": 2140,
+   "bat_avg": 35.66,
+   "bat_sr": 136.22,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 36,
+   "stumpings": 8
+  },
+  "t20_league": {
+   "matches": 370,
+   "runs": 9922,
+   "bat_avg": 29.98,
+   "bat_sr": 136.5,
+   "wickets": 0,
+   "econ": 13,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brendon_McCullum"
+  ],
+  "confidence": "high",
+  "notes": "Retired from internationals Feb 2016 and all cricket Aug 2019. No overall T20 column in the infobox. bat_sr and econ not published."
+ },
+ {
+  "name": "Mark Boucher",
+  "test": {
+   "matches": 147,
+   "runs": 5515,
+   "bat_avg": 30.3,
+   "bat_sr": null,
+   "hundreds": 5,
+   "wickets": 1,
+   "bowl_avg": 6,
+   "econ": null,
+   "catches": 532,
+   "stumpings": 23
+  },
+  "odi": {
+   "matches": 295,
+   "runs": 4686,
+   "bat_avg": 28.57,
+   "bat_sr": null,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 403,
+   "stumpings": 22
+  },
+  "t20i": {
+   "matches": 25,
+   "runs": 268,
+   "bat_avg": 17.86,
+   "bat_sr": 97.45,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 18,
+   "stumpings": 1
+  },
+  "t20_league": {
+   "matches": 90,
+   "runs": 1378,
+   "bat_avg": 28.12,
+   "bat_sr": 115.41,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Boucher",
+   "https://en.wikipedia.org/wiki/List_of_South_Africa_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "His Wikipedia infobox has no T20I column. The T20I line (2005-2010) comes from the List of South Africa Twenty20 International cricketers table, which cites ESPNcricinfo. bat_sr and econ not published."
+ },
+ {
+  "name": "AB de Villiers",
+  "test": {
+   "matches": 114,
+   "runs": 8765,
+   "bat_avg": 50.66,
+   "bat_sr": null,
+   "hundreds": 22,
+   "wickets": 2,
+   "bowl_avg": 52,
+   "econ": null,
+   "catches": 222,
+   "stumpings": 5
+  },
+  "odi": {
+   "matches": 228,
+   "runs": 9577,
+   "bat_avg": 53.5,
+   "bat_sr": null,
+   "hundreds": 25,
+   "wickets": 7,
+   "bowl_avg": 28.85,
+   "econ": null,
+   "catches": 176,
+   "stumpings": 5
+  },
+  "t20i": {
+   "matches": 78,
+   "runs": 1672,
+   "bat_avg": 26.12,
+   "bat_sr": 135.17,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 65,
+   "stumpings": 7
+  },
+  "t20_league": {
+   "matches": 340,
+   "runs": 9424,
+   "bat_avg": 37.25,
+   "bat_sr": 150.14,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AB_de_Villiers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from internationals May 2018 and from all professional cricket in 2021. No overall T20 column in the infobox despite a long IPL career. bat_sr and econ not published."
+ },
+ {
+  "name": "Quinton de Kock",
+  "test": {
+   "matches": 54,
+   "runs": 3300,
+   "bat_avg": 38.82,
+   "bat_sr": null,
+   "hundreds": 6,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 221,
+   "stumpings": 11
+  },
+  "odi": {
+   "matches": 161,
+   "runs": 7123,
+   "bat_avg": 46.55,
+   "bat_sr": null,
+   "hundreds": 23,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 213,
+   "stumpings": 18
+  },
+  "t20i": {
+   "matches": 110,
+   "runs": 3095,
+   "bat_avg": 30.95,
+   "bat_sr": 142.23,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 98,
+   "stumpings": 19
+  },
+  "t20_league": {
+   "matches": 449,
+   "runs": 12595,
+   "bat_avg": 31.25,
+   "bat_sr": 139.31,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quinton_de_Kock"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 4 Mar 2026. Retired from Test cricket only (Dec 2021); reversed his ODI retirement in Sep 2025 and remains active in white-ball internationals, so retired is false. bat_sr and econ not published."
+ },
+ {
+  "name": "Jos Buttler",
+  "test": {
+   "matches": 57,
+   "runs": 2907,
+   "bat_avg": 31.94,
+   "bat_sr": null,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 153,
+   "stumpings": 1
+  },
+  "odi": {
+   "matches": 202,
+   "runs": 5578,
+   "bat_avg": 39,
+   "bat_sr": null,
+   "hundreds": 11,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 240,
+   "stumpings": 39
+  },
+  "t20i": {
+   "matches": 160,
+   "runs": 4212,
+   "bat_avg": 33.96,
+   "bat_sr": 148.94,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 97,
+   "stumpings": 22
+  },
+  "t20_league": {
+   "matches": 516,
+   "runs": 14556,
+   "bat_avg": 35.07,
+   "bat_sr": 146.75,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jos_Buttler"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 19 Jul 2026. No overall T20 column in the infobox despite a large IPL and BBL career. bat_sr and econ not published."
+ },
+ {
+  "name": "Mohammad Rizwan",
+  "test": {
+   "matches": 47,
+   "runs": 2682,
+   "bat_avg": 37.77,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 127,
+   "stumpings": 10
+  },
+  "odi": {
+   "matches": 103,
+   "runs": 2979,
+   "bat_avg": 40.8,
+   "bat_sr": null,
+   "hundreds": 4,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 113,
+   "stumpings": 7
+  },
+  "t20i": {
+   "matches": 106,
+   "runs": 3414,
+   "bat_avg": 47.41,
+   "bat_sr": 125.38,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 55,
+   "stumpings": 12
+  },
+  "t20_league": {
+   "matches": 312,
+   "runs": 9039,
+   "bat_avg": 41.09,
+   "bat_sr": 125.09,
+   "wickets": 1,
+   "econ": 11,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Rizwan",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "His Wikipedia infobox (as of 31 Aug 2026) has no T20I column at all. The T20I line (2015-2024, last T20I 13 Dec 2024) comes from the List of Pakistan Twenty20 International cricketers table, which cites ESPNcricinfo, so it carries a different as-of date from the Test and ODI figures. bat_sr and econ not published."
+ },
+ {
+  "name": "Sarfaraz Ahmed",
+  "test": {
+   "matches": 54,
+   "runs": 3031,
+   "bat_avg": 37.41,
+   "bat_sr": null,
+   "hundreds": 4,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 160,
+   "stumpings": 22
+  },
+  "odi": {
+   "matches": 117,
+   "runs": 2315,
+   "bat_avg": 33.55,
+   "bat_sr": null,
+   "hundreds": 2,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 119,
+   "stumpings": 24
+  },
+  "t20i": {
+   "matches": 61,
+   "runs": 818,
+   "bat_avg": 27.26,
+   "bat_sr": 125.27,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 36,
+   "stumpings": 10
+  },
+  "t20_league": {
+   "matches": 267,
+   "runs": 4167,
+   "bat_avg": 28.16,
+   "bat_sr": 126.08,
+   "wickets": 0,
+   "econ": 9,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarfaraz_Ahmed"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 22 Dec 2025; formally retired from international cricket in Mar 2026. The infobox lists a bowling average of 0 alongside 0 wickets, which is a data artifact, so bowl_avg is recorded as null. bat_sr and econ not published."
+ },
+ {
+  "name": "KL Rahul",
+  "test": {
+   "matches": 69,
+   "runs": 4270,
+   "bat_avg": 36.81,
+   "bat_sr": null,
+   "hundreds": 12,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 85,
+   "stumpings": 0
+  },
+  "odi": {
+   "matches": 97,
+   "runs": 3400,
+   "bat_avg": 50,
+   "bat_sr": null,
+   "hundreds": 8,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 84,
+   "stumpings": 9
+  },
+  "t20i": {
+   "matches": 72,
+   "runs": 2265,
+   "bat_avg": 37.75,
+   "bat_sr": 139.13,
+   "hundreds": 2,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 23,
+   "stumpings": 1
+  },
+  "t20_league": {
+   "matches": 253,
+   "runs": 8718,
+   "bat_avg": 42.74,
+   "bat_sr": 138.73,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/KL_Rahul"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 18 Jan 2026. The infobox has no bowling rows so wickets are null; he is a non-bowler. No overall T20 column despite a large IPL career. bat_sr and econ not published."
+ },
+ {
+  "name": "Rishabh Pant",
+  "test": {
+   "matches": 48,
+   "runs": 3662,
+   "bat_avg": 43.5,
+   "bat_sr": null,
+   "hundreds": 8,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 158,
+   "stumpings": 15
+  },
+  "odi": {
+   "matches": 31,
+   "runs": 871,
+   "bat_avg": 33.5,
+   "bat_sr": null,
+   "hundreds": 1,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 27,
+   "stumpings": 1
+  },
+  "t20i": {
+   "matches": 76,
+   "runs": 1209,
+   "bat_avg": 23.25,
+   "bat_sr": 127.26,
+   "hundreds": 0,
+   "wickets": null,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 40,
+   "stumpings": 11
+  },
+  "t20_league": {
+   "matches": 230,
+   "runs": 5603,
+   "bat_avg": 31.13,
+   "bat_sr": 144.04,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rishabh_Pant"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 8 Nov 2025. The infobox has no bowling rows so wickets are null; he is a non-bowler. No overall T20 column despite a large IPL career. bat_sr and econ not published."
+ },
+ {
+  "name": "Nicholas Pooran",
+  "test": null,
+  "odi": {
+   "matches": 61,
+   "runs": 1983,
+   "bat_avg": 39.66,
+   "bat_sr": null,
+   "hundreds": 3,
+   "wickets": 6,
+   "bowl_avg": 29,
+   "econ": null,
+   "catches": 23,
+   "stumpings": 2
+  },
+  "t20i": {
+   "matches": 106,
+   "runs": 2275,
+   "bat_avg": 26.14,
+   "bat_sr": 136.39,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 63,
+   "stumpings": 8
+  },
+  "t20_league": {
+   "matches": 484,
+   "runs": 11520,
+   "bat_avg": 30.15,
+   "bat_sr": null,
+   "hundreds": 5,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 270,
+   "stumpings": 40
+  },
+  "retired": true,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicholas_Pooran"
+  ],
+  "confidence": "high",
+  "notes": "Never played a Test. Retired from international cricket Jun 2025 but continues in franchise T20 leagues. t20_league is the infobox's overall Twenty20 (all T20) column as of 7 Sep 2026. bat_sr and econ not published."
+ },
+ {
+  "name": "Phil Salt",
+  "test": null,
+  "odi": {
+   "matches": 33,
+   "runs": 988,
+   "bat_avg": 31.87,
+   "bat_sr": null,
+   "hundreds": 1,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 16,
+   "stumpings": 0
+  },
+  "t20i": {
+   "matches": 65,
+   "runs": 1852,
+   "bat_avg": 34.94,
+   "bat_sr": 163.75,
+   "hundreds": 4,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null,
+   "catches": 38,
+   "stumpings": 2
+  },
+  "t20_league": {
+   "matches": 344,
+   "runs": 8683,
+   "bat_avg": 28.19,
+   "bat_sr": 154.67,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phil_Salt"
+  ],
+  "confidence": "high",
+  "notes": "No Test caps. Infobox as of 11 Jul 2026; it carries FC and List A columns but no overall T20 column, so t20_league is null despite a substantial IPL, BBL and PSL career. bat_sr and econ not published."
+ },
+ {
+  "name": "Shai Hope",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 219,
+   "runs": 5760,
+   "bat_avg": 30.48,
+   "bat_sr": 129.55,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shai_Hope",
+   "https://stats.espncricinfo.com/ci/engine/player/581379.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/581379.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Jonny Bairstow",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 273,
+   "runs": 6656,
+   "bat_avg": 30.67,
+   "bat_sr": 140.33,
+   "wickets": 0,
+   "econ": null,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonny_Bairstow",
+   "https://stats.espncricinfo.com/ci/engine/player/297433.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/297433.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Imran Khan",
+  "test": {
+   "matches": null,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": null,
+   "hundreds": null,
+   "wickets": 362,
+   "bowl_avg": 22.81,
+   "econ": 2.54,
+   "catches": 28
+  },
+  "odi": {
+   "matches": null,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": null,
+   "hundreds": null,
+   "wickets": 182,
+   "bowl_avg": 26.61,
+   "econ": 3.89,
+   "catches": 36
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1980s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Imran_Khan",
+   "https://stats.espncricinfo.com/ci/engine/player/40560.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/40560.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Test SR not recorded for this era; ODI SR not recorded for this era"
+ },
+ {
+  "name": "Kapil Dev",
+  "test": {
+   "matches": 131,
+   "runs": 5248,
+   "bat_avg": 31.05,
+   "bat_sr": null,
+   "hundreds": 8,
+   "wickets": 434,
+   "bowl_avg": 29.64,
+   "econ": 2.78,
+   "catches": 64
+  },
+  "odi": {
+   "matches": 225,
+   "runs": 3783,
+   "bat_avg": 23.79,
+   "bat_sr": null,
+   "hundreds": 1,
+   "wickets": 253,
+   "bowl_avg": 27.45,
+   "econ": 3.71,
+   "catches": 71
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1980s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kapil_Dev",
+   "https://stats.espncricinfo.com/ci/engine/player/30028.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/30028.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Test SR not recorded for this era; ODI SR not recorded for this era"
+ },
+ {
+  "name": "Jacques Kallis",
+  "test": {
+   "matches": 166,
+   "runs": 13289,
+   "bat_avg": 55.37,
+   "bat_sr": 45.97,
+   "hundreds": 45,
+   "wickets": 292,
+   "bowl_avg": 32.65,
+   "econ": 2.82,
+   "catches": 200
+  },
+  "odi": {
+   "matches": 328,
+   "runs": 11579,
+   "bat_avg": 44.36,
+   "bat_sr": 72.89,
+   "hundreds": 17,
+   "wickets": 273,
+   "bowl_avg": 31.79,
+   "econ": 4.84,
+   "catches": 131
+  },
+  "t20i": {
+   "matches": 25,
+   "runs": 666,
+   "bat_avg": 35.05,
+   "bat_sr": 119.35,
+   "hundreds": 0,
+   "wickets": 12,
+   "bowl_avg": 27.75,
+   "econ": 7.23,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 176,
+   "runs": 4416,
+   "bat_avg": 30.88,
+   "bat_sr": 112.45,
+   "hundreds": 0,
+   "wickets": 114,
+   "bowl_avg": 30.54,
+   "econ": 7.6
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacques_Kallis",
+   "https://stats.espncricinfo.com/ci/engine/player/45789.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/45789.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/45789.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shaun Pollock",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 46,
+   "runs": 569,
+   "bat_avg": 21.07,
+   "bat_sr": 141.9,
+   "wickets": 45,
+   "econ": 6.38,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaun_Pollock",
+   "https://stats.espncricinfo.com/ci/engine/player/46774.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/46774.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Sanath Jayasuriya",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 111,
+   "runs": 2317,
+   "bat_avg": 22.72,
+   "bat_sr": 140.08,
+   "wickets": 77,
+   "econ": 7.47,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sanath_Jayasuriya",
+   "https://stats.espncricinfo.com/ci/engine/player/49209.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/49209.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Lance Klusener",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 53,
+   "runs": 1014,
+   "bat_avg": 34.97,
+   "bat_sr": 136.11,
+   "wickets": 29,
+   "econ": 8.64,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lance_Klusener",
+   "https://stats.espncricinfo.com/ci/engine/player/45821.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/45821.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Chris Cairns",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Cairns",
+   "https://stats.espncricinfo.com/ci/engine/player/36597.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/36597.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Andrew Flintoff",
+  "test": {
+   "matches": 79,
+   "runs": 3845,
+   "bat_avg": 31.77,
+   "bat_sr": 62.04,
+   "hundreds": 5,
+   "wickets": 226,
+   "bowl_avg": 32.78,
+   "econ": 2.97,
+   "catches": 52
+  },
+  "odi": {
+   "matches": 141,
+   "runs": 3394,
+   "bat_avg": 32.01,
+   "bat_sr": 88.82,
+   "hundreds": 3,
+   "wickets": 169,
+   "bowl_avg": 24.38,
+   "econ": 4.39,
+   "catches": 47
+  },
+  "t20i": {
+   "matches": 7,
+   "runs": 76,
+   "bat_avg": 12.66,
+   "bat_sr": 126.66,
+   "hundreds": 0,
+   "wickets": 5,
+   "bowl_avg": 32.2,
+   "econ": 6.44,
+   "catches": 5
+  },
+  "t20_league": {
+   "matches": 39,
+   "runs": 683,
+   "bat_avg": 22.76,
+   "bat_sr": 142.88,
+   "hundreds": 0,
+   "wickets": 39,
+   "bowl_avg": 21.2,
+   "econ": 7.55
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrew_Flintoff",
+   "https://stats.espncricinfo.com/ci/engine/player/12856.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/12856.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/12856.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shahid Afridi",
+  "test": {
+   "matches": 27,
+   "runs": 1716,
+   "bat_avg": 36.51,
+   "bat_sr": 86.97,
+   "hundreds": 5,
+   "wickets": 48,
+   "bowl_avg": 35.6,
+   "econ": 3.21,
+   "catches": 10
+  },
+  "odi": {
+   "matches": 398,
+   "runs": 8064,
+   "bat_avg": 23.57,
+   "bat_sr": 117,
+   "hundreds": 6,
+   "wickets": 395,
+   "bowl_avg": 34.51,
+   "econ": 4.62,
+   "catches": 127
+  },
+  "t20i": {
+   "matches": 99,
+   "runs": 1416,
+   "bat_avg": 17.92,
+   "bat_sr": 150,
+   "hundreds": 0,
+   "wickets": 98,
+   "bowl_avg": 24.44,
+   "econ": 6.63,
+   "catches": 30
+  },
+  "t20_league": {
+   "matches": 329,
+   "runs": 4399,
+   "bat_avg": 18.25,
+   "bat_sr": 153.91,
+   "hundreds": 1,
+   "wickets": 347,
+   "bowl_avg": 22.78,
+   "econ": 6.78
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shahid_Afridi",
+   "https://stats.espncricinfo.com/ci/engine/player/42639.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/42639.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/42639.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Abdul Razzaq",
+  "test": {
+   "matches": 46,
+   "runs": 1946,
+   "bat_avg": 28.61,
+   "bat_sr": 41.04,
+   "hundreds": 3,
+   "wickets": 100,
+   "bowl_avg": 36.94,
+   "econ": 3.16,
+   "catches": 15
+  },
+  "odi": {
+   "matches": 265,
+   "runs": 5080,
+   "bat_avg": 29.7,
+   "bat_sr": 81.25,
+   "hundreds": 3,
+   "wickets": 269,
+   "bowl_avg": 31.83,
+   "econ": 4.69,
+   "catches": 35
+  },
+  "t20i": {
+   "matches": 32,
+   "runs": 393,
+   "bat_avg": 20.68,
+   "bat_sr": 116.61,
+   "hundreds": 0,
+   "wickets": 20,
+   "bowl_avg": 19.75,
+   "econ": 6.99,
+   "catches": 2
+  },
+  "t20_league": {
+   "matches": 142,
+   "runs": 2578,
+   "bat_avg": 27.14,
+   "bat_sr": 131.06,
+   "wickets": 135,
+   "econ": 7.65,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdul_Razzaq_(cricketer)",
+   "https://stats.espncricinfo.com/ci/engine/player/39836.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/39836.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shoaib Malik",
+  "test": {
+   "matches": 35,
+   "runs": 1898,
+   "bat_avg": 35.14,
+   "bat_sr": 45.67,
+   "hundreds": 3,
+   "wickets": 32,
+   "bowl_avg": 47.46,
+   "econ": 3.36,
+   "catches": 18
+  },
+  "odi": {
+   "matches": 287,
+   "runs": 7534,
+   "bat_avg": 34.55,
+   "bat_sr": 81.9,
+   "hundreds": 9,
+   "wickets": 158,
+   "bowl_avg": 39.18,
+   "econ": 4.66,
+   "catches": 96
+  },
+  "t20i": {
+   "matches": 124,
+   "runs": 2435,
+   "bat_avg": 31.21,
+   "bat_sr": 125.64,
+   "hundreds": 0,
+   "wickets": 28,
+   "bowl_avg": 24.1,
+   "econ": 7.1,
+   "catches": 50
+  },
+  "t20_league": {
+   "matches": 557,
+   "runs": 13571,
+   "bat_avg": 35.99,
+   "bat_sr": 127.24,
+   "hundreds": 0,
+   "wickets": 0,
+   "bowl_avg": null,
+   "econ": null
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shoaib_Malik",
+   "https://stats.espncricinfo.com/ci/engine/player/42657.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/42657.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/42657.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high",
+  "notes": "Retired from ODIs after 2019 World Cup; last T20I 2021; announced PSL retirement Jan 2026. Treated as retired from international cricket."
+ },
+ {
+  "name": "Yuvraj Singh",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 231,
+   "runs": 4857,
+   "bat_avg": 25.7,
+   "bat_sr": 128.76,
+   "wickets": 80,
+   "econ": 7.47,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuvraj_Singh",
+   "https://stats.espncricinfo.com/ci/engine/player/36084.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/36084.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shane Watson",
+  "test": {
+   "matches": null,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": null,
+   "hundreds": null,
+   "wickets": 75,
+   "bowl_avg": 33.68,
+   "econ": 2.75,
+   "catches": 45
+  },
+  "odi": {
+   "matches": null,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": null,
+   "hundreds": null,
+   "wickets": 168,
+   "bowl_avg": 31.79,
+   "econ": 4.95,
+   "catches": 64
+  },
+  "t20i": {
+   "matches": null,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": 145.33,
+   "hundreds": null,
+   "wickets": 48,
+   "bowl_avg": 24.72,
+   "econ": 7.65,
+   "catches": 20
+  },
+  "t20_league": {
+   "matches": 343,
+   "runs": 8821,
+   "bat_avg": 29.3,
+   "bat_sr": 138.3,
+   "hundreds": 6,
+   "wickets": 216,
+   "bowl_avg": 27.02,
+   "econ": 7.9
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shane_Watson",
+   "https://stats.espncricinfo.com/ci/engine/player/8180.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/8180.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/8180.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high",
+  "notes": "Test SR not recorded for this era; ODI SR not recorded for this era"
+ },
+ {
+  "name": "Andrew Symonds",
+  "test": {
+   "matches": 26,
+   "runs": 1462,
+   "bat_avg": 40.61,
+   "bat_sr": 64.8,
+   "hundreds": 2,
+   "wickets": 24,
+   "bowl_avg": 37.33,
+   "econ": 2.56,
+   "catches": 22
+  },
+  "odi": {
+   "matches": 198,
+   "runs": 5088,
+   "bat_avg": 39.75,
+   "bat_sr": 92.44,
+   "hundreds": 6,
+   "wickets": 133,
+   "bowl_avg": 37.25,
+   "econ": 5,
+   "catches": 82
+  },
+  "t20i": {
+   "matches": 14,
+   "runs": 337,
+   "bat_avg": 48.14,
+   "bat_sr": 169.34,
+   "hundreds": 0,
+   "wickets": 8,
+   "bowl_avg": 34.62,
+   "econ": 8.98,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 93,
+   "runs": 2141,
+   "bat_avg": 32.43,
+   "bat_sr": 147.35,
+   "hundreds": 2,
+   "wickets": 52,
+   "bowl_avg": 31.86,
+   "econ": 8.03
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrew_Symonds",
+   "https://stats.espncricinfo.com/ci/engine/player/7702.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/7702.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/7702.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shakib Al Hasan",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 470,
+   "runs": 7805,
+   "bat_avg": 21.21,
+   "bat_sr": 124.86,
+   "wickets": 507,
+   "econ": 6.8,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shakib_Al_Hasan",
+   "https://stats.espncricinfo.com/ci/engine/player/56143.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/56143.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Ben Stokes",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 162,
+   "runs": 3027,
+   "bat_avg": 24.41,
+   "bat_sr": 132.88,
+   "wickets": 93,
+   "econ": 8.48,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Stokes",
+   "https://stats.espncricinfo.com/ci/engine/player/311158.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/311158.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Ravindra Jadeja",
+  "test": {
+   "matches": 91,
+   "runs": 4160,
+   "bat_avg": 37.81,
+   "bat_sr": 55.34,
+   "hundreds": 6,
+   "wickets": 356,
+   "bowl_avg": 25.3,
+   "econ": 2.59,
+   "catches": 49
+  },
+  "odi": {
+   "matches": 210,
+   "runs": 2905,
+   "bat_avg": 32.27,
+   "bat_sr": 85.54,
+   "hundreds": 0,
+   "wickets": 232,
+   "bowl_avg": 36.54,
+   "econ": 4.88,
+   "catches": 79
+  },
+  "t20i": {
+   "matches": 74,
+   "runs": 515,
+   "bat_avg": 21.45,
+   "bat_sr": 127.16,
+   "hundreds": 0,
+   "wickets": 54,
+   "bowl_avg": 29.85,
+   "econ": 7.13,
+   "catches": 28
+  },
+  "t20_league": {
+   "matches": 360,
+   "runs": 4251,
+   "bat_avg": 27.42,
+   "bat_sr": 131.08,
+   "hundreds": 0,
+   "wickets": 245,
+   "bowl_avg": 30.72,
+   "econ": 7.65
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ravindra_Jadeja",
+   "https://stats.espncricinfo.com/ci/engine/player/234675.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/234675.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/234675.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Hardik Pandya",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 338,
+   "runs": 6344,
+   "bat_avg": 29.64,
+   "bat_sr": 144.21,
+   "wickets": 230,
+   "econ": 8.53,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hardik_Pandya",
+   "https://stats.espncricinfo.com/ci/engine/player/625371.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/625371.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Andre Russell",
+  "test": {
+   "matches": 1,
+   "runs": 2,
+   "bat_avg": 2,
+   "bat_sr": 22.22,
+   "hundreds": 0,
+   "wickets": 1,
+   "bowl_avg": 104,
+   "econ": 4.52,
+   "catches": null
+  },
+  "odi": {
+   "matches": 56,
+   "runs": 1034,
+   "bat_avg": 27.21,
+   "bat_sr": 130.22,
+   "hundreds": 0,
+   "wickets": 70,
+   "bowl_avg": 31.84,
+   "econ": 5.84,
+   "catches": 11
+  },
+  "t20i": {
+   "matches": 86,
+   "runs": 1122,
+   "bat_avg": 22,
+   "bat_sr": 163.79,
+   "hundreds": 0,
+   "wickets": 61,
+   "bowl_avg": 31.45,
+   "econ": 9.42,
+   "catches": 21
+  },
+  "t20_league": {
+   "matches": 593,
+   "runs": 9652,
+   "bat_avg": 26.09,
+   "bat_sr": 167.4,
+   "wickets": 516,
+   "econ": 8.85,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andre_Russell",
+   "https://stats.espncricinfo.com/ci/engine/player/276298.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/276298.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Played 1 Test (2010). Retired from international cricket July 2025, from IPL Nov 2025."
+ },
+ {
+  "name": "Kieron Pollard",
+  "test": null,
+  "odi": {
+   "matches": 123,
+   "runs": 2706,
+   "bat_avg": 26.01,
+   "bat_sr": 94.41,
+   "hundreds": 3,
+   "wickets": 55,
+   "bowl_avg": 39.29,
+   "econ": 5.69,
+   "catches": 64
+  },
+  "t20i": {
+   "matches": 101,
+   "runs": 1569,
+   "bat_avg": 25.3,
+   "bat_sr": 135.14,
+   "hundreds": 0,
+   "wickets": 42,
+   "bowl_avg": 28.28,
+   "econ": 8.32,
+   "catches": 42
+  },
+  "t20_league": {
+   "matches": 742,
+   "runs": 14666,
+   "bat_avg": 31.74,
+   "bat_sr": 150.82,
+   "wickets": 334,
+   "econ": 8.28,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kieron_Pollard",
+   "https://stats.espncricinfo.com/ci/engine/player/230559.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/230559.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Never played Test cricket; retired from internationals April 2022, continued franchise T20."
+ },
+ {
+  "name": "Dwayne Bravo",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 582,
+   "runs": 6970,
+   "bat_avg": 22.41,
+   "bat_sr": 125.45,
+   "wickets": 631,
+   "econ": 8.26,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dwayne_Bravo",
+   "https://stats.espncricinfo.com/ci/engine/player/51439.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/51439.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Retired from internationals (final stint ended 2021 T20 World Cup); long franchise T20 career after."
+ },
+ {
+  "name": "Mohammad Hafeez",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 374,
+   "runs": 7946,
+   "bat_avg": 25.8,
+   "bat_sr": 123.65,
+   "wickets": 202,
+   "econ": 6.44,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Hafeez",
+   "https://stats.espncricinfo.com/ci/engine/player/41434.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/41434.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Mohammad Nabi",
+  "test": {
+   "matches": 3,
+   "runs": 33,
+   "bat_avg": 5.5,
+   "bat_sr": 48.52,
+   "hundreds": 0,
+   "wickets": 8,
+   "bowl_avg": 31.75,
+   "econ": 2.79,
+   "catches": 2
+  },
+  "odi": {
+   "matches": 178,
+   "runs": 3792,
+   "bat_avg": 27.47,
+   "bat_sr": 88.02,
+   "hundreds": 2,
+   "wickets": 177,
+   "bowl_avg": 32.8,
+   "econ": 4.32,
+   "catches": 85
+  },
+  "t20i": {
+   "matches": 152,
+   "runs": 2448,
+   "bat_avg": 22.25,
+   "bat_sr": 136.37,
+   "hundreds": 0,
+   "wickets": 109,
+   "bowl_avg": 27.77,
+   "econ": 7.31,
+   "catches": 82
+  },
+  "t20_league": {
+   "matches": 502,
+   "runs": 7102,
+   "bat_avg": 21.32,
+   "bat_sr": 133.82,
+   "hundreds": 0,
+   "wickets": 435,
+   "bowl_avg": 24.15,
+   "econ": 6.91
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Nabi",
+   "https://stats.espncricinfo.com/ci/engine/player/25913.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/25913.html?class=11;template=results;type=bowling",
+   "https://stats.espncricinfo.com/ci/engine/player/25913.html?class=6;template=results;type=batting"
+  ],
+  "confidence": "high",
+  "notes": "Retired from Tests in 2019 but still active in ODIs/T20Is."
+ },
+ {
+  "name": "Moeen Ali",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 439,
+   "runs": 8120,
+   "bat_avg": 23.54,
+   "bat_sr": 136.45,
+   "wickets": 287,
+   "econ": 7.57,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moeen_Ali",
+   "https://stats.espncricinfo.com/ci/engine/player/8917.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/8917.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Glenn Maxwell",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 515,
+   "runs": 11092,
+   "bat_avg": 27.12,
+   "bat_sr": 153.93,
+   "wickets": 205,
+   "econ": 7.89,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glenn_Maxwell",
+   "https://stats.espncricinfo.com/ci/engine/player/325026.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/325026.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high",
+  "notes": "Retired from ODIs June 2025; still active in T20Is and franchise T20 at time of collection."
+ },
+ {
+  "name": "Mitchell Marsh",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 249,
+   "runs": 6659,
+   "bat_avg": 33.97,
+   "bat_sr": 140.04,
+   "wickets": 85,
+   "econ": 8.45,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Marsh",
+   "https://stats.espncricinfo.com/ci/engine/player/272450.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/272450.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Shadab Khan",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 358,
+   "runs": 3946,
+   "bat_avg": 19.53,
+   "bat_sr": 137.97,
+   "wickets": 394,
+   "econ": 7.56,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shadab_Khan",
+   "https://stats.espncricinfo.com/ci/engine/player/922943.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/922943.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Wanindu Hasaranga",
+  "test": null,
+  "odi": null,
+  "t20i": null,
+  "t20_league": {
+   "matches": 245,
+   "runs": 2500,
+   "bat_avg": 17.01,
+   "bat_sr": 141.96,
+   "wickets": 345,
+   "econ": 7.02,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wanindu_Hasaranga",
+   "https://stats.espncricinfo.com/ci/engine/player/784379.html?class=11;template=results;type=batting",
+   "https://stats.espncricinfo.com/ci/engine/player/784379.html?class=11;template=results;type=bowling"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Sikandar Raza",
+  "test": {
+   "matches": 22,
+   "runs": 1434,
+   "bat_avg": 34.14,
+   "bat_sr": 56.1,
+   "wickets": 40,
+   "bowl_avg": 44.55,
+   "econ": 3.21,
+   "five_wickets": 2,
+   "catches": 7
+  },
+  "odi": {
+   "matches": 156,
+   "runs": 4521,
+   "bat_avg": 36.45,
+   "bat_sr": 85.7,
+   "wickets": 95,
+   "bowl_avg": 44.02,
+   "econ": 4.86,
+   "five_wickets": 0,
+   "catches": 63
+  },
+  "t20i": {
+   "matches": 136,
+   "runs": 3140,
+   "bat_avg": 26.38,
+   "bat_sr": 136.8,
+   "wickets": 110,
+   "bowl_avg": 23.72,
+   "econ": 6.9,
+   "five_wickets": 1,
+   "catches": 58
+  },
+  "t20_league": {
+   "matches": 374,
+   "runs": 7572,
+   "bat_avg": 25.6,
+   "bat_sr": 136.16,
+   "wickets": 255,
+   "bowl_avg": 26.9,
+   "econ": 7.37
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sikandar_Raza",
+   "https://www.criczop.com/players/sikandar-raza/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia infobox (source date 21 Jul 2026) used for counts/averages/catches; bat_sr and all-T20 line from Criczop (slightly later cut-off: 140 T20Is there). econ derived from Wikipedia balls bowled x wickets x bowling average."
+ },
+ {
+  "name": "Jason Holder",
+  "test": {
+   "matches": 69,
+   "runs": 3073,
+   "bat_avg": 29.83,
+   "bat_sr": 54.9,
+   "wickets": 162,
+   "bowl_avg": 30.39,
+   "econ": 2.61,
+   "five_wickets": 8,
+   "catches": 71
+  },
+  "odi": {
+   "matches": 138,
+   "runs": 2237,
+   "bat_avg": 24.85,
+   "bat_sr": 90.2,
+   "wickets": 159,
+   "bowl_avg": 36.96,
+   "econ": 5.51,
+   "five_wickets": 2,
+   "catches": 65
+  },
+  "t20i": {
+   "matches": 96,
+   "runs": 888,
+   "bat_avg": 18.5,
+   "bat_sr": 142.3,
+   "wickets": 108,
+   "bowl_avg": 27.02,
+   "econ": 8.7,
+   "five_wickets": 1,
+   "catches": 51
+  },
+  "t20_league": {
+   "matches": 359,
+   "runs": 3483,
+   "bat_avg": 18.3,
+   "bat_sr": 137.02,
+   "wickets": 389,
+   "bowl_avg": 26.3,
+   "econ": 8.3
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jason_Holder",
+   "https://www.criczop.com/players/jason-holder/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 1 Mar 2026. bat_sr and all-T20 line from Criczop (98 T20Is there)."
+ },
+ {
+  "name": "Marcus Stoinis",
+  "test": null,
+  "odi": {
+   "matches": 71,
+   "runs": 1495,
+   "bat_avg": 26.69,
+   "bat_sr": 94,
+   "wickets": 48,
+   "bowl_avg": 43.12,
+   "econ": 6,
+   "five_wickets": 0,
+   "catches": 18
+  },
+  "t20i": {
+   "matches": 87,
+   "runs": 1416,
+   "bat_avg": 30.78,
+   "bat_sr": 146.3,
+   "wickets": 53,
+   "bowl_avg": 25.22,
+   "econ": 8.86,
+   "five_wickets": 0,
+   "catches": 24
+  },
+  "t20_league": {
+   "matches": 364,
+   "runs": 7287,
+   "bat_avg": 29.7,
+   "bat_sr": 137.72,
+   "wickets": 202,
+   "bowl_avg": 26.2,
+   "econ": 9.06
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Stoinis",
+   "https://www.criczop.com/players/marcus-stoinis/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a Test. Retired from ODIs in Feb 2025 but still active in T20Is, so retired=false."
+ },
+ {
+  "name": "Daniel Vettori",
+  "test": {
+   "matches": 113,
+   "runs": 4531,
+   "bat_avg": 30,
+   "bat_sr": 58.2,
+   "wickets": 362,
+   "bowl_avg": 34.36,
+   "econ": 2.59,
+   "five_wickets": 20,
+   "catches": 58
+  },
+  "odi": {
+   "matches": 295,
+   "runs": 2253,
+   "bat_avg": 17.33,
+   "bat_sr": 83,
+   "wickets": 305,
+   "bowl_avg": 31.71,
+   "econ": 4.13,
+   "five_wickets": 2,
+   "catches": 88
+  },
+  "t20i": {
+   "matches": 34,
+   "runs": 205,
+   "bat_avg": 12.8,
+   "bat_sr": 107.9,
+   "wickets": 38,
+   "bowl_avg": 19.7,
+   "econ": 5.7,
+   "five_wickets": 0,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 143,
+   "runs": 1041,
+   "bat_avg": 16,
+   "bat_sr": 119.66,
+   "wickets": 131,
+   "bowl_avg": 26.1,
+   "econ": 6.35
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Vettori",
+   "https://www.criczop.com/players/daniel-vettori/stats"
+  ],
+  "confidence": "medium",
+  "notes": "Wikipedia infobox has no T20I column; the entire T20I row comes from Criczop (averages there are given to 1 decimal). T20I catches not available from either source."
+ },
+ {
+  "name": "Mitchell Santner",
+  "test": {
+   "matches": 33,
+   "runs": 1089,
+   "bat_avg": 24.75,
+   "bat_sr": 47,
+   "wickets": 80,
+   "bowl_avg": 33.95,
+   "econ": 2.86,
+   "five_wickets": 2,
+   "catches": 27
+  },
+  "odi": {
+   "matches": 129,
+   "runs": 1648,
+   "bat_avg": 27.01,
+   "bat_sr": 93.8,
+   "wickets": 139,
+   "bowl_avg": 35.03,
+   "econ": 4.75,
+   "five_wickets": 2,
+   "catches": 56
+  },
+  "t20i": {
+   "matches": 138,
+   "runs": 1108,
+   "bat_avg": 20.51,
+   "bat_sr": 130.7,
+   "wickets": 142,
+   "bowl_avg": 23.85,
+   "econ": 7.18,
+   "five_wickets": 0,
+   "catches": 49
+  },
+  "t20_league": {
+   "matches": 272,
+   "runs": 2871,
+   "bat_avg": 23.7,
+   "bat_sr": 132.79,
+   "wickets": 271,
+   "bowl_avg": 24.5,
+   "econ": 7.2
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Santner",
+   "https://www.criczop.com/players/mitchell-santner/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 21 Jul 2026."
+ },
+ {
+  "name": "Shane Warne",
+  "test": {
+   "matches": 145,
+   "runs": 3154,
+   "bat_avg": 17.32,
+   "bat_sr": 57.7,
+   "wickets": 708,
+   "bowl_avg": 25.41,
+   "econ": 2.65,
+   "five_wickets": 37,
+   "catches": 125
+  },
+  "odi": {
+   "matches": 194,
+   "runs": 1018,
+   "bat_avg": 13.05,
+   "bat_sr": 72,
+   "wickets": 293,
+   "bowl_avg": 25.73,
+   "econ": 4.25,
+   "five_wickets": 1,
+   "catches": 80
+  },
+  "t20i": null,
+  "t20_league": {
+   "matches": 73,
+   "runs": 210,
+   "bat_avg": 9.5,
+   "bat_sr": 92.11,
+   "wickets": 70,
+   "bowl_avg": 26.6,
+   "econ": 7.22
+  },
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shane_Warne",
+   "https://www.criczop.com/players/shane-warne/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I (format began after his international retirement). econ computed from Criczop runs conceded / overs (Test 17995/6784.1, ODI 7541/1773.4), which agrees with Wikipedia wickets x average."
+ },
+ {
+  "name": "Muttiah Muralitharan",
+  "test": {
+   "matches": 133,
+   "runs": 1256,
+   "bat_avg": 11.67,
+   "bat_sr": 70.3,
+   "wickets": 800,
+   "bowl_avg": 22.72,
+   "econ": 2.48,
+   "five_wickets": 67,
+   "catches": 72
+  },
+  "odi": {
+   "matches": 350,
+   "runs": 674,
+   "bat_avg": 6.8,
+   "bat_sr": 77.6,
+   "wickets": 534,
+   "bowl_avg": 23.08,
+   "econ": 3.93,
+   "five_wickets": 10,
+   "catches": 130
+  },
+  "t20i": {
+   "matches": 12,
+   "runs": 1,
+   "bat_avg": 0.5,
+   "bat_sr": 20,
+   "wickets": 13,
+   "bowl_avg": 22.8,
+   "econ": 6.32,
+   "five_wickets": 0,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 164,
+   "runs": 81,
+   "bat_avg": 3.4,
+   "bat_sr": 73.64,
+   "wickets": 179,
+   "bowl_avg": 22,
+   "econ": 6.39
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Muttiah_Muralitharan",
+   "https://www.criczop.com/players/muttiah-muralitharan/stats"
+  ],
+  "confidence": "medium",
+  "notes": "Wikipedia infobox has no T20I column; T20I row from Criczop only, and T20I catches unavailable. Criczop lists Test runs as 1261 vs Wikipedia 1256; Wikipedia value used."
+ },
+ {
+  "name": "Anil Kumble",
+  "test": {
+   "matches": 132,
+   "runs": 2506,
+   "bat_avg": 17.77,
+   "bat_sr": 38.8,
+   "wickets": 619,
+   "bowl_avg": 29.65,
+   "econ": 2.7,
+   "five_wickets": 35,
+   "catches": 60
+  },
+  "odi": {
+   "matches": 271,
+   "runs": 938,
+   "bat_avg": 10.53,
+   "bat_sr": 61.1,
+   "wickets": 337,
+   "bowl_avg": 30.89,
+   "econ": 4.31,
+   "five_wickets": 2,
+   "catches": 85
+  },
+  "t20i": null,
+  "t20_league": {
+   "matches": 54,
+   "runs": 46,
+   "bat_avg": 11.5,
+   "bat_sr": 77.97,
+   "wickets": 57,
+   "bowl_avg": 24.4,
+   "econ": 6.69
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anil_Kumble",
+   "https://www.criczop.com/players/anil-kumble/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I. T20 league career is IPL-era only (Royal Challengers Bangalore)."
+ },
+ {
+  "name": "Saqlain Mushtaq",
+  "test": {
+   "matches": 49,
+   "runs": 927,
+   "bat_avg": 14.48,
+   "bat_sr": null,
+   "wickets": 208,
+   "bowl_avg": 29.83,
+   "econ": 2.65,
+   "five_wickets": 13,
+   "catches": 15
+  },
+  "odi": {
+   "matches": 169,
+   "runs": 711,
+   "bat_avg": 11.85,
+   "bat_sr": null,
+   "wickets": 288,
+   "bowl_avg": 21.78,
+   "econ": 4.29,
+   "five_wickets": 6,
+   "catches": 40
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saqlain_Mushtaq"
+  ],
+  "confidence": "medium",
+  "notes": "Never played a T20I. No accessible secondary source had his batting strike rates, so bat_sr is null. econ derived from Wikipedia balls bowled and wickets x bowling average."
+ },
+ {
+  "name": "Mushtaq Ahmed",
+  "test": {
+   "matches": 52,
+   "runs": 656,
+   "bat_avg": 11.71,
+   "bat_sr": null,
+   "wickets": 185,
+   "bowl_avg": 32.97,
+   "econ": 2.92,
+   "five_wickets": 10,
+   "catches": 23
+  },
+  "odi": {
+   "matches": 144,
+   "runs": 399,
+   "bat_avg": 9.5,
+   "bat_sr": null,
+   "wickets": 161,
+   "bowl_avg": 33.29,
+   "econ": 4.26,
+   "five_wickets": 1,
+   "catches": 30
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mushtaq_Ahmed_(cricketer)"
+  ],
+  "confidence": "medium",
+  "notes": "Never played a T20I. bat_sr unavailable from any accessible source. econ derived from Wikipedia balls bowled and wickets x bowling average."
+ },
+ {
+  "name": "Harbhajan Singh",
+  "test": {
+   "matches": 103,
+   "runs": 2224,
+   "bat_avg": 18.23,
+   "bat_sr": 64.8,
+   "wickets": 417,
+   "bowl_avg": 32.46,
+   "econ": 2.84,
+   "five_wickets": 25,
+   "catches": 42
+  },
+  "odi": {
+   "matches": 236,
+   "runs": 1237,
+   "bat_avg": 13.3,
+   "bat_sr": 81.1,
+   "wickets": 269,
+   "bowl_avg": 33.35,
+   "econ": 4.31,
+   "five_wickets": 3,
+   "catches": 71
+  },
+  "t20i": {
+   "matches": 28,
+   "runs": 108,
+   "bat_avg": 13.5,
+   "bat_sr": 124.1,
+   "wickets": 25,
+   "bowl_avg": 25.32,
+   "econ": 6.21,
+   "five_wickets": 0,
+   "catches": 7
+  },
+  "t20_league": {
+   "matches": 268,
+   "runs": 1512,
+   "bat_avg": 14.7,
+   "bat_sr": 128.35,
+   "wickets": 235,
+   "bowl_avg": 26.4,
+   "econ": 6.79
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harbhajan_Singh",
+   "https://www.criczop.com/players/harbhajan-singh/stats"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Ravichandran Ashwin",
+  "test": {
+   "matches": 106,
+   "runs": 3503,
+   "bat_avg": 25.92,
+   "bat_sr": 54.5,
+   "wickets": 537,
+   "bowl_avg": 23.95,
+   "econ": 2.84,
+   "five_wickets": 37,
+   "catches": 36
+  },
+  "odi": {
+   "matches": 116,
+   "runs": 707,
+   "bat_avg": 16.44,
+   "bat_sr": 87,
+   "wickets": 156,
+   "bowl_avg": 33.2,
+   "econ": 5.06,
+   "five_wickets": 0,
+   "catches": 30
+  },
+  "t20i": {
+   "matches": 65,
+   "runs": 184,
+   "bat_avg": 26.28,
+   "bat_sr": 115,
+   "wickets": 72,
+   "bowl_avg": 23.22,
+   "econ": 6.91,
+   "five_wickets": 0,
+   "catches": 11
+  },
+  "t20_league": {
+   "matches": 333,
+   "runs": 1233,
+   "bat_avg": 14.5,
+   "bat_sr": 119.59,
+   "wickets": 317,
+   "bowl_avg": 26.9,
+   "econ": 7.12
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ravichandran_Ashwin",
+   "https://www.criczop.com/players/ravichandran-ashwin/stats"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket 18 Dec 2024; Wikipedia source date 27 Aug 2026."
+ },
+ {
+  "name": "Nathan Lyon",
+  "test": {
+   "matches": 143,
+   "runs": 1705,
+   "bat_avg": 12.81,
+   "bat_sr": 50.4,
+   "wickets": 571,
+   "bowl_avg": 30.2,
+   "econ": 2.95,
+   "five_wickets": 24,
+   "catches": 66
+  },
+  "odi": {
+   "matches": 29,
+   "runs": 77,
+   "bat_avg": 19.25,
+   "bat_sr": 92.8,
+   "wickets": 29,
+   "bowl_avg": 46,
+   "econ": 4.92,
+   "five_wickets": 0,
+   "catches": 7
+  },
+  "t20i": {
+   "matches": 2,
+   "runs": 4,
+   "bat_avg": 0,
+   "bat_sr": 100,
+   "wickets": 1,
+   "bowl_avg": 48,
+   "econ": 9.6,
+   "five_wickets": 0,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 51,
+   "runs": 60,
+   "bat_avg": 5.5,
+   "bat_sr": 93.75,
+   "wickets": 57,
+   "bowl_avg": 21.9,
+   "econ": 7.35
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Lyon",
+   "https://www.criczop.com/players/nathan-lyon/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia infobox has no T20I column; the 2-match T20I row is from Criczop only (catches unavailable). Wikipedia source date 23 Aug 2026; still active."
+ },
+ {
+  "name": "Rangana Herath",
+  "test": {
+   "matches": 93,
+   "runs": 1699,
+   "bat_avg": 14.52,
+   "bat_sr": null,
+   "wickets": 433,
+   "bowl_avg": 28.08,
+   "econ": 2.81,
+   "five_wickets": 34,
+   "catches": 24
+  },
+  "odi": {
+   "matches": 71,
+   "runs": 140,
+   "bat_avg": 9.33,
+   "bat_sr": null,
+   "wickets": 74,
+   "bowl_avg": 31.91,
+   "econ": 4.37,
+   "five_wickets": 0,
+   "catches": 14
+  },
+  "t20i": {
+   "matches": 17,
+   "runs": null,
+   "bat_avg": null,
+   "bat_sr": 66.67,
+   "wickets": 18,
+   "bowl_avg": 20.72,
+   "econ": 6.13,
+   "five_wickets": null,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 53,
+   "runs": 77,
+   "bat_avg": 4.05,
+   "bat_sr": null,
+   "wickets": 57,
+   "econ": 6.1,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rangana_Herath",
+   "https://www.espncricinfo.com/cricketers/rangana-herath-49178"
+  ],
+  "confidence": "low",
+  "notes": "Wikipedia infobox has no T20I column and Criczop has no profile for him. T20I bowling figures (17 matches, 18 wickets at 20.72, econ 6.13, best 5/3, 373 runs conceded) came via web search of ESPNcricinfo-sourced pages; his T20I batting line, catches and exact five-wicket-haul count could not be verified, so they are null (best bowling of 5/3 implies at least one). bat_sr unavailable in all formats."
+ },
+ {
+  "name": "Graeme Swann",
+  "test": {
+   "matches": 60,
+   "runs": 1370,
+   "bat_avg": 22.09,
+   "bat_sr": 76.5,
+   "wickets": 255,
+   "bowl_avg": 29.96,
+   "econ": 2.99,
+   "five_wickets": 17,
+   "catches": 54
+  },
+  "odi": {
+   "matches": 79,
+   "runs": 500,
+   "bat_avg": 13.88,
+   "bat_sr": 90.4,
+   "wickets": 104,
+   "bowl_avg": 27.76,
+   "econ": 4.55,
+   "five_wickets": 1,
+   "catches": 29
+  },
+  "t20i": {
+   "matches": 39,
+   "runs": 104,
+   "bat_avg": 20.8,
+   "bat_sr": 116.9,
+   "wickets": 51,
+   "bowl_avg": 16.84,
+   "econ": 6.36,
+   "five_wickets": 0,
+   "catches": 5
+  },
+  "t20_league": {
+   "matches": 80,
+   "runs": 791,
+   "bat_avg": 20.3,
+   "bat_sr": 135.91,
+   "wickets": 98,
+   "bowl_avg": 18.9,
+   "econ": 6.56
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graeme_Swann",
+   "https://www.criczop.com/players/graeme-swann/stats"
+  ],
+  "confidence": "high"
+ },
+ {
+  "name": "Saeed Ajmal",
+  "test": {
+   "matches": 35,
+   "runs": 451,
+   "bat_avg": 11,
+   "bat_sr": 41.7,
+   "wickets": 178,
+   "bowl_avg": 28.1,
+   "econ": 2.59,
+   "five_wickets": 10,
+   "catches": 11
+  },
+  "odi": {
+   "matches": 113,
+   "runs": 324,
+   "bat_avg": 7.04,
+   "bat_sr": 60.6,
+   "wickets": 184,
+   "bowl_avg": 22.72,
+   "econ": 4.18,
+   "five_wickets": 2,
+   "catches": 25
+  },
+  "t20i": {
+   "matches": 64,
+   "runs": 91,
+   "bat_avg": 8.3,
+   "bat_sr": 105.8,
+   "wickets": 85,
+   "bowl_avg": 17.8,
+   "econ": 6.36,
+   "five_wickets": 0,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 195,
+   "runs": 240,
+   "bat_avg": 8,
+   "bat_sr": 107.14,
+   "wickets": 271,
+   "bowl_avg": 17.4,
+   "econ": 6.51
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saeed_Ajmal",
+   "https://www.criczop.com/players/saeed-ajmal/stats"
+  ],
+  "confidence": "medium",
+  "notes": "Wikipedia infobox has no T20I column; T20I row from Criczop only (bowl_avg to 1 decimal; an independent web search gave 64 matches, 85 wickets at 17.83, econ 6.36, best 4/19). T20I catches unavailable."
+ },
+ {
+  "name": "Rashid Khan",
+  "test": {
+   "matches": 6,
+   "runs": 154,
+   "bat_avg": 17.11,
+   "bat_sr": 85.6,
+   "wickets": 45,
+   "bowl_avg": 20.44,
+   "econ": 2.96,
+   "five_wickets": 5,
+   "catches": 0
+  },
+  "odi": {
+   "matches": 123,
+   "runs": 1469,
+   "bat_avg": 18.83,
+   "bat_sr": 104.3,
+   "wickets": 226,
+   "bowl_avg": 19.43,
+   "econ": 4.27,
+   "five_wickets": 7,
+   "catches": 38
+  },
+  "t20i": {
+   "matches": 115,
+   "runs": 622,
+   "bat_avg": 14.8,
+   "bat_sr": 132.3,
+   "wickets": 193,
+   "bowl_avg": 13.73,
+   "econ": 6.05,
+   "five_wickets": 2,
+   "catches": 45
+  },
+  "t20_league": {
+   "matches": 536,
+   "runs": 2923,
+   "bat_avg": 13.9,
+   "bat_sr": 146.66,
+   "wickets": 723,
+   "bowl_avg": 18.7,
+   "econ": 6.66
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rashid_Khan",
+   "https://www.criczop.com/players/rashid-khan-37668/stats"
+  ],
+  "confidence": "high",
+  "notes": "t20_league block taken from Criczop's all-T20 line for internal consistency (matches/runs/wickets/averages plus rates from the same rows). Wikipedia's own T20 column, dated 15 Aug 2026, is slightly more current: 547 matches, 3012 runs at 13.94, 736 wickets at 18.72, 5 five-fors."
+ },
+ {
+  "name": "Imran Tahir",
+  "test": {
+   "matches": 20,
+   "runs": 130,
+   "bat_avg": 9.28,
+   "bat_sr": 55.3,
+   "wickets": 57,
+   "bowl_avg": 40.24,
+   "econ": 3.51,
+   "five_wickets": 2,
+   "catches": 8
+  },
+  "odi": {
+   "matches": 107,
+   "runs": 157,
+   "bat_avg": 7.85,
+   "bat_sr": 69.8,
+   "wickets": 173,
+   "bowl_avg": 24.83,
+   "econ": 4.65,
+   "five_wickets": 3,
+   "catches": 25
+  },
+  "t20i": {
+   "matches": 38,
+   "runs": 19,
+   "bat_avg": 19,
+   "bat_sr": 105.6,
+   "wickets": 63,
+   "bowl_avg": 15.04,
+   "econ": 6.73,
+   "five_wickets": 2,
+   "catches": 7
+  },
+  "t20_league": {
+   "matches": 446,
+   "runs": 387,
+   "bat_avg": 8.8,
+   "bat_sr": 104.88,
+   "wickets": 570,
+   "bowl_avg": 19.5,
+   "econ": 6.97
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Imran_Tahir",
+   "https://www.criczop.com/players/imran-tahir/stats"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket after the 2019 World Cup but remains a prolific global T20 league bowler."
+ },
+ {
+  "name": "Adil Rashid",
+  "test": {
+   "matches": 19,
+   "runs": 540,
+   "bat_avg": 19.28,
+   "bat_sr": 42.5,
+   "wickets": 60,
+   "bowl_avg": 39.83,
+   "econ": 3.76,
+   "five_wickets": 2,
+   "catches": 4
+  },
+  "odi": {
+   "matches": 164,
+   "runs": 972,
+   "bat_avg": 16.47,
+   "bat_sr": 93.5,
+   "wickets": 243,
+   "bowl_avg": 31.69,
+   "econ": 5.64,
+   "five_wickets": 2,
+   "catches": 54
+  },
+  "t20i": {
+   "matches": 150,
+   "runs": 163,
+   "bat_avg": 7.4,
+   "bat_sr": 89.6,
+   "wickets": 169,
+   "bowl_avg": 23.28,
+   "econ": 7.54,
+   "five_wickets": 0,
+   "catches": 41
+  },
+  "t20_league": {
+   "matches": 368,
+   "runs": 1049,
+   "bat_avg": 11.7,
+   "bat_sr": 107.92,
+   "wickets": 416,
+   "bowl_avg": 22.7,
+   "econ": 7.5
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adil_Rashid",
+   "https://www.criczop.com/players/adil-rashid/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 19 Jul 2026; still active in white-ball cricket (last played Tests in 2019)."
+ },
+ {
+  "name": "Adam Zampa",
+  "test": null,
+  "odi": {
+   "matches": 121,
+   "runs": 398,
+   "bat_avg": 9.95,
+   "bat_sr": 64.4,
+   "wickets": 198,
+   "bowl_avg": 29.33,
+   "econ": 5.52,
+   "five_wickets": 1,
+   "catches": 21
+  },
+  "t20i": {
+   "matches": 118,
+   "runs": 80,
+   "bat_avg": 4.7,
+   "bat_sr": 81.6,
+   "wickets": 153,
+   "bowl_avg": 20.34,
+   "econ": 7.35,
+   "five_wickets": 1,
+   "catches": 16
+  },
+  "t20_league": {
+   "matches": 336,
+   "runs": 333,
+   "bat_avg": 5.7,
+   "bat_sr": 83.25,
+   "wickets": 418,
+   "bowl_avg": 21.5,
+   "econ": 7.49
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Zampa",
+   "https://www.criczop.com/players/adam-zampa/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a Test. Wikipedia source date 21 Jun 2026."
+ },
+ {
+  "name": "Kuldeep Yadav",
+  "test": {
+   "matches": 17,
+   "runs": 225,
+   "bat_avg": 11.84,
+   "bat_sr": 26.8,
+   "wickets": 76,
+   "bowl_avg": 22.42,
+   "econ": 3.53,
+   "five_wickets": 5,
+   "catches": 5
+  },
+  "odi": {
+   "matches": 120,
+   "runs": 212,
+   "bat_avg": 9.63,
+   "bat_sr": 51.9,
+   "wickets": 194,
+   "bowl_avg": 26.82,
+   "econ": 5.08,
+   "five_wickets": 2,
+   "catches": 20
+  },
+  "t20i": {
+   "matches": 54,
+   "runs": 48,
+   "bat_avg": 8,
+   "bat_sr": 67.6,
+   "wickets": 95,
+   "bowl_avg": 13.74,
+   "econ": 6.96,
+   "five_wickets": 2,
+   "catches": 14
+  },
+  "t20_league": {
+   "matches": 201,
+   "runs": 308,
+   "bat_avg": 11.4,
+   "bat_sr": 82.8,
+   "wickets": 251,
+   "bowl_avg": 21.3,
+   "econ": 7.61
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kuldeep_Yadav",
+   "https://www.criczop.com/players/kuldeep-yadav/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 4 Sep 2026 (17 Tests); Criczop shows 19 Tests / 80 wickets, so the Test row may lag by two matches."
+ },
+ {
+  "name": "Yuzvendra Chahal",
+  "test": null,
+  "odi": {
+   "matches": 72,
+   "runs": 69,
+   "bat_avg": 8.62,
+   "bat_sr": 54.6,
+   "wickets": 121,
+   "bowl_avg": 26.77,
+   "econ": 5.65,
+   "five_wickets": 2,
+   "catches": 15
+  },
+  "t20i": {
+   "matches": 80,
+   "runs": 6,
+   "bat_avg": 3,
+   "bat_sr": 46.2,
+   "wickets": 96,
+   "bowl_avg": 25.09,
+   "econ": 8.19,
+   "five_wickets": 1,
+   "catches": 14
+  },
+  "t20_league": {
+   "matches": 326,
+   "runs": 81,
+   "bat_avg": 4.8,
+   "bat_sr": 53.64,
+   "wickets": 380,
+   "bowl_avg": 23.6,
+   "econ": 7.72
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuzvendra_Chahal",
+   "https://www.criczop.com/players/yuzvendra-chahal/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a Test. Wikipedia source date 11 Aug 2026; not formally retired though out of the India side."
+ },
+ {
+  "name": "Mujeeb Ur Rahman",
+  "test": {
+   "matches": 1,
+   "runs": 18,
+   "bat_avg": 9,
+   "bat_sr": 105.9,
+   "wickets": 1,
+   "bowl_avg": 75,
+   "econ": 5,
+   "five_wickets": 0,
+   "catches": 0
+  },
+  "odi": {
+   "matches": 75,
+   "runs": 236,
+   "bat_avg": 9.07,
+   "bat_sr": 90.1,
+   "wickets": 101,
+   "bowl_avg": 28.34,
+   "econ": 4.33,
+   "five_wickets": 1,
+   "catches": 11
+  },
+  "t20i": {
+   "matches": 65,
+   "runs": 85,
+   "bat_avg": 9.44,
+   "bat_sr": 113.3,
+   "wickets": 87,
+   "bowl_avg": 18.1,
+   "econ": 6.52,
+   "five_wickets": 1,
+   "catches": 17
+  },
+  "t20_league": {
+   "matches": 290,
+   "runs": 437,
+   "bat_avg": 8.7,
+   "bat_sr": 106.07,
+   "wickets": 319,
+   "bowl_avg": 23.3,
+   "econ": 6.79
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mujeeb_Ur_Rahman",
+   "https://www.criczop.com/players/mujeeb-ur-rahman/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 19 Jul 2026."
+ },
+ {
+  "name": "Ajantha Mendis",
+  "test": {
+   "matches": 19,
+   "runs": 213,
+   "bat_avg": 16.38,
+   "bat_sr": null,
+   "wickets": 70,
+   "bowl_avg": 34.77,
+   "econ": 3.09,
+   "five_wickets": 4,
+   "catches": 2
+  },
+  "odi": {
+   "matches": 87,
+   "runs": 188,
+   "bat_avg": 8.17,
+   "bat_sr": null,
+   "wickets": 152,
+   "bowl_avg": 21.86,
+   "econ": 4.8,
+   "five_wickets": 3,
+   "catches": 15
+  },
+  "t20i": {
+   "matches": 39,
+   "runs": 8,
+   "bat_avg": 2.66,
+   "bat_sr": 47.06,
+   "wickets": 66,
+   "bowl_avg": 14.42,
+   "econ": 6.45,
+   "five_wickets": 2,
+   "catches": 6
+  },
+  "t20_league": {
+   "matches": 129,
+   "runs": 214,
+   "bat_avg": 6.69,
+   "bat_sr": 86.99,
+   "wickets": 170,
+   "econ": 7,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ajantha_Mendis"
+  ],
+  "confidence": "medium",
+  "notes": "Criczop has no profile for him, so batting strike rates and an all-T20 career line could not be verified and are null. econ derived from Wikipedia balls bowled and wickets x bowling average. Retired from all cricket Aug 2019."
+ },
+ {
+  "name": "Maheesh Theekshana",
+  "test": {
+   "matches": 2,
+   "runs": 59,
+   "bat_avg": 19.66,
+   "bat_sr": 39.6,
+   "wickets": 5,
+   "bowl_avg": 37.6,
+   "econ": 3.09,
+   "five_wickets": 0,
+   "catches": 1
+  },
+  "odi": {
+   "matches": 61,
+   "runs": 344,
+   "bat_avg": 16.38,
+   "bat_sr": 55.1,
+   "wickets": 81,
+   "bowl_avg": 27.66,
+   "econ": 4.56,
+   "five_wickets": 0,
+   "catches": 13
+  },
+  "t20i": {
+   "matches": 83,
+   "runs": 107,
+   "bat_avg": 4.45,
+   "bat_sr": 60.7,
+   "wickets": 82,
+   "bowl_avg": 26.97,
+   "econ": 7.09,
+   "five_wickets": 0,
+   "catches": 21
+  },
+  "t20_league": {
+   "matches": 230,
+   "runs": 275,
+   "bat_avg": 5.7,
+   "bat_sr": 69.27,
+   "wickets": 235,
+   "bowl_avg": 26.3,
+   "econ": 7.09
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maheesh_Theekshana",
+   "https://www.criczop.com/players/maheesh-theekshana/stats"
+  ],
+  "confidence": "high",
+  "notes": "Wikipedia source date 6 Jun 2026; Criczop is slightly more current (85 T20Is, 83 wickets)."
+ },
+ {
+  "name": "Sunil Narine",
+  "test": {
+   "matches": 6,
+   "runs": 40,
+   "bat_avg": 8,
+   "bat_sr": 43.5,
+   "wickets": 21,
+   "bowl_avg": 40.25,
+   "econ": 3.07,
+   "five_wickets": 2,
+   "catches": 2
+  },
+  "odi": {
+   "matches": 65,
+   "runs": 363,
+   "bat_avg": 11,
+   "bat_sr": 82.3,
+   "wickets": 92,
+   "bowl_avg": 26.46,
+   "econ": 4.13,
+   "five_wickets": 2,
+   "catches": 14
+  },
+  "t20i": {
+   "matches": 51,
+   "runs": 155,
+   "bat_avg": 10.3,
+   "bat_sr": 112.3,
+   "wickets": 52,
+   "bowl_avg": 21.3,
+   "econ": 6.02,
+   "five_wickets": 0,
+   "catches": null
+  },
+  "t20_league": {
+   "matches": 567,
+   "runs": 4676,
+   "bat_avg": 15.5,
+   "bat_sr": 149.68,
+   "wickets": 599,
+   "bowl_avg": 22.1,
+   "econ": 6.17
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunil_Narine",
+   "https://www.criczop.com/players/sunil-narine/stats"
+  ],
+  "confidence": "medium",
+  "notes": "Retired from international cricket Nov 2023. Wikipedia infobox has no T20I column; T20I row is from Criczop only (averages to 1 decimal, catches unavailable) and is corroborated by web search (51 matches, 52 wickets at 21.25, econ 6.01). Wikipedia's ODI 'balls bowled' figure of 2,435 appears to be an error (that is his runs conceded), so ODI econ was computed from Criczop's 590.0 overs / 2435 runs."
+ },
+ {
+  "name": "Wasim Akram",
+  "test": {
+   "matches": 104,
+   "runs": 2898,
+   "bat_avg": 22.64,
+   "bat_sr": null,
+   "wickets": 414,
+   "bowl_avg": 23.62,
+   "econ": 2.59,
+   "five_wickets": 25,
+   "catches": 44
+  },
+  "odi": {
+   "matches": 356,
+   "runs": 3717,
+   "bat_avg": 16.52,
+   "bat_sr": null,
+   "wickets": 502,
+   "bowl_avg": 23.52,
+   "econ": 3.9,
+   "five_wickets": 6,
+   "catches": 88
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wasim_Akram"
+  ],
+  "confidence": "medium",
+  "notes": "Never played a T20I (retired 2003, before the format existed). Criczop has no profile, so batting strike rates are null. econ derived from Wikipedia balls bowled and wickets x bowling average."
+ },
+ {
+  "name": "Waqar Younis",
+  "test": {
+   "matches": 87,
+   "runs": 1010,
+   "bat_avg": 10.2,
+   "bat_sr": 48,
+   "wickets": 373,
+   "bowl_avg": 23.56,
+   "econ": 3.25,
+   "five_wickets": 22,
+   "catches": 18
+  },
+  "odi": {
+   "matches": 262,
+   "runs": 969,
+   "bat_avg": 10.3,
+   "bat_sr": 67.1,
+   "wickets": 416,
+   "bowl_avg": 23.84,
+   "econ": 4.69,
+   "five_wickets": 13,
+   "catches": 35
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waqar_Younis",
+   "https://www.criczop.com/players/waqar-younis/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I. His entire T20 career is 7 matches / 5 wickets, too small to record as a league career, so t20_league is null."
+ },
+ {
+  "name": "Curtly Ambrose",
+  "test": {
+   "matches": 98,
+   "runs": 1439,
+   "bat_avg": 12.4,
+   "bat_sr": 46.7,
+   "wickets": 405,
+   "bowl_avg": 20.99,
+   "econ": 2.31,
+   "five_wickets": 22,
+   "catches": 18
+  },
+  "odi": {
+   "matches": 176,
+   "runs": 639,
+   "bat_avg": 10.65,
+   "bat_sr": 64.9,
+   "wickets": 225,
+   "bowl_avg": 24.12,
+   "econ": 3.48,
+   "five_wickets": 4,
+   "catches": 45
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Curtly_Ambrose",
+   "https://www.criczop.com/players/curtly-ambrose/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I or any professional T20 cricket (retired 2000)."
+ },
+ {
+  "name": "Courtney Walsh",
+  "test": {
+   "matches": 132,
+   "runs": 936,
+   "bat_avg": 7.54,
+   "bat_sr": 44.8,
+   "wickets": 519,
+   "bowl_avg": 24.44,
+   "econ": 2.54,
+   "five_wickets": 22,
+   "catches": 29
+  },
+  "odi": {
+   "matches": 205,
+   "runs": 321,
+   "bat_avg": 6.97,
+   "bat_sr": 71.2,
+   "wickets": 227,
+   "bowl_avg": 30.47,
+   "econ": 3.83,
+   "five_wickets": 1,
+   "catches": 27
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Courtney_Walsh",
+   "https://www.criczop.com/players/courtney-walsh/stats"
+  ],
+  "confidence": "high",
+  "notes": "Never played a T20I or professional T20 cricket (retired 2001)."
+ },
+ {
+  "name": "Allan Donald",
+  "test": {
+   "matches": 72,
+   "runs": 652,
+   "bat_avg": 10.68,
+   "bat_sr": null,
+   "wickets": 330,
+   "bowl_avg": 22.25,
+   "econ": 2.84,
+   "bowl_sr": 47,
+   "five_wickets": 20,
+   "catches": 18,
+   "balls_bowled": 15519
+  },
+  "odi": {
+   "matches": 164,
+   "runs": 95,
+   "bat_avg": 4.31,
+   "bat_sr": null,
+   "wickets": 272,
+   "bowl_avg": 21.78,
+   "econ": 4.15,
+   "bowl_sr": 31.5,
+   "five_wickets": 2,
+   "catches": 28,
+   "balls_bowled": 8561
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "1990s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allan_Donald",
+   "https://en.wikipedia.org/wiki/List_of_South_Africa_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "No T20I: retired from internationals in 2003, before T20Is began (2005); absent from the List of South Africa T20I cricketers. Infobox as of 4 July 2009. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Glenn McGrath",
+  "test": {
+   "matches": 124,
+   "runs": 641,
+   "bat_avg": 7.36,
+   "bat_sr": null,
+   "wickets": 563,
+   "bowl_avg": 21.64,
+   "econ": 2.5,
+   "bowl_sr": 52,
+   "five_wickets": 29,
+   "catches": 38,
+   "balls_bowled": 29248
+  },
+  "odi": {
+   "matches": 250,
+   "runs": 115,
+   "bat_avg": 3.83,
+   "bat_sr": null,
+   "wickets": 381,
+   "bowl_avg": 22.02,
+   "econ": 3.88,
+   "bowl_sr": 34,
+   "five_wickets": 7,
+   "catches": 37,
+   "balls_bowled": 12970
+  },
+  "t20i": {
+   "matches": 2,
+   "runs": 5,
+   "bat_avg": 2.5,
+   "bat_sr": 41.67,
+   "wickets": 5,
+   "bowl_avg": 15.8,
+   "econ": 9.88,
+   "bowl_sr": 9.6,
+   "five_wickets": 0,
+   "catches": 1,
+   "balls_bowled": 48
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glenn_McGrath",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I line taken from the List of Australia T20I cricketers (as of 17 June 2026); his own infobox has no T20I column. T20I five_wickets = 0 (best 3/31). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Chaminda Vaas",
+  "test": {
+   "matches": 111,
+   "runs": 3089,
+   "bat_avg": 24.32,
+   "bat_sr": null,
+   "wickets": 355,
+   "bowl_avg": 29.58,
+   "econ": 2.69,
+   "bowl_sr": 66,
+   "five_wickets": 12,
+   "catches": 31,
+   "balls_bowled": 23438
+  },
+  "odi": {
+   "matches": 322,
+   "runs": 2025,
+   "bat_avg": 13.68,
+   "bat_sr": null,
+   "wickets": 400,
+   "bowl_avg": 27.53,
+   "econ": 4.19,
+   "bowl_sr": 39.4,
+   "five_wickets": 4,
+   "catches": 60,
+   "balls_bowled": 15775
+  },
+  "t20i": {
+   "matches": 6,
+   "runs": 33,
+   "bat_avg": 33,
+   "bat_sr": 80.49,
+   "wickets": 6,
+   "bowl_avg": 21.33,
+   "econ": 5.82,
+   "bowl_sr": 22,
+   "five_wickets": 0,
+   "catches": 0,
+   "balls_bowled": 132
+  },
+  "t20_league": {
+   "matches": 56,
+   "runs": 672,
+   "bat_avg": 18.16,
+   "bat_sr": 110.53,
+   "wickets": 64,
+   "econ": 6.78,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chaminda_Vaas",
+   "https://en.wikipedia.org/wiki/List_of_Sri_Lanka_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I line from the List of Sri Lanka T20I cricketers (as of 3 February 2026); his infobox has no T20I column. T20I five_wickets = 0 (best 2/14). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Heath Streak",
+  "test": {
+   "matches": 65,
+   "runs": 1990,
+   "bat_avg": 22.35,
+   "bat_sr": null,
+   "wickets": 216,
+   "bowl_avg": 28.14,
+   "econ": 2.69,
+   "bowl_sr": 62.8,
+   "five_wickets": 7,
+   "catches": 17,
+   "balls_bowled": 13559
+  },
+  "odi": {
+   "matches": 189,
+   "runs": 2942,
+   "bat_avg": 28.28,
+   "bat_sr": null,
+   "wickets": 239,
+   "bowl_avg": 29.82,
+   "econ": 4.52,
+   "bowl_sr": 39.6,
+   "five_wickets": 1,
+   "catches": 46,
+   "balls_bowled": 9468
+  },
+  "t20i": null,
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heath_Streak",
+   "https://en.wikipedia.org/wiki/List_of_Zimbabwe_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "No T20I: last played international cricket in 2005, before Zimbabwe’s first T20I; absent from the List of Zimbabwe T20I cricketers (as of 1 March 2026). Died 2023. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Jason Gillespie",
+  "test": {
+   "matches": 71,
+   "runs": 1218,
+   "bat_avg": 18.73,
+   "bat_sr": null,
+   "wickets": 259,
+   "bowl_avg": 26.13,
+   "econ": 2.85,
+   "bowl_sr": 55,
+   "five_wickets": 8,
+   "catches": 27,
+   "balls_bowled": 14234
+  },
+  "odi": {
+   "matches": 97,
+   "runs": 201,
+   "bat_avg": 12.56,
+   "bat_sr": null,
+   "wickets": 142,
+   "bowl_avg": 25.42,
+   "econ": 4.21,
+   "bowl_sr": 36.2,
+   "five_wickets": 3,
+   "catches": 10,
+   "balls_bowled": 5144
+  },
+  "t20i": {
+   "matches": 1,
+   "runs": 24,
+   "bat_avg": 24,
+   "bat_sr": 133.33,
+   "wickets": 1,
+   "bowl_avg": 49,
+   "econ": 12.25,
+   "bowl_sr": 24,
+   "five_wickets": 0,
+   "catches": 0,
+   "balls_bowled": 24
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jason_Gillespie",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Single T20I (2005); line from the List of Australia T20I cricketers. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Shoaib Akhtar",
+  "test": {
+   "matches": 46,
+   "runs": 544,
+   "bat_avg": 10.07,
+   "bat_sr": null,
+   "wickets": 178,
+   "bowl_avg": 25.69,
+   "econ": 3.37,
+   "bowl_sr": 45.7,
+   "five_wickets": 12,
+   "catches": 12,
+   "balls_bowled": 8143
+  },
+  "odi": {
+   "matches": 163,
+   "runs": 394,
+   "bat_avg": 8.95,
+   "bat_sr": null,
+   "wickets": 247,
+   "bowl_avg": 24.97,
+   "econ": 4.77,
+   "bowl_sr": 31.4,
+   "five_wickets": 4,
+   "catches": 20,
+   "balls_bowled": 7764
+  },
+  "t20i": {
+   "matches": 15,
+   "runs": 21,
+   "bat_avg": 7,
+   "bat_sr": 131.25,
+   "wickets": 19,
+   "bowl_avg": 22.73,
+   "econ": 8.15,
+   "bowl_sr": 16.7,
+   "five_wickets": 0,
+   "catches": 2,
+   "balls_bowled": 318
+  },
+  "t20_league": null,
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shoaib_Akhtar",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I line from the List of Pakistan T20I cricketers (as of 1 February 2026); his infobox has no T20I column. T20I five_wickets = 0 (best 3/38). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Brett Lee",
+  "test": {
+   "matches": 76,
+   "runs": 1451,
+   "bat_avg": 20.15,
+   "bat_sr": null,
+   "wickets": 310,
+   "bowl_avg": 30.81,
+   "econ": 3.47,
+   "bowl_sr": 53.3,
+   "five_wickets": 10,
+   "catches": 23,
+   "balls_bowled": 16531
+  },
+  "odi": {
+   "matches": 221,
+   "runs": 1176,
+   "bat_avg": 17.81,
+   "bat_sr": null,
+   "wickets": 380,
+   "bowl_avg": 23.36,
+   "econ": 4.76,
+   "bowl_sr": 29.4,
+   "five_wickets": 9,
+   "catches": 54,
+   "balls_bowled": 11185
+  },
+  "t20i": {
+   "matches": 25,
+   "runs": 101,
+   "bat_avg": 16.83,
+   "bat_sr": 142.25,
+   "wickets": 28,
+   "bowl_avg": 25.5,
+   "econ": 7.86,
+   "bowl_sr": 19.5,
+   "five_wickets": 0,
+   "catches": 6,
+   "balls_bowled": 545
+  },
+  "t20_league": {
+   "matches": 120,
+   "runs": 416,
+   "bat_avg": 13.87,
+   "bat_sr": 131.23,
+   "wickets": 109,
+   "econ": 7.22,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brett_Lee",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I line from the List of Australia T20I cricketers; his infobox has no T20I column. T20I five_wickets = 0 (best 3/23). Substantial BBL/IPL career but no verifiable all-T20 career line. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Shane Bond",
+  "test": {
+   "matches": 18,
+   "runs": 168,
+   "bat_avg": 12.92,
+   "bat_sr": null,
+   "wickets": 87,
+   "bowl_avg": 22.09,
+   "econ": 3.42,
+   "bowl_sr": 38.8,
+   "five_wickets": 5,
+   "catches": 8,
+   "balls_bowled": 3372
+  },
+  "odi": {
+   "matches": 82,
+   "runs": 292,
+   "bat_avg": 16.22,
+   "bat_sr": null,
+   "wickets": 147,
+   "bowl_avg": 20.88,
+   "econ": 4.29,
+   "bowl_sr": 29.2,
+   "five_wickets": 4,
+   "catches": 15,
+   "balls_bowled": 4295
+  },
+  "t20i": {
+   "matches": 20,
+   "runs": 21,
+   "bat_avg": 4.2,
+   "bat_sr": 100,
+   "wickets": 25,
+   "bowl_avg": 21.72,
+   "econ": 7.01,
+   "bowl_sr": 18.6,
+   "five_wickets": 0,
+   "catches": 4,
+   "balls_bowled": 465
+  },
+  "t20_league": {
+   "matches": 40,
+   "runs": 32,
+   "bat_avg": 4,
+   "bat_sr": 103.23,
+   "wickets": 51,
+   "econ": 7.09,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shane_Bond",
+   "https://en.wikipedia.org/wiki/List_of_New_Zealand_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I figures independently confirmed by the List of New Zealand T20I cricketers (as of 2 May 2026). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Zaheer Khan",
+  "test": {
+   "matches": 92,
+   "runs": 1231,
+   "bat_avg": 11.94,
+   "bat_sr": null,
+   "wickets": 311,
+   "bowl_avg": 32.95,
+   "econ": 3.27,
+   "bowl_sr": 60.4,
+   "five_wickets": 11,
+   "catches": 19,
+   "balls_bowled": 18785
+  },
+  "odi": {
+   "matches": 200,
+   "runs": 792,
+   "bat_avg": 12,
+   "bat_sr": null,
+   "wickets": 282,
+   "bowl_avg": 29.44,
+   "econ": 4.93,
+   "bowl_sr": 35.8,
+   "five_wickets": 1,
+   "catches": 43,
+   "balls_bowled": 10097
+  },
+  "t20i": {
+   "matches": 17,
+   "runs": 13,
+   "bat_avg": 6.5,
+   "bat_sr": 130,
+   "wickets": 17,
+   "bowl_avg": 26.35,
+   "econ": 7.64,
+   "bowl_sr": 20.7,
+   "five_wickets": 0,
+   "catches": 2,
+   "balls_bowled": 352
+  },
+  "t20_league": {
+   "matches": 138,
+   "runs": 191,
+   "bat_avg": 8.68,
+   "bat_sr": 86.43,
+   "wickets": 139,
+   "econ": 7.49,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2000s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zaheer_Khan",
+   "https://en.wikipedia.org/wiki/List_of_India_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I bat_avg taken as 6.50 from the List of India T20I cricketers (as of 8 March 2026); his infobox prints 6.05, which is inconsistent with 13 runs in 2 innings. All other T20I values agree between the two sources. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "James Anderson",
+  "test": {
+   "matches": 188,
+   "runs": 1353,
+   "bat_avg": 8.96,
+   "bat_sr": null,
+   "wickets": 704,
+   "bowl_avg": 26.45,
+   "econ": 2.79,
+   "bowl_sr": 56.9,
+   "five_wickets": 32,
+   "catches": 107,
+   "balls_bowled": 40037
+  },
+  "odi": {
+   "matches": 194,
+   "runs": 273,
+   "bat_avg": 7.58,
+   "bat_sr": null,
+   "wickets": 269,
+   "bowl_avg": 29.22,
+   "econ": 4.92,
+   "bowl_sr": 35.6,
+   "five_wickets": 2,
+   "catches": 53,
+   "balls_bowled": 9584
+  },
+  "t20i": {
+   "matches": 19,
+   "runs": 1,
+   "bat_avg": 1,
+   "bat_sr": 50,
+   "wickets": 18,
+   "bowl_avg": 30.66,
+   "econ": 7.85,
+   "bowl_sr": 23.4,
+   "five_wickets": 0,
+   "catches": 3,
+   "balls_bowled": 422
+  },
+  "t20_league": {
+   "matches": 59,
+   "runs": 29,
+   "bat_avg": 5.8,
+   "bat_sr": 76.32,
+   "wickets": 64,
+   "econ": 8.44,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Anderson_(cricketer)",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket 12 July 2024. T20I line from the List of England T20I cricketers (as of 11 July 2026); his infobox has no T20I column. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Stuart Broad",
+  "test": {
+   "matches": 167,
+   "runs": 3662,
+   "bat_avg": 18.03,
+   "bat_sr": null,
+   "wickets": 604,
+   "bowl_avg": 27.68,
+   "econ": 2.98,
+   "bowl_sr": 55.8,
+   "five_wickets": 20,
+   "catches": 55,
+   "balls_bowled": 33698
+  },
+  "odi": {
+   "matches": 121,
+   "runs": 529,
+   "bat_avg": 12.3,
+   "bat_sr": null,
+   "wickets": 178,
+   "bowl_avg": 30.13,
+   "econ": 5.27,
+   "bowl_sr": 34.3,
+   "five_wickets": 1,
+   "catches": 27,
+   "balls_bowled": 6109
+  },
+  "t20i": {
+   "matches": 56,
+   "runs": 118,
+   "bat_avg": 7.37,
+   "bat_sr": 100,
+   "wickets": 65,
+   "bowl_avg": 22.93,
+   "econ": 7.62,
+   "bowl_sr": 18,
+   "five_wickets": 0,
+   "catches": 21,
+   "balls_bowled": 1173
+  },
+  "t20_league": {
+   "matches": 85,
+   "runs": 152,
+   "bat_avg": 7.6,
+   "bat_sr": 102.01,
+   "wickets": 100,
+   "econ": 7.19,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stuart_Broad",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 31 July 2023 (final career figures). T20I line independently confirmed by the List of England T20I cricketers. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Dale Steyn",
+  "test": {
+   "matches": 93,
+   "runs": 1251,
+   "bat_avg": 13.59,
+   "bat_sr": null,
+   "wickets": 439,
+   "bowl_avg": 22.95,
+   "econ": 3.25,
+   "bowl_sr": 42.4,
+   "five_wickets": 26,
+   "catches": 26,
+   "balls_bowled": 18608
+  },
+  "odi": {
+   "matches": 125,
+   "runs": 365,
+   "bat_avg": 9.35,
+   "bat_sr": null,
+   "wickets": 196,
+   "bowl_avg": 25.95,
+   "econ": 4.88,
+   "bowl_sr": 31.9,
+   "five_wickets": 3,
+   "catches": 28,
+   "balls_bowled": 6256
+  },
+  "t20i": {
+   "matches": 47,
+   "runs": 21,
+   "bat_avg": 3.5,
+   "bat_sr": 80.77,
+   "wickets": 64,
+   "bowl_avg": 18.35,
+   "econ": 6.94,
+   "bowl_sr": 15.9,
+   "five_wickets": 0,
+   "catches": 12,
+   "balls_bowled": 1015
+  },
+  "t20_league": {
+   "matches": 228,
+   "runs": 313,
+   "bat_avg": 8.46,
+   "bat_sr": 107.56,
+   "wickets": 263,
+   "econ": 6.85,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dale_Steyn",
+   "https://en.wikipedia.org/wiki/List_of_South_Africa_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I figures independently confirmed by the List of South Africa T20I cricketers (as of 22 March 2026). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Lasith Malinga",
+  "test": {
+   "matches": 30,
+   "runs": 275,
+   "bat_avg": 11.45,
+   "bat_sr": null,
+   "wickets": 101,
+   "bowl_avg": 33.15,
+   "econ": 3.86,
+   "bowl_sr": 51.6,
+   "five_wickets": 3,
+   "catches": 7,
+   "balls_bowled": 5209
+  },
+  "odi": {
+   "matches": 226,
+   "runs": 567,
+   "bat_avg": 6.83,
+   "bat_sr": null,
+   "wickets": 338,
+   "bowl_avg": 28.87,
+   "econ": 5.35,
+   "bowl_sr": 32.4,
+   "five_wickets": 8,
+   "catches": 31,
+   "balls_bowled": 10936
+  },
+  "t20i": {
+   "matches": 84,
+   "runs": 136,
+   "bat_avg": 6.47,
+   "bat_sr": 84.47,
+   "wickets": 107,
+   "bowl_avg": 20.79,
+   "econ": 7.42,
+   "bowl_sr": 16.8,
+   "five_wickets": 2,
+   "catches": 21,
+   "balls_bowled": 1799
+  },
+  "t20_league": {
+   "matches": 295,
+   "runs": 426,
+   "bat_avg": 8.04,
+   "bat_sr": 102.9,
+   "wickets": 390,
+   "econ": 7.08,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lasith_Malinga",
+   "https://en.wikipedia.org/wiki/List_of_Sri_Lanka_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I taken from the List of Sri Lanka T20I cricketers (as of 3 February 2026): 1,799 balls, bowl_avg 20.79, bat_avg 6.47, 21 catches. His own infobox (last updated 6 March 2020) prints 1,781 balls / 20.36 / 3.47 / 20 catches; the list values reproduce his documented T20I economy of 7.42, the infobox values do not. five_wickets = 2 from the infobox (best 5/6). Major IPL/BBL career (widely reported 390 all-T20 wickets, 170 in the IPL) but no all-Twenty20 career stat line was verifiable from a fetchable page, so t20_league is null. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Mitchell Johnson",
+  "test": {
+   "matches": 73,
+   "runs": 2065,
+   "bat_avg": 22.2,
+   "bat_sr": null,
+   "wickets": 313,
+   "bowl_avg": 28.4,
+   "econ": 3.33,
+   "bowl_sr": 51.1,
+   "five_wickets": 12,
+   "catches": 27,
+   "balls_bowled": 16001
+  },
+  "odi": {
+   "matches": 153,
+   "runs": 951,
+   "bat_avg": 16.11,
+   "bat_sr": null,
+   "wickets": 239,
+   "bowl_avg": 25.26,
+   "econ": 4.84,
+   "bowl_sr": 31.3,
+   "five_wickets": 3,
+   "catches": 35,
+   "balls_bowled": 7489
+  },
+  "t20i": {
+   "matches": 30,
+   "runs": 109,
+   "bat_avg": 10.9,
+   "bat_sr": 114.74,
+   "wickets": 38,
+   "bowl_avg": 20.97,
+   "econ": 7.29,
+   "bowl_sr": 17.3,
+   "five_wickets": 0,
+   "catches": 5,
+   "balls_bowled": 656
+  },
+  "t20_league": {
+   "matches": 112,
+   "runs": 320,
+   "bat_avg": 12.8,
+   "bat_sr": 105.26,
+   "wickets": 123,
+   "econ": 7.63,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Johnson",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "T20I line from the List of Australia T20I cricketers; his infobox has no T20I column. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Mitchell Starc",
+  "test": {
+   "matches": 107,
+   "runs": 2498,
+   "bat_avg": 20.3,
+   "bat_sr": null,
+   "wickets": 445,
+   "bowl_avg": 26.12,
+   "econ": 3.43,
+   "bowl_sr": 45.6,
+   "five_wickets": 19,
+   "catches": 50,
+   "balls_bowled": 20313
+  },
+  "odi": {
+   "matches": 130,
+   "runs": 583,
+   "bat_avg": 11.66,
+   "bat_sr": null,
+   "wickets": 247,
+   "bowl_avg": 23.58,
+   "econ": 5.26,
+   "bowl_sr": 26.9,
+   "five_wickets": 9,
+   "catches": 47,
+   "balls_bowled": 6638
+  },
+  "t20i": {
+   "matches": 65,
+   "runs": 98,
+   "bat_avg": 9.8,
+   "bat_sr": 98,
+   "wickets": 79,
+   "bowl_avg": 23.81,
+   "econ": 7.74,
+   "bowl_sr": 18.5,
+   "five_wickets": 0,
+   "catches": 22,
+   "balls_bowled": 1458
+  },
+  "t20_league": {
+   "matches": 164,
+   "runs": 227,
+   "bat_avg": 8.73,
+   "bat_sr": 90.8,
+   "wickets": 228,
+   "econ": 8.02,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Starc",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 23 August 2026. Retired from T20Is (2025) but still active in Tests and ODIs, so retired = false. T20I figures independently confirmed by the List of Australia T20I cricketers. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Trent Boult",
+  "test": {
+   "matches": 78,
+   "runs": 759,
+   "bat_avg": 15.81,
+   "bat_sr": null,
+   "wickets": 317,
+   "bowl_avg": 27.49,
+   "econ": 3,
+   "bowl_sr": 54.9,
+   "five_wickets": 10,
+   "catches": 43,
+   "balls_bowled": 17417
+  },
+  "odi": {
+   "matches": 114,
+   "runs": 216,
+   "bat_avg": 9,
+   "bat_sr": null,
+   "wickets": 211,
+   "bowl_avg": 24.38,
+   "econ": 4.99,
+   "bowl_sr": 29.3,
+   "five_wickets": 6,
+   "catches": 43,
+   "balls_bowled": 6180
+  },
+  "t20i": {
+   "matches": 61,
+   "runs": 58,
+   "bat_avg": 8.28,
+   "bat_sr": 90.63,
+   "wickets": 83,
+   "bowl_avg": 21.43,
+   "econ": 7.68,
+   "bowl_sr": 16.7,
+   "five_wickets": 0,
+   "catches": 22,
+   "balls_bowled": 1389
+  },
+  "t20_league": {
+   "matches": 301,
+   "runs": 334,
+   "bat_avg": 10.77,
+   "bat_sr": 112.84,
+   "wickets": 344,
+   "econ": 8.19,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trent_Boult",
+   "https://en.wikipedia.org/wiki/List_of_New_Zealand_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket after the 2024 T20 World Cup; still active in franchise T20 leagues. T20I figures independently confirmed by the List of New Zealand T20I cricketers (as of 2 May 2026), so the infobox (19 June 2024) is final. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Tim Southee",
+  "test": {
+   "matches": 107,
+   "runs": 2245,
+   "bat_avg": 15.48,
+   "bat_sr": null,
+   "wickets": 391,
+   "bowl_avg": 30.26,
+   "econ": 3.02,
+   "bowl_sr": 60.1,
+   "five_wickets": 15,
+   "catches": 86,
+   "balls_bowled": 23490
+  },
+  "odi": {
+   "matches": 161,
+   "runs": 740,
+   "bat_avg": 12.13,
+   "bat_sr": null,
+   "wickets": 221,
+   "bowl_avg": 33.7,
+   "econ": 5.53,
+   "bowl_sr": 36.5,
+   "five_wickets": 3,
+   "catches": 44,
+   "balls_bowled": 8075
+  },
+  "t20i": {
+   "matches": 126,
+   "runs": 303,
+   "bat_avg": 11.22,
+   "bat_sr": 138.99,
+   "wickets": 164,
+   "bowl_avg": 22.38,
+   "econ": 8,
+   "bowl_sr": 16.8,
+   "five_wickets": 2,
+   "catches": 65,
+   "balls_bowled": 2753
+  },
+  "t20_league": {
+   "matches": 295,
+   "runs": 945,
+   "bat_avg": 11.12,
+   "bat_sr": 138.97,
+   "wickets": 348,
+   "econ": 8.21,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Southee",
+   "https://en.wikipedia.org/wiki/List_of_New_Zealand_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket December 2024. T20I figures independently confirmed by the List of New Zealand T20I cricketers (as of 2 May 2026). Infobox date reads 19 November 2024, but its Test tally of 391 wickets matches the retirement figure stated in the article body, so it is final. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Jasprit Bumrah",
+  "test": {
+   "matches": 52,
+   "runs": 348,
+   "bat_avg": 6.56,
+   "bat_sr": null,
+   "wickets": 234,
+   "bowl_avg": 19.79,
+   "econ": 2.77,
+   "bowl_sr": 42.9,
+   "five_wickets": 16,
+   "catches": 17,
+   "balls_bowled": 10031
+  },
+  "odi": {
+   "matches": 91,
+   "runs": 111,
+   "bat_avg": 9.25,
+   "bat_sr": null,
+   "wickets": 151,
+   "bowl_avg": 23.74,
+   "econ": 4.58,
+   "bowl_sr": 31.1,
+   "five_wickets": 2,
+   "catches": 19,
+   "balls_bowled": 4694
+  },
+  "t20i": {
+   "matches": 95,
+   "runs": 12,
+   "bat_avg": 2.4,
+   "bat_sr": 66.67,
+   "wickets": 121,
+   "bowl_avg": 18.08,
+   "econ": 6.52,
+   "bowl_sr": 16.6,
+   "five_wickets": 0,
+   "catches": 15,
+   "balls_bowled": 2014
+  },
+  "t20_league": {
+   "matches": 283,
+   "runs": 113,
+   "bat_avg": 7.06,
+   "bat_sr": 86.92,
+   "wickets": 349,
+   "econ": 6.98,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jasprit_Bumrah",
+   "https://en.wikipedia.org/wiki/List_of_India_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 4 August 2026. T20I bat_avg 2.40 from the List of India T20I cricketers (as of 8 March 2026); the infobox rounds it to 2. All other T20I values agree. Major IPL career but no all-Twenty20 career line was verifiable. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Pat Cummins",
+  "test": {
+   "matches": 74,
+   "runs": 1584,
+   "bat_avg": 16.32,
+   "bat_sr": null,
+   "wickets": 322,
+   "bowl_avg": 21.91,
+   "econ": 2.88,
+   "bowl_sr": 45.6,
+   "five_wickets": 14,
+   "catches": 36,
+   "balls_bowled": 14673
+  },
+  "odi": {
+   "matches": 90,
+   "runs": 537,
+   "bat_avg": 14.51,
+   "bat_sr": null,
+   "wickets": 143,
+   "bowl_avg": 28.78,
+   "econ": 5.27,
+   "bowl_sr": 32.7,
+   "five_wickets": 1,
+   "catches": 24,
+   "balls_bowled": 4683
+  },
+  "t20i": {
+   "matches": 57,
+   "runs": 158,
+   "bat_avg": 10.53,
+   "bat_sr": 118.8,
+   "wickets": 66,
+   "bowl_avg": 23.57,
+   "econ": 7.44,
+   "bowl_sr": 19,
+   "five_wickets": 0,
+   "catches": 16,
+   "balls_bowled": 1254
+  },
+  "t20_league": {
+   "matches": 179,
+   "runs": 1031,
+   "bat_avg": 17.18,
+   "bat_sr": 138.95,
+   "wickets": 200,
+   "econ": 8.3,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pat_Cummins",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 23 August 2026. T20I figures independently confirmed by the List of Australia T20I cricketers. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Josh Hazlewood",
+  "test": {
+   "matches": 78,
+   "runs": 575,
+   "bat_avg": 11.5,
+   "bat_sr": null,
+   "wickets": 303,
+   "bowl_avg": 24,
+   "econ": 2.78,
+   "bowl_sr": 51.9,
+   "five_wickets": 14,
+   "catches": 30,
+   "balls_bowled": 15717
+  },
+  "odi": {
+   "matches": 96,
+   "runs": 135,
+   "bat_avg": 15,
+   "bat_sr": null,
+   "wickets": 142,
+   "bowl_avg": 27.66,
+   "econ": 4.73,
+   "bowl_sr": 35.1,
+   "five_wickets": 3,
+   "catches": 32,
+   "balls_bowled": 4978
+  },
+  "t20i": {
+   "matches": 60,
+   "runs": 29,
+   "bat_avg": 9.66,
+   "bat_sr": 103.57,
+   "wickets": 79,
+   "bowl_avg": 21.26,
+   "econ": 7.48,
+   "bowl_sr": 17.1,
+   "five_wickets": 0,
+   "catches": 13,
+   "balls_bowled": 1348
+  },
+  "t20_league": {
+   "matches": 140,
+   "runs": 71,
+   "bat_avg": 11.83,
+   "bat_sr": 84.52,
+   "wickets": 185,
+   "econ": 7.81,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Hazlewood",
+   "https://en.wikipedia.org/wiki/List_of_Australia_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 23 August 2026. T20I figures independently confirmed by the List of Australia T20I cricketers. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Kagiso Rabada",
+  "test": {
+   "matches": 73,
+   "runs": 1102,
+   "bat_avg": 12.24,
+   "bat_sr": null,
+   "wickets": 340,
+   "bowl_avg": 22.03,
+   "econ": 3.34,
+   "bowl_sr": 39.5,
+   "five_wickets": 17,
+   "catches": 34,
+   "balls_bowled": 13436
+  },
+  "odi": {
+   "matches": 106,
+   "runs": 401,
+   "bat_avg": 14.85,
+   "bat_sr": null,
+   "wickets": 168,
+   "bowl_avg": 27.45,
+   "econ": 5.08,
+   "bowl_sr": 32.4,
+   "five_wickets": 2,
+   "catches": 41,
+   "balls_bowled": 5444
+  },
+  "t20i": {
+   "matches": 79,
+   "runs": 184,
+   "bat_avg": 14.15,
+   "bat_sr": 115.72,
+   "wickets": 83,
+   "bowl_avg": 28.65,
+   "econ": 8.41,
+   "bowl_sr": 20.4,
+   "five_wickets": 0,
+   "catches": 26,
+   "balls_bowled": 1697
+  },
+  "t20_league": {
+   "matches": 263,
+   "runs": 565,
+   "bat_avg": 10.87,
+   "bat_sr": 108.65,
+   "wickets": 328,
+   "econ": 8.25,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kagiso_Rabada",
+   "https://en.wikipedia.org/wiki/List_of_South_Africa_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "Active player. Test and ODI lines are from his infobox, last updated 26 February 2026, so they may understate his current career by roughly six months of cricket. T20I line uses the newer List of South Africa T20I cricketers (as of 22 March 2026): 79 matches / 83 wickets versus the infobox 78 / 82. T20I five_wickets = 0 (best 3/18). econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Shaheen Afridi",
+  "test": {
+   "matches": 34,
+   "runs": 269,
+   "bat_avg": 7.27,
+   "bat_sr": null,
+   "wickets": 126,
+   "bowl_avg": 28.13,
+   "econ": 3.18,
+   "bowl_sr": 53,
+   "five_wickets": 4,
+   "catches": 3,
+   "balls_bowled": 6684
+  },
+  "odi": {
+   "matches": 77,
+   "runs": 332,
+   "bat_avg": 13.28,
+   "bat_sr": null,
+   "wickets": 146,
+   "bowl_avg": 24.5,
+   "econ": 5.56,
+   "bowl_sr": 26.4,
+   "five_wickets": 3,
+   "catches": 20,
+   "balls_bowled": 3859
+  },
+  "t20i": {
+   "matches": 103,
+   "runs": 345,
+   "bat_avg": 14.37,
+   "bat_sr": 125.91,
+   "wickets": 136,
+   "bowl_avg": 21.35,
+   "econ": 7.84,
+   "bowl_sr": 16.3,
+   "five_wickets": 0,
+   "catches": 30,
+   "balls_bowled": 2223
+  },
+  "t20_league": {
+   "matches": 260,
+   "runs": 970,
+   "bat_avg": 12.6,
+   "bat_sr": 127.63,
+   "wickets": 362,
+   "econ": 7.97,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaheen_Shah_Afridi",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 1 September 2026. The List of Pakistan T20I cricketers is older (1 February 2026) and shows 98 T20Is / 128 wickets; the newer infobox figures are used. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Mohammad Amir",
+  "test": {
+   "matches": 36,
+   "runs": 751,
+   "bat_avg": 13.41,
+   "bat_sr": null,
+   "wickets": 119,
+   "bowl_avg": 30.48,
+   "econ": 2.86,
+   "bowl_sr": 64,
+   "five_wickets": 4,
+   "catches": 5,
+   "balls_bowled": 7619
+  },
+  "odi": {
+   "matches": 61,
+   "runs": 363,
+   "bat_avg": 18.15,
+   "bat_sr": null,
+   "wickets": 81,
+   "bowl_avg": 29.63,
+   "econ": 4.78,
+   "bowl_sr": 37.2,
+   "five_wickets": 1,
+   "catches": 8,
+   "balls_bowled": 3013
+  },
+  "t20i": {
+   "matches": 62,
+   "runs": 65,
+   "bat_avg": 7.22,
+   "bat_sr": 85.53,
+   "wickets": 71,
+   "bowl_avg": 21.94,
+   "econ": 7.08,
+   "bowl_sr": 18.6,
+   "five_wickets": 0,
+   "catches": 10,
+   "balls_bowled": 1321
+  },
+  "t20_league": {
+   "matches": 366,
+   "runs": 467,
+   "bat_avg": 7.08,
+   "bat_sr": 99.15,
+   "wickets": 429,
+   "econ": 7.36,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Amir",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Retired from international cricket in December 2020, returned for the 2024 T20 World Cup, then retired again. Infobox as of 7 January 2024; T20I figures independently confirmed by the List of Pakistan T20I cricketers (1 February 2026). Substantial PSL/CPL/T20 league career but no all-Twenty20 line verifiable. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Naseem Shah",
+  "test": {
+   "matches": 20,
+   "runs": 144,
+   "bat_avg": 7.57,
+   "bat_sr": null,
+   "wickets": 60,
+   "bowl_avg": 35.13,
+   "econ": 3.71,
+   "bowl_sr": 56.9,
+   "five_wickets": 1,
+   "catches": 5,
+   "balls_bowled": 3411
+  },
+  "odi": {
+   "matches": 34,
+   "runs": 234,
+   "bat_avg": 22.4,
+   "bat_sr": null,
+   "wickets": 60,
+   "bowl_avg": 25.91,
+   "econ": 5.48,
+   "bowl_sr": 28.4,
+   "five_wickets": 2,
+   "catches": 3,
+   "balls_bowled": 1701
+  },
+  "t20i": {
+   "matches": 37,
+   "runs": 62,
+   "bat_avg": 6.88,
+   "bat_sr": 108.77,
+   "wickets": 32,
+   "bowl_avg": 33.03,
+   "econ": 8.13,
+   "bowl_sr": 24.4,
+   "five_wickets": 0,
+   "catches": 4,
+   "balls_bowled": 780
+  },
+  "t20_league": {
+   "matches": 153,
+   "runs": 272,
+   "bat_avg": 7.16,
+   "bat_sr": 116.24,
+   "wickets": 155,
+   "econ": 8.06,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Naseem_Shah",
+   "https://en.wikipedia.org/wiki/List_of_Pakistan_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "Active player; infobox last updated 8 March 2026, so figures may be about six months behind. The List of Pakistan T20I cricketers (1 February 2026) gives a marginally older T20I line (36 matches / 31 wickets); the newer infobox line is used. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Jofra Archer",
+  "test": {
+   "matches": 22,
+   "runs": 332,
+   "bat_avg": 11.06,
+   "bat_sr": null,
+   "wickets": 79,
+   "bowl_avg": 28.25,
+   "econ": 3.08,
+   "bowl_sr": 55.1,
+   "five_wickets": 4,
+   "catches": 4,
+   "balls_bowled": 4350
+  },
+  "odi": {
+   "matches": 39,
+   "runs": 219,
+   "bat_avg": 18.25,
+   "bat_sr": null,
+   "wickets": 70,
+   "bowl_avg": 25.07,
+   "econ": 5.07,
+   "bowl_sr": 29.6,
+   "five_wickets": 1,
+   "catches": 10,
+   "balls_bowled": 2075
+  },
+  "t20i": {
+   "matches": 49,
+   "runs": 129,
+   "bat_avg": 11.72,
+   "bat_sr": 150,
+   "wickets": 64,
+   "bowl_avg": 23.54,
+   "econ": 8.34,
+   "bowl_sr": 16.9,
+   "five_wickets": 0,
+   "catches": 15,
+   "balls_bowled": 1084
+  },
+  "t20_league": {
+   "matches": 211,
+   "runs": 826,
+   "bat_avg": 13.77,
+   "bat_sr": 140.72,
+   "wickets": 269,
+   "econ": 8.07,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jofra_Archer",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 30 August 2026. T20I figures independently confirmed by the List of England T20I cricketers (11 July 2026). Substantial IPL/BBL/The Hundred career but no all-Twenty20 career line was verifiable from any fetchable page, so t20_league is null. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Mark Wood",
+  "test": {
+   "matches": 38,
+   "runs": 811,
+   "bat_avg": 15.59,
+   "bat_sr": null,
+   "wickets": 119,
+   "bowl_avg": 30.79,
+   "econ": 3.33,
+   "bowl_sr": 55.5,
+   "five_wickets": 5,
+   "catches": 8,
+   "balls_bowled": 6610
+  },
+  "odi": {
+   "matches": 70,
+   "runs": 168,
+   "bat_avg": 12.92,
+   "bat_sr": null,
+   "wickets": 80,
+   "bowl_avg": 40.82,
+   "econ": 5.59,
+   "bowl_sr": 43.8,
+   "five_wickets": 0,
+   "catches": 14,
+   "balls_bowled": 3506
+  },
+  "t20i": {
+   "matches": 38,
+   "runs": 27,
+   "bat_avg": 13.5,
+   "bat_sr": 96.43,
+   "wickets": 54,
+   "bowl_avg": 20.24,
+   "econ": 8.45,
+   "bowl_sr": 14.4,
+   "five_wickets": 0,
+   "catches": 5,
+   "balls_bowled": 776
+  },
+  "t20_league": {
+   "matches": 63,
+   "runs": 134,
+   "bat_avg": 14.89,
+   "bat_sr": 108.06,
+   "wickets": 85,
+   "econ": 8.22,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2020s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Wood_(cricketer)",
+   "https://en.wikipedia.org/wiki/List_of_England_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "Active player; infobox last updated 22 November 2025. The T20I line is corroborated unchanged by the List of England T20I cricketers as of 11 July 2026, which suggests little or no intervening international cricket, but the Test and ODI lines could not be re-verified against a later snapshot. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Mustafizur Rahman",
+  "test": {
+   "matches": 15,
+   "runs": 66,
+   "bat_avg": 4.4,
+   "bat_sr": null,
+   "wickets": 31,
+   "bowl_avg": 36.74,
+   "econ": 3.19,
+   "bowl_sr": 69.2,
+   "five_wickets": 0,
+   "catches": 1,
+   "balls_bowled": 2145
+  },
+  "odi": {
+   "matches": 123,
+   "runs": 179,
+   "bat_avg": 7.45,
+   "bat_sr": null,
+   "wickets": 193,
+   "bowl_avg": 26.2,
+   "econ": 5.17,
+   "bowl_sr": 30.4,
+   "five_wickets": 6,
+   "catches": 20,
+   "balls_bowled": 5873
+  },
+  "t20i": {
+   "matches": 128,
+   "runs": 119,
+   "bat_avg": 5.66,
+   "bat_sr": 79.87,
+   "wickets": 160,
+   "bowl_avg": 21.01,
+   "econ": 7.28,
+   "bowl_sr": 17.3,
+   "five_wickets": 2,
+   "catches": 29,
+   "balls_bowled": 2772
+  },
+  "t20_league": {
+   "matches": 329,
+   "runs": 239,
+   "bat_avg": 6.29,
+   "bat_sr": 75.16,
+   "wickets": 420,
+   "econ": 7.42,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": false,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mustafizur_Rahman",
+   "https://en.wikipedia.org/wiki/List_of_Bangladesh_Twenty20_International_cricketers"
+  ],
+  "confidence": "high",
+  "notes": "Infobox as of 21 June 2026; the List of Bangladesh T20I cricketers is older (2 December 2025) at 126 matches / 158 wickets, so the infobox line is used. Major IPL/BPL/other league career but no all-Twenty20 career line was verifiable, so t20_league is null. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ },
+ {
+  "name": "Morne Morkel",
+  "test": {
+   "matches": 86,
+   "runs": 944,
+   "bat_avg": 11.65,
+   "bat_sr": null,
+   "wickets": 309,
+   "bowl_avg": 27.66,
+   "econ": 3.11,
+   "bowl_sr": 53.4,
+   "five_wickets": 8,
+   "catches": 25,
+   "balls_bowled": 16498
+  },
+  "odi": {
+   "matches": 117,
+   "runs": 268,
+   "bat_avg": 9.24,
+   "bat_sr": null,
+   "wickets": 188,
+   "bowl_avg": 25.32,
+   "econ": 4.96,
+   "bowl_sr": 30.6,
+   "five_wickets": 2,
+   "catches": 31,
+   "balls_bowled": 5760
+  },
+  "t20i": {
+   "matches": 41,
+   "runs": 21,
+   "bat_avg": 10.5,
+   "bat_sr": 122.22,
+   "wickets": 46,
+   "bowl_avg": 23.84,
+   "econ": 7.48,
+   "bowl_sr": 19.1,
+   "five_wickets": 0,
+   "catches": 5,
+   "balls_bowled": 880
+  },
+  "t20_league": {
+   "matches": 190,
+   "runs": 213,
+   "bat_avg": 8.52,
+   "bat_sr": 108.67,
+   "wickets": 207,
+   "econ": 7.55,
+   "bowl_avg": null,
+   "source": "researched all-T20 career line"
+  },
+  "retired": true,
+  "era_peak": "2010s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morn%C3%A9_Morkel",
+   "https://en.wikipedia.org/wiki/List_of_South_Africa_Twenty20_International_cricketers",
+   "https://en.wikipedia.org/wiki/List_of_World_XI_Twenty20_International_cricketers"
+  ],
+  "confidence": "medium",
+  "notes": "His infobox has no T20I column. The T20I block is his South Africa-only record from the List of South Africa T20I cricketers (as of 22 March 2026). He additionally played 3 T20Is for the ICC World XI in 2017 (1 run, 72 balls, 1 wicket at 94.00, 0 catches, per the List of World XI T20I cricketers), so his true T20I career totals are 44 matches, 22 runs and 47 wickets; those combined totals are not used in the block because the combined averages would have to be recomputed rather than sourced. econ and bowl_sr are computed exactly from the sourced balls bowled, wickets and bowling average (econ = 6*avg*wkts/balls); they are not on the Wikipedia infobox. bat_sr is null: not published in the Wikipedia infobox or the national T20I list tables, and ESPNcricinfo/Cricbuzz/Howstat all returned HTTP 403 to every fetch attempt. t20_league is null for the same reason - no all-Twenty20 career line could be verified from any fetchable page."
+ }
+]

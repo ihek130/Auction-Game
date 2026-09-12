@@ -1,0 +1,1778 @@
+[
+ {
+  "name": "Sachin Tendulkar",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 86,
+   "odi": 99,
+   "test": 99
+  }
+ },
+ {
+  "name": "Brian Lara",
+  "code": "WI",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 96,
+   "test": 99
+  }
+ },
+ {
+  "name": "Ricky Ponting",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 88,
+   "odi": 97,
+   "test": 97
+  }
+ },
+ {
+  "name": "Rahul Dravid",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 79,
+   "odi": 90,
+   "test": 97
+  }
+ },
+ {
+  "name": "Saeed Anwar",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 95,
+   "test": 90
+  }
+ },
+ {
+  "name": "Inzamam-ul-Haq",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 94,
+   "test": 94
+  }
+ },
+ {
+  "name": "Javed Miandad",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 94,
+   "test": 97
+  }
+ },
+ {
+  "name": "Viv Richards",
+  "code": "WI",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 99,
+   "test": 97
+  }
+ },
+ {
+  "name": "Steve Waugh",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 90,
+   "test": 96
+  }
+ },
+ {
+  "name": "Mark Waugh",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 94,
+   "test": 90
+  }
+ },
+ {
+  "name": "Matthew Hayden",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 92,
+   "odi": 95,
+   "test": 96
+  }
+ },
+ {
+  "name": "Sourav Ganguly",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 81,
+   "odi": 94,
+   "test": 89
+  }
+ },
+ {
+  "name": "Mahela Jayawardene",
+  "code": "SL",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 91,
+   "odi": 94,
+   "test": 96
+  }
+ },
+ {
+  "name": "Chris Gayle",
+  "code": "WI",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 99,
+   "odi": 94,
+   "test": 88
+  }
+ },
+ {
+  "name": "Virender Sehwag",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 90,
+   "odi": 93,
+   "test": 95
+  }
+ },
+ {
+  "name": "Kevin Pietersen",
+  "code": "ENG",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 94,
+   "odi": 92,
+   "test": 95
+  }
+ },
+ {
+  "name": "Michael Hussey",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 92,
+   "odi": 93,
+   "test": 94
+  }
+ },
+ {
+  "name": "Younis Khan",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 79,
+   "odi": 89,
+   "test": 97
+  }
+ },
+ {
+  "name": "Mohammad Yousuf",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 75,
+   "odi": 93,
+   "test": 96
+  }
+ },
+ {
+  "name": "Alastair Cook",
+  "code": "ENG",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 73,
+   "odi": 83,
+   "test": 97
+  }
+ },
+ {
+  "name": "Virat Kohli",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 97,
+   "odi": 99,
+   "test": 96
+  }
+ },
+ {
+  "name": "Rohit Sharma",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 95,
+   "odi": 97,
+   "test": 87
+  }
+ },
+ {
+  "name": "Babar Azam",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 90,
+   "odi": 96,
+   "test": 89
+  }
+ },
+ {
+  "name": "Joe Root",
+  "code": "ENG",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 85,
+   "odi": 94,
+   "test": 98
+  }
+ },
+ {
+  "name": "Steve Smith",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 85,
+   "odi": 91,
+   "test": 99
+  }
+ },
+ {
+  "name": "David Warner",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 95,
+   "test": 93
+  }
+ },
+ {
+  "name": "Kane Williamson",
+  "code": "NZ",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 88,
+   "odi": 94,
+   "test": 98
+  }
+ },
+ {
+  "name": "Ross Taylor",
+  "code": "NZ",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 87,
+   "odi": 95,
+   "test": 92
+  }
+ },
+ {
+  "name": "Faf du Plessis",
+  "code": "SA",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 94,
+   "odi": 93,
+   "test": 88
+  }
+ },
+ {
+  "name": "Suryakumar Yadav",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 98,
+   "odi": 75,
+   "test": 62
+  }
+ },
+ {
+  "name": "Travis Head",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 96,
+   "odi": 94,
+   "test": 93
+  }
+ },
+ {
+  "name": "Shubman Gill",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 89,
+   "odi": 94,
+   "test": 89
+  }
+ },
+ {
+  "name": "Harry Brook",
+  "code": "ENG",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 89,
+   "odi": 88,
+   "test": 95
+  }
+ },
+ {
+  "name": "Yashasvi Jaiswal",
+  "code": "IN",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 91,
+   "odi": 77,
+   "test": 92
+  }
+ },
+ {
+  "name": "Fakhar Zaman",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 88,
+   "odi": 93,
+   "test": 78
+  }
+ },
+ {
+  "name": "Saim Ayub",
+  "code": "PK",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 88,
+   "odi": 90,
+   "test": 79
+  }
+ },
+ {
+  "name": "Shivnarine Chanderpaul",
+  "code": "WI",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 77,
+   "odi": 90,
+   "test": 97
+  }
+ },
+ {
+  "name": "Michael Bevan",
+  "code": "AU",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 97,
+   "test": 78
+  }
+ },
+ {
+  "name": "Graham Gooch",
+  "code": "ENG",
+  "category": "BAT",
+  "style": "bat",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 90,
+   "test": 95
+  }
+ },
+ {
+  "name": "Graeme Smith",
+  "code": "SA",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2000s",
+  "legacy": {
+   "t20": 83,
+   "odi": 91,
+   "test": 96
+  }
+ },
+ {
+  "name": "Daryl Mitchell",
+  "code": "NZ",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2020s",
+  "legacy": {
+   "t20": 85,
+   "odi": 93,
+   "test": 88
+  }
+ },
+ {
+  "name": "Tamim Iqbal",
+  "code": "BD",
+  "category": "BAT",
+  "style": "bat",
+  "era": "2010s",
+  "legacy": {
+   "t20": 84,
+   "odi": 90,
+   "test": 88
+  }
+ },
+ {
+  "name": "Adam Gilchrist",
+  "code": "AU",
+  "category": "WK",
+  "style": "wk",
+  "era": "2000s",
+  "legacy": {
+   "t20": 94,
+   "odi": 98,
+   "test": 97
+  }
+ },
+ {
+  "name": "Andy Flower",
+  "code": "ZW",
+  "category": "WK",
+  "style": "wk",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 94,
+   "test": 98
+  }
+ },
+ {
+  "name": "Alec Stewart",
+  "code": "ENG",
+  "category": "WK",
+  "style": "wk",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 88,
+   "test": 92
+  }
+ },
+ {
+  "name": "Moin Khan",
+  "code": "PK",
+  "category": "WK",
+  "style": "wk",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 86,
+   "test": 85
+  }
+ },
+ {
+  "name": "Rashid Latif",
+  "code": "PK",
+  "category": "WK",
+  "style": "wk",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 84,
+   "test": 85
+  }
+ },
+ {
+  "name": "Kumar Sangakkara",
+  "code": "SL",
+  "category": "WK",
+  "style": "wk",
+  "era": "2000s",
+  "legacy": {
+   "t20": 90,
+   "odi": 97,
+   "test": 98
+  }
+ },
+ {
+  "name": "MS Dhoni",
+  "code": "IN",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 94,
+   "odi": 98,
+   "test": 89
+  }
+ },
+ {
+  "name": "Brendon McCullum",
+  "code": "NZ",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 91,
+   "test": 92
+  }
+ },
+ {
+  "name": "Mark Boucher",
+  "code": "SA",
+  "category": "WK",
+  "style": "wk",
+  "era": "2000s",
+  "legacy": {
+   "t20": 81,
+   "odi": 88,
+   "test": 91
+  }
+ },
+ {
+  "name": "AB de Villiers",
+  "code": "SA",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 99,
+   "odi": 99,
+   "test": 96
+  }
+ },
+ {
+  "name": "Quinton de Kock",
+  "code": "SA",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 95,
+   "odi": 95,
+   "test": 88
+  }
+ },
+ {
+  "name": "Jos Buttler",
+  "code": "ENG",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 98,
+   "odi": 94,
+   "test": 80
+  }
+ },
+ {
+  "name": "Mohammad Rizwan",
+  "code": "PK",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 93,
+   "odi": 89,
+   "test": 89
+  }
+ },
+ {
+  "name": "Sarfaraz Ahmed",
+  "code": "PK",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 82,
+   "odi": 87,
+   "test": 87
+  }
+ },
+ {
+  "name": "KL Rahul",
+  "code": "IN",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 90,
+   "odi": 92,
+   "test": 86
+  }
+ },
+ {
+  "name": "Rishabh Pant",
+  "code": "IN",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 89,
+   "odi": 84,
+   "test": 95
+  }
+ },
+ {
+  "name": "Nicholas Pooran",
+  "code": "WI",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 97,
+   "odi": 89,
+   "test": 0
+  }
+ },
+ {
+  "name": "Phil Salt",
+  "code": "ENG",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 95,
+   "odi": 86,
+   "test": 0
+  }
+ },
+ {
+  "name": "Shai Hope",
+  "code": "WI",
+  "category": "WK",
+  "style": "wk",
+  "era": "2020s",
+  "legacy": {
+   "t20": 85,
+   "odi": 95,
+   "test": 78
+  }
+ },
+ {
+  "name": "Jonny Bairstow",
+  "code": "ENG",
+  "category": "WK",
+  "style": "wk",
+  "era": "2010s",
+  "legacy": {
+   "t20": 91,
+   "odi": 94,
+   "test": 90
+  }
+ },
+ {
+  "name": "Imran Khan",
+  "code": "PK",
+  "category": "AR",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 97,
+   "test": 99
+  }
+ },
+ {
+  "name": "Kapil Dev",
+  "code": "IN",
+  "category": "AR",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 93,
+   "test": 96
+  }
+ },
+ {
+  "name": "Jacques Kallis",
+  "code": "SA",
+  "category": "AR",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 89,
+   "odi": 97,
+   "test": 99
+  }
+ },
+ {
+  "name": "Shaun Pollock",
+  "code": "SA",
+  "category": "AR",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 88,
+   "odi": 97,
+   "test": 96
+  }
+ },
+ {
+  "name": "Sanath Jayasuriya",
+  "code": "SL",
+  "category": "AR",
+  "style": "spin",
+  "era": "1990s",
+  "legacy": {
+   "t20": 92,
+   "odi": 97,
+   "test": 90
+  }
+ },
+ {
+  "name": "Lance Klusener",
+  "code": "SA",
+  "category": "AR",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 87,
+   "odi": 96,
+   "test": 84
+  }
+ },
+ {
+  "name": "Chris Cairns",
+  "code": "NZ",
+  "category": "AR",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 81,
+   "odi": 93,
+   "test": 92
+  }
+ },
+ {
+  "name": "Andrew Flintoff",
+  "code": "ENG",
+  "category": "AR",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 87,
+   "odi": 94,
+   "test": 94
+  }
+ },
+ {
+  "name": "Shahid Afridi",
+  "code": "PK",
+  "category": "AR",
+  "style": "spin",
+  "era": "2000s",
+  "legacy": {
+   "t20": 95,
+   "odi": 92,
+   "test": 81
+  }
+ },
+ {
+  "name": "Abdul Razzaq",
+  "code": "PK",
+  "category": "AR",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 91,
+   "odi": 92,
+   "test": 85
+  }
+ },
+ {
+  "name": "Shoaib Malik",
+  "code": "PK",
+  "category": "AR",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 91,
+   "odi": 88,
+   "test": 81
+  }
+ },
+ {
+  "name": "Yuvraj Singh",
+  "code": "IN",
+  "category": "AR",
+  "style": "spin",
+  "era": "2000s",
+  "legacy": {
+   "t20": 94,
+   "odi": 95,
+   "test": 78
+  }
+ },
+ {
+  "name": "Shane Watson",
+  "code": "AU",
+  "category": "AR",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 97,
+   "odi": 95,
+   "test": 87
+  }
+ },
+ {
+  "name": "Andrew Symonds",
+  "code": "AU",
+  "category": "AR",
+  "style": "mixed",
+  "era": "2000s",
+  "legacy": {
+   "t20": 93,
+   "odi": 95,
+   "test": 86
+  }
+ },
+ {
+  "name": "Shakib Al Hasan",
+  "code": "BD",
+  "category": "AR",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 94,
+   "odi": 97,
+   "test": 96
+  }
+ },
+ {
+  "name": "Ben Stokes",
+  "code": "ENG",
+  "category": "AR",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 88,
+   "odi": 95,
+   "test": 97
+  }
+ },
+ {
+  "name": "Ravindra Jadeja",
+  "code": "IN",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 90,
+   "odi": 91,
+   "test": 98
+  }
+ },
+ {
+  "name": "Hardik Pandya",
+  "code": "IN",
+  "category": "AR",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 95,
+   "odi": 92,
+   "test": 80
+  }
+ },
+ {
+  "name": "Andre Russell",
+  "code": "WI",
+  "category": "AR",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 99,
+   "odi": 86,
+   "test": 63
+  }
+ },
+ {
+  "name": "Kieron Pollard",
+  "code": "WI",
+  "category": "AR",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 83,
+   "test": 0
+  }
+ },
+ {
+  "name": "Dwayne Bravo",
+  "code": "WI",
+  "category": "AR",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 97,
+   "odi": 89,
+   "test": 81
+  }
+ },
+ {
+  "name": "Mohammad Hafeez",
+  "code": "PK",
+  "category": "AR",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 91,
+   "odi": 89,
+   "test": 85
+  }
+ },
+ {
+  "name": "Mohammad Nabi",
+  "code": "AF",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 94,
+   "odi": 90,
+   "test": 69
+  }
+ },
+ {
+  "name": "Moeen Ali",
+  "code": "ENG",
+  "category": "AR",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 90,
+   "odi": 86,
+   "test": 85
+  }
+ },
+ {
+  "name": "Glenn Maxwell",
+  "code": "AU",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 97,
+   "odi": 95,
+   "test": 74
+  }
+ },
+ {
+  "name": "Mitchell Marsh",
+  "code": "AU",
+  "category": "AR",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 94,
+   "odi": 89,
+   "test": 83
+  }
+ },
+ {
+  "name": "Shadab Khan",
+  "code": "PK",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 91,
+   "odi": 85,
+   "test": 70
+  }
+ },
+ {
+  "name": "Wanindu Hasaranga",
+  "code": "SL",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 96,
+   "odi": 89,
+   "test": 64
+  }
+ },
+ {
+  "name": "Sikandar Raza",
+  "code": "ZW",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 93,
+   "odi": 92,
+   "test": 80
+  }
+ },
+ {
+  "name": "Jason Holder",
+  "code": "WI",
+  "category": "AR",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 86,
+   "odi": 91,
+   "test": 93
+  }
+ },
+ {
+  "name": "Marcus Stoinis",
+  "code": "AU",
+  "category": "AR",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 91,
+   "odi": 86,
+   "test": 0
+  }
+ },
+ {
+  "name": "Daniel Vettori",
+  "code": "NZ",
+  "category": "AR",
+  "style": "spin",
+  "era": "2000s",
+  "legacy": {
+   "t20": 91,
+   "odi": 94,
+   "test": 94
+  }
+ },
+ {
+  "name": "Mitchell Santner",
+  "code": "NZ",
+  "category": "AR",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 92,
+   "odi": 90,
+   "test": 83
+  }
+ },
+ {
+  "name": "Shane Warne",
+  "code": "AU",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "1990s",
+  "legacy": {
+   "t20": 93,
+   "odi": 95,
+   "test": 99
+  }
+ },
+ {
+  "name": "Muttiah Muralitharan",
+  "code": "SL",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2000s",
+  "legacy": {
+   "t20": 93,
+   "odi": 99,
+   "test": 99
+  }
+ },
+ {
+  "name": "Anil Kumble",
+  "code": "IN",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "1990s",
+  "legacy": {
+   "t20": 88,
+   "odi": 93,
+   "test": 97
+  }
+ },
+ {
+  "name": "Saqlain Mushtaq",
+  "code": "PK",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "1990s",
+  "legacy": {
+   "t20": 84,
+   "odi": 97,
+   "test": 93
+  }
+ },
+ {
+  "name": "Mushtaq Ahmed",
+  "code": "PK",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "1990s",
+  "legacy": {
+   "t20": 82,
+   "odi": 91,
+   "test": 92
+  }
+ },
+ {
+  "name": "Harbhajan Singh",
+  "code": "IN",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2000s",
+  "legacy": {
+   "t20": 90,
+   "odi": 90,
+   "test": 93
+  }
+ },
+ {
+  "name": "Ravichandran Ashwin",
+  "code": "IN",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 91,
+   "odi": 89,
+   "test": 98
+  }
+ },
+ {
+  "name": "Nathan Lyon",
+  "code": "AU",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 75,
+   "odi": 75,
+   "test": 96
+  }
+ },
+ {
+  "name": "Rangana Herath",
+  "code": "SL",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 86,
+   "odi": 83,
+   "test": 95
+  }
+ },
+ {
+  "name": "Graeme Swann",
+  "code": "ENG",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 87,
+   "odi": 89,
+   "test": 94
+  }
+ },
+ {
+  "name": "Saeed Ajmal",
+  "code": "PK",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 95,
+   "test": 93
+  }
+ },
+ {
+  "name": "Rashid Khan",
+  "code": "AF",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 99,
+   "odi": 97,
+   "test": 88
+  }
+ },
+ {
+  "name": "Imran Tahir",
+  "code": "SA",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 97,
+   "odi": 95,
+   "test": 79
+  }
+ },
+ {
+  "name": "Adil Rashid",
+  "code": "ENG",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 95,
+   "odi": 94,
+   "test": 78
+  }
+ },
+ {
+  "name": "Adam Zampa",
+  "code": "AU",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 94,
+   "odi": 95,
+   "test": 0
+  }
+ },
+ {
+  "name": "Kuldeep Yadav",
+  "code": "IN",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 92,
+   "odi": 95,
+   "test": 89
+  }
+ },
+ {
+  "name": "Yuzvendra Chahal",
+  "code": "IN",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 92,
+   "odi": 89,
+   "test": 0
+  }
+ },
+ {
+  "name": "Mujeeb Ur Rahman",
+  "code": "AF",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 92,
+   "odi": 91,
+   "test": 64
+  }
+ },
+ {
+  "name": "Ajantha Mendis",
+  "code": "SL",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 93,
+   "odi": 92,
+   "test": 84
+  }
+ },
+ {
+  "name": "Maheesh Theekshana",
+  "code": "SL",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2020s",
+  "legacy": {
+   "t20": 92,
+   "odi": 91,
+   "test": 74
+  }
+ },
+ {
+  "name": "Sunil Narine",
+  "code": "WI",
+  "category": "SPIN",
+  "style": "spin",
+  "era": "2010s",
+  "legacy": {
+   "t20": 99,
+   "odi": 93,
+   "test": 77
+  }
+ },
+ {
+  "name": "Wasim Akram",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 99,
+   "test": 98
+  }
+ },
+ {
+  "name": "Waqar Younis",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 98,
+   "test": 97
+  }
+ },
+ {
+  "name": "Curtly Ambrose",
+  "code": "WI",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 96,
+   "test": 99
+  }
+ },
+ {
+  "name": "Courtney Walsh",
+  "code": "WI",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 93,
+   "test": 96
+  }
+ },
+ {
+  "name": "Allan Donald",
+  "code": "SA",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 96,
+   "test": 97
+  }
+ },
+ {
+  "name": "Glenn McGrath",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 89,
+   "odi": 99,
+   "test": 99
+  }
+ },
+ {
+  "name": "Chaminda Vaas",
+  "code": "SL",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 87,
+   "odi": 96,
+   "test": 93
+  }
+ },
+ {
+  "name": "Heath Streak",
+  "code": "ZW",
+  "category": "FAST",
+  "style": "pace",
+  "era": "1990s",
+  "legacy": {
+   "t20": 0,
+   "odi": 90,
+   "test": 91
+  }
+ },
+ {
+  "name": "Jason Gillespie",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 82,
+   "odi": 89,
+   "test": 92
+  }
+ },
+ {
+  "name": "Shoaib Akhtar",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 88,
+   "odi": 96,
+   "test": 93
+  }
+ },
+ {
+  "name": "Brett Lee",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 94,
+   "odi": 98,
+   "test": 92
+  }
+ },
+ {
+  "name": "Shane Bond",
+  "code": "NZ",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 92,
+   "odi": 97,
+   "test": 95
+  }
+ },
+ {
+  "name": "Zaheer Khan",
+  "code": "IN",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2000s",
+  "legacy": {
+   "t20": 87,
+   "odi": 92,
+   "test": 93
+  }
+ },
+ {
+  "name": "James Anderson",
+  "code": "ENG",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 78,
+   "odi": 91,
+   "test": 98
+  }
+ },
+ {
+  "name": "Stuart Broad",
+  "code": "ENG",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 85,
+   "odi": 88,
+   "test": 96
+  }
+ },
+ {
+  "name": "Dale Steyn",
+  "code": "SA",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 96,
+   "test": 99
+  }
+ },
+ {
+  "name": "Lasith Malinga",
+  "code": "SL",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 99,
+   "odi": 97,
+   "test": 87
+  }
+ },
+ {
+  "name": "Mitchell Johnson",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 89,
+   "odi": 94,
+   "test": 95
+  }
+ },
+ {
+  "name": "Mitchell Starc",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 94,
+   "odi": 99,
+   "test": 95
+  }
+ },
+ {
+  "name": "Trent Boult",
+  "code": "NZ",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 96,
+   "odi": 97,
+   "test": 94
+  }
+ },
+ {
+  "name": "Tim Southee",
+  "code": "NZ",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 92,
+   "odi": 89,
+   "test": 92
+  }
+ },
+ {
+  "name": "Jasprit Bumrah",
+  "code": "IN",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 99,
+   "odi": 97,
+   "test": 99
+  }
+ },
+ {
+  "name": "Pat Cummins",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 88,
+   "odi": 93,
+   "test": 99
+  }
+ },
+ {
+  "name": "Josh Hazlewood",
+  "code": "AU",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 96,
+   "odi": 95,
+   "test": 96
+  }
+ },
+ {
+  "name": "Kagiso Rabada",
+  "code": "SA",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 94,
+   "odi": 94,
+   "test": 97
+  }
+ },
+ {
+  "name": "Shaheen Afridi",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 95,
+   "odi": 95,
+   "test": 91
+  }
+ },
+ {
+  "name": "Mohammad Amir",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 93,
+   "odi": 93,
+   "test": 88
+  }
+ },
+ {
+  "name": "Naseem Shah",
+  "code": "PK",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 90,
+   "odi": 91,
+   "test": 88
+  }
+ },
+ {
+  "name": "Jofra Archer",
+  "code": "ENG",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 96,
+   "odi": 94,
+   "test": 89
+  }
+ },
+ {
+  "name": "Mark Wood",
+  "code": "ENG",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2020s",
+  "legacy": {
+   "t20": 90,
+   "odi": 89,
+   "test": 91
+  }
+ },
+ {
+  "name": "Mustafizur Rahman",
+  "code": "BD",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 95,
+   "odi": 92,
+   "test": 77
+  }
+ },
+ {
+  "name": "Morne Morkel",
+  "code": "SA",
+  "category": "FAST",
+  "style": "pace",
+  "era": "2010s",
+  "legacy": {
+   "t20": 88,
+   "odi": 92,
+   "test": 93
+  }
+ }
+]

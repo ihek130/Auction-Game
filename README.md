@@ -1,6 +1,8 @@
 # Cricket Auction — online multiplayer
 
-Two players on separate devices, one shared auction. This project includes the website, a Vercel API, and shared room storage through Upstash Redis. It is ready for you to deploy; it is not already hosted.
+Two players on separate devices, one shared auction — or one player against the computer. This project includes the website, a Vercel API, and shared room storage through Upstash Redis. It is ready for you to deploy; it is not already hosted.
+
+Player ratings are derived from real career statistics and published ICC rating points. See [Where the ratings come from](#where-the-ratings-come-from).
 
 ## Deploy free on Vercel
 
@@ -53,8 +55,100 @@ Official setup and plan documentation, checked September 2026:
    | 5 | Wildcard: any category | 1 |
 
 - In the wildcard round, the nominated side chooses a category. A random unowned player from that category is revealed; either side can bid if their wildcard slot is empty. Category selection itself has no timer. After every sale, either participant can reveal the next player.
-- The 148-player master pool represents cricketers from the 1990–2026 period. Eligibility differs by format: 127 T20, 148 ODI, 142 Test. The order is shuffled within categories, and future players are never sent to the browser.
-- Results appear only when **both sides have exactly 12 players**. Score is the sum of all twelve format ratings; money remaining breaks a tied score, otherwise it is a draw. Ratings are authored game ratings, not official rankings, live statistics, or a match simulation.
+- The 148-player master pool represents cricketers from the 1990–2026 period. Eligibility differs by format, because a player only enters a pool if they actually played enough of it: 116 T20, 128 ODI, 114 Test. The order is shuffled within categories, and future players are never sent to the browser.
+- Each cricketer on the block shows three real career numbers for the format being played, so you are bidding on a record rather than a name.
+- Results appear only when **both sides have exactly 12 players**. Money remaining breaks a tied score, otherwise it is a draw.
+
+## How a squad is scored
+
+Raw star power is no longer enough. A finished squad is marked out of 1000 across six components, and the results screen shows both sides side by side so you can see where the game turned.
+
+| Component | Max | What it measures |
+| --- | --- | --- |
+| Squad quality | 420 | The average format rating across all twelve players. |
+| Batting strength | 160 | The seven best batting contributions in the squad. |
+| Bowling strength | 160 | The five best bowling contributions. |
+| Fielding & keeping | 80 | Ground fielding and glovework across the squad. |
+| Balance & combination | 100 | How closely the squad matches the shape the format asks for. |
+| Impact players | 80 | Match-winners who can settle a game on their own. |
+
+A player's batting and bowling contributions are weighted by role: a specialist batter's rating counts in full towards batting and barely at all towards bowling, while an all-rounder contributes substantially to both. Balance is measured against a per-format plan — Test cricket wants a third seamer, T20 wants two spinners and more all-round cover — and each requirement is scored proportionally, so a missing keeper costs you but a sixth batting option earns nothing extra.
+
+The practical effect: nine batters and three quicks will lose to a balanced twelve of similar raw quality. Each seat's squad panel shows its current shape during the auction, so you can see the gaps while there is still money to fix them.
+
+## Where the ratings come from
+
+Ratings are **derived from real statistics**, not authored by hand. Two committed data files feed a single build step:
+
+- `data/career-stats.json` — career statistics per player per format: matches, runs, batting average and strike rate, hundreds, wickets, bowling average, economy and, where available, bowling strike rate. Test, ODI and T20 International records come from Wikipedia player articles read as **raw wikitext**, so infobox fields are parsed verbatim instead of being summarised, cross-checked against the per-country lists of Test, ODI and Twenty20 International cricketers. Those infoboxes cite ESPNcricinfo. Strike rates and economies, which infoboxes do not publish, were **computed exactly** from runs and balls faced, or runs conceded and balls bowled, using figures from robots-permitted statistics sites, and independently reproduced against Wikipedia's own ball counts. The file also carries an all-Twenty20 career line for 119 players, covering franchise leagues as well as internationals.
+- `data/icc-ratings.json` — ICC Men's Player Rankings rating points on the official 0–1000 scale, including the published best-ever tables that cover retired players. Cross-validated against the ICC-cited tables in Wikipedia's *ICC Men's Player Rankings* article, which matched exactly on every row checked.
+
+Coverage: Test records for 125 of 148 players, ODI for 131, T20 International for 106 with a batting strike rate for all of them, and an all-Twenty20 line for 119. Every record carries its source URLs and a confidence flag; 131 are high confidence, 16 medium and 1 low.
+
+`tools/build-ratings.cjs` turns those into the 0–99 game rating for each player and format and writes `lib/players.cjs`. Rebuild any time with:
+
+```sh
+npm run ratings          # regenerate lib/players.cjs
+npm run ratings:check    # fail if the generated file is out of date
+```
+
+Every player runs through the same published curves — no per-player fudging. In outline:
+
+1. Batting and bowling are scored separately from the real career numbers, on curves anchored to what those numbers mean in each format. A Test average of 50 is a great player; a T20 economy of 6.2 is an excellent one.
+2. The two are combined according to the player's role.
+3. Where the player appears in an ICC ranking table, the published rating points are blended in.
+4. Short international careers are pulled back towards a solid-but-unremarkable baseline, so a handful of good matches cannot read as an all-time great.
+
+A rating of 0 means the player did not play enough of that format to enter its pool.
+
+### Honest limits
+
+- **Some players are missing a figure.** Where a statistic could not be verified it is left empty rather than estimated, and the rating is built from what is there. Where a batting strike rate is missing, ICC rating points are given more of the say, because those do account for scoring rate.
+- **The two sites that supplied strike rates agree to the decimal**, which suggests a shared upstream feed. Treat them as one source corroborated by Wikipedia, not as two independent ones.
+- **A handful of retired players have no T20 record at all** and are correctly absent from the T20 pool rather than given a guessed one.
+- Figures for active players are a snapshot and drift as they keep playing.
+- ESPNcricinfo, Cricbuzz and several other statistics sites either block automated access or disallow it in robots.txt. Nothing behind those was scraped.
+- The final 0–99 number is still a **game rating for an auction**, not an official ranking or a match simulation. The inputs are real; the curves that turn them into a score are a design choice, and they are all in one readable file if you want to argue with them.
+
+## Play against the computer
+
+Pick **The computer** on the home screen and the auction starts immediately: no invite link, no second device, no waiting. Three difficulties are offered.
+
+| Level | Name | Behaviour |
+| --- | --- | --- |
+| Rookie | Rookie Raj | Values players below their worth and gives up on contested lots early. |
+| Pro | Pro Priya | Even-handed valuation with a little unpredictability. |
+| Legend | Legend Lara | Prices a lot accurately, notices scarcity, and stretches for a player it still needs. |
+
+The computer sees exactly what a human seat sees. It never reads the shuffled deck or any unrevealed player. It values the cricketer on the block from its remaining budget per unfilled slot, how that player rates against the others still available in the stage, and the holes left in its own squad, then bids in small irregular steps rather than jumping to its limit.
+
+No background process runs on the server. The computer's moves are worked out when a request arrives, in exactly the same way expired turns are, so a solo game costs no more to host than a two-player one. It pauses for a second or two before acting so the auction stays readable.
+
+A solo room cannot be joined by a second person.
+
+## Chat and reactions
+
+Every room has a chat panel — open it with the **Chat** button during an auction; it sits on the lobby and results screens too. Alongside typed messages there is a one-tap reaction bar of sixteen emoji for the moments that do not need words.
+
+- Messages are capped at 160 characters, and a room keeps the last 60.
+- One message per seat per 0.7 seconds. The browser greys out the send button and the reaction bar for the same interval, so a fast second tap is ignored rather than rejected.
+- Chat deliberately does **not** touch the auction's revision counter: a message arriving while you are typing a bid can never invalidate that bid.
+- Control characters are stripped and all text is escaped when displayed.
+- The computer reacts to lots it wins and loses, and will occasionally answer you.
+
+Messages travel on the same two-second poll as the rest of the room, so expect a short delay rather than instant delivery.
+
+## On a phone
+
+The layout is built mobile-first and tested at 390 CSS pixels wide.
+
+- One column on a phone, two from 700 pixels, and the full board with a side panel from 1000.
+- No sideways scrolling at any width. The stage strip and the reaction bar scroll horizontally inside themselves instead of stretching the page.
+- Tap targets are at least 46 pixels; inputs use a 16-pixel font so iOS does not zoom when you focus them.
+- Quick-bid chips (**+$1**, **+$2**, **+$5**, **Max**) fill the bid box without typing.
+- The page respects the safe-area inset at the bottom of a notched phone, and honours `prefers-reduced-motion`.
+
+The browser **Back** button returns you to the home screen rather than leaving the site. Opening an invite link cold still works: a home entry is put behind the room so Back has somewhere to go.
 
 ## Keyboard controls and reconnecting
 

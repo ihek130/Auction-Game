@@ -1,0 +1,5778 @@
+{
+  "test_bat_best": [
+    {
+      "rank": 1,
+      "name": "Don Bradman",
+      "country": "Australia",
+      "rating": 961,
+      "kind": "peak",
+      "date": "1934-08-22"
+    },
+    {
+      "rank": 2,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "rating": 947,
+      "kind": "peak",
+      "date": "2017-12-30"
+    },
+    {
+      "rank": 3,
+      "name": "Len Hutton",
+      "country": "England",
+      "rating": 945,
+      "kind": "peak",
+      "date": "1954-04-03"
+    },
+    {
+      "rank": 4,
+      "name": "Ricky Ponting",
+      "country": "Australia",
+      "rating": 942,
+      "kind": "peak",
+      "date": "2006-12-05"
+    },
+    {
+      "rank": 4,
+      "name": "Jack Hobbs",
+      "country": "England",
+      "rating": 942,
+      "kind": "peak",
+      "date": "1912-08-23"
+    },
+    {
+      "rank": 6,
+      "name": "Peter May",
+      "country": "England",
+      "rating": 941,
+      "kind": "peak",
+      "date": "1956-08-27"
+    },
+    {
+      "rank": 7,
+      "name": "Garry Sobers",
+      "country": "West Indies",
+      "rating": 938,
+      "kind": "peak",
+      "date": "1967-01-17"
+    },
+    {
+      "rank": 7,
+      "name": "Viv Richards",
+      "country": "West Indies",
+      "rating": 938,
+      "kind": "peak",
+      "date": "1981-03-31"
+    },
+    {
+      "rank": 7,
+      "name": "Clyde Walcott",
+      "country": "West Indies",
+      "rating": 938,
+      "kind": "peak",
+      "date": "1955-06-15"
+    },
+    {
+      "rank": 7,
+      "name": "Kumar Sangakkara",
+      "country": "Sri Lanka",
+      "rating": 938,
+      "kind": "peak",
+      "date": "2007-12-05"
+    },
+    {
+      "rank": 11,
+      "name": "Virat Kohli",
+      "country": "India",
+      "rating": 937,
+      "kind": "peak",
+      "date": "2018-08-22"
+    },
+    {
+      "rank": 11,
+      "name": "Marnus Labuschagne",
+      "country": "Australia",
+      "rating": 937,
+      "kind": "peak",
+      "date": "2022-12-12"
+    },
+    {
+      "rank": 13,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "rating": 935,
+      "kind": "peak",
+      "date": "2014-02-24"
+    },
+    {
+      "rank": 13,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 935,
+      "kind": "peak",
+      "date": "2007-11-22"
+    },
+    {
+      "rank": 13,
+      "name": "Matthew Hayden",
+      "country": "Australia",
+      "rating": 935,
+      "kind": "peak",
+      "date": "2002-11-11"
+    },
+    {
+      "rank": 16,
+      "name": "Mohammad Yousuf",
+      "country": "Pakistan",
+      "rating": 933,
+      "kind": "peak",
+      "date": "2006-12-01"
+    },
+    {
+      "rank": 17,
+      "name": "Joe Root",
+      "country": "England",
+      "rating": 932,
+      "kind": "peak",
+      "date": "2024-10-11"
+    },
+    {
+      "rank": 18,
+      "name": "Everton Weekes",
+      "country": "West Indies",
+      "rating": 927,
+      "kind": "peak",
+      "date": "1956-03-07"
+    },
+    {
+      "rank": 18,
+      "name": "Graeme Pollock",
+      "country": "South Africa",
+      "rating": 927,
+      "kind": "peak",
+      "date": "1970-02-23"
+    },
+    {
+      "rank": 20,
+      "name": "Doug Walters",
+      "country": "Australia",
+      "rating": 922,
+      "kind": "peak",
+      "date": "1970-02-23"
+    },
+    {
+      "rank": 20,
+      "name": "Dudley Nourse",
+      "country": "South Africa",
+      "rating": 922,
+      "kind": "peak",
+      "date": "1951-06-11"
+    },
+    {
+      "rank": 22,
+      "name": "Neil Harvey",
+      "country": "Australia",
+      "rating": 921,
+      "kind": "peak",
+      "date": "1953-02-10"
+    },
+    {
+      "rank": 22,
+      "name": "Mike Hussey",
+      "country": "Australia",
+      "rating": 921,
+      "kind": "peak",
+      "date": "2008-05-27"
+    },
+    {
+      "rank": 24,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 919,
+      "kind": "peak",
+      "date": "2021-01-07"
+    },
+    {
+      "rank": 25,
+      "name": "Denis Compton",
+      "country": "England",
+      "rating": 917,
+      "kind": "peak",
+      "date": "1948-07-12"
+    },
+    {
+      "rank": 26,
+      "name": "Sunil Gavaskar",
+      "country": "India",
+      "rating": 916,
+      "kind": "peak",
+      "date": "1979-09-03"
+    },
+    {
+      "rank": 27,
+      "name": "George Headley",
+      "country": "West Indies",
+      "rating": 915,
+      "kind": "peak",
+      "date": "1948-01-25"
+    },
+    {
+      "rank": 28,
+      "name": "Ken Barrington",
+      "country": "England",
+      "rating": 914,
+      "kind": "peak",
+      "date": "1965-07-12"
+    },
+    {
+      "rank": 29,
+      "name": "Brian Lara",
+      "country": "West Indies",
+      "rating": 911,
+      "kind": "peak",
+      "date": "2004-01-06"
+    },
+    {
+      "rank": 30,
+      "name": "Kevin Pietersen",
+      "country": "England",
+      "rating": 909,
+      "kind": "peak",
+      "date": "2007-06-01"
+    },
+    {
+      "rank": 31,
+      "name": "Hashim Amla",
+      "country": "South Africa",
+      "rating": 907,
+      "kind": "peak",
+      "date": "2013-10-17"
+    },
+    {
+      "rank": 32,
+      "name": "Shivnarine Chanderpaul",
+      "country": "West Indies",
+      "rating": 900,
+      "kind": "peak",
+      "date": "2008-12-23"
+    },
+    {
+      "rank": 32,
+      "name": "Michael Clarke",
+      "country": "Australia",
+      "rating": 900,
+      "kind": "peak",
+      "date": "2012-12-30"
+    },
+    {
+      "rank": 34,
+      "name": "Sachin Tendulkar",
+      "country": "India",
+      "rating": 898,
+      "kind": "peak",
+      "date": "2002-02-25"
+    },
+    {
+      "rank": 34,
+      "name": "Harry Brook",
+      "country": "England",
+      "rating": 898,
+      "kind": "peak",
+      "date": "2024-12-10"
+    },
+    {
+      "rank": 36,
+      "name": "Wally Hammond",
+      "country": "England",
+      "rating": 896,
+      "kind": "peak",
+      "date": "1933-04-04"
+    },
+    {
+      "rank": 37,
+      "name": "Steve Waugh",
+      "country": "Australia",
+      "rating": 895,
+      "kind": "peak",
+      "date": "1997-07-07"
+    },
+    {
+      "rank": 37,
+      "name": "Andy Flower",
+      "country": "Zimbabwe",
+      "rating": 895,
+      "kind": "peak",
+      "date": "2001-11-19"
+    },
+    {
+      "rank": 39,
+      "name": "Rahul Dravid",
+      "country": "India",
+      "rating": 892,
+      "kind": "peak",
+      "date": "2005-03-20"
+    },
+    {
+      "rank": 40,
+      "name": "Colin McDonald",
+      "country": "Australia",
+      "rating": 890,
+      "kind": "peak",
+      "date": "1959-11-17"
+    },
+    {
+      "rank": 41,
+      "name": "Cheteshwar Pujara",
+      "country": "India",
+      "rating": 888,
+      "kind": "peak",
+      "date": "2017-08-07"
+    },
+    {
+      "rank": 42,
+      "name": "Herbert Sutcliffe",
+      "country": "England",
+      "rating": 887,
+      "kind": "peak",
+      "date": "1933-01-03"
+    },
+    {
+      "rank": 43,
+      "name": "Clem Hill",
+      "country": "Australia",
+      "rating": 886,
+      "kind": "peak",
+      "date": "1902-11-12"
+    },
+    {
+      "rank": 43,
+      "name": "Gautam Gambhir",
+      "country": "India",
+      "rating": 886,
+      "kind": "peak",
+      "date": "2009-11-28"
+    },
+    {
+      "rank": 45,
+      "name": "Javed Miandad",
+      "country": "Pakistan",
+      "rating": 885,
+      "kind": "peak",
+      "date": "1989-02-28"
+    },
+    {
+      "rank": 46,
+      "name": "Travis Head",
+      "country": "Australia",
+      "rating": 884,
+      "kind": "peak",
+      "date": "2023-06-11"
+    },
+    {
+      "rank": 47,
+      "name": "Mahela Jayawardene",
+      "country": "Sri Lanka",
+      "rating": 883,
+      "kind": "peak",
+      "date": "2009-11-20"
+    },
+    {
+      "rank": 47,
+      "name": "Greg Chappell",
+      "country": "Australia",
+      "rating": 883,
+      "kind": "peak",
+      "date": "1977-01-05"
+    },
+    {
+      "rank": 49,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 882,
+      "kind": "peak",
+      "date": "2022-12-30"
+    },
+    {
+      "rank": 50,
+      "name": "Younus Khan",
+      "country": "Pakistan",
+      "rating": 880,
+      "kind": "peak",
+      "date": "2009-02-25"
+    },
+    {
+      "rank": 50,
+      "name": "David Warner",
+      "country": "Australia",
+      "rating": 880,
+      "kind": "peak",
+      "date": "2014-12-13"
+    },
+    {
+      "rank": 52,
+      "name": "Bill Lawry",
+      "country": "Australia",
+      "rating": 878,
+      "kind": "peak",
+      "date": "1969-02-18"
+    },
+    {
+      "rank": 53,
+      "name": "Aubrey Faulkner",
+      "country": "South Africa",
+      "rating": 877,
+      "kind": "peak",
+      "date": "1912-05-31"
+    },
+    {
+      "rank": 53,
+      "name": "Angelo Mathews",
+      "country": "Sri Lanka",
+      "rating": 877,
+      "kind": "peak",
+      "date": "2014-12-30"
+    },
+    {
+      "rank": 53,
+      "name": "Allan Border",
+      "country": "Australia",
+      "rating": 877,
+      "kind": "peak",
+      "date": "1981-08-31"
+    },
+    {
+      "rank": 56,
+      "name": "Richie Richardson",
+      "country": "West Indies",
+      "rating": 876,
+      "kind": "peak",
+      "date": "1989-05-02"
+    },
+    {
+      "rank": 56,
+      "name": "Michael Vaughan",
+      "country": "England",
+      "rating": 876,
+      "kind": "peak",
+      "date": "2003-01-06"
+    },
+    {
+      "rank": 58,
+      "name": "Rohan Kanhai",
+      "country": "West Indies",
+      "rating": 875,
+      "kind": "peak",
+      "date": "1963-08-26"
+    },
+    {
+      "rank": 59,
+      "name": "Adam Gilchrist",
+      "country": "Australia",
+      "rating": 874,
+      "kind": "peak",
+      "date": "2002-03-12"
+    },
+    {
+      "rank": 59,
+      "name": "Alastair Cook",
+      "country": "England",
+      "rating": 874,
+      "kind": "peak",
+      "date": "2012-12-09"
+    },
+    {
+      "rank": 59,
+      "name": "Colin Cowdrey",
+      "country": "England",
+      "rating": 874,
+      "kind": "peak",
+      "date": "1958-06-23"
+    },
+    {
+      "rank": 62,
+      "name": "Graham Gooch",
+      "country": "England",
+      "rating": 873,
+      "kind": "peak",
+      "date": "1992-07-27"
+    },
+    {
+      "rank": 63,
+      "name": "Gundappa Viswanath",
+      "country": "India",
+      "rating": 871,
+      "kind": "peak",
+      "date": "1979-10-17"
+    },
+    {
+      "rank": 64,
+      "name": "Vijay Hazare",
+      "country": "India",
+      "rating": 870,
+      "kind": "peak",
+      "date": "1952-11-17"
+    },
+    {
+      "rank": 64,
+      "name": "Ross Taylor",
+      "country": "New Zealand",
+      "rating": 870,
+      "kind": "peak",
+      "date": "2013-12-23"
+    },
+    {
+      "rank": 64,
+      "name": "Ted Dexter",
+      "country": "England",
+      "rating": 870,
+      "kind": "peak",
+      "date": "1963-01-02"
+    },
+    {
+      "rank": 67,
+      "name": "Inzamam-ul-Haq",
+      "country": "Pakistan",
+      "rating": 869,
+      "kind": "peak",
+      "date": "2005-12-03"
+    },
+    {
+      "rank": 68,
+      "name": "Virender Sehwag",
+      "country": "India",
+      "rating": 866,
+      "kind": "peak",
+      "date": "2010-07-22"
+    },
+    {
+      "rank": 69,
+      "name": "Alvin Kallicharran",
+      "country": "West Indies",
+      "rating": 865,
+      "kind": "peak",
+      "date": "1975-12-16"
+    },
+    {
+      "rank": 70,
+      "name": "Yashasvi Jaiswal",
+      "country": "India",
+      "rating": 858,
+      "kind": "peak",
+      "date": "2025-07-06"
+    },
+    {
+      "rank": 71,
+      "name": "Jonathan Trott",
+      "country": "England",
+      "rating": 856,
+      "kind": "peak",
+      "date": "2011-05-30"
+    },
+    {
+      "rank": 72,
+      "name": "Stan McCabe",
+      "country": "Australia",
+      "rating": 855,
+      "kind": "peak",
+      "date": "1938-06-14"
+    },
+    {
+      "rank": 73,
+      "name": "Lindsay Hassett",
+      "country": "Australia",
+      "rating": 854,
+      "kind": "peak",
+      "date": "1952-01-04"
+    },
+    {
+      "rank": 74,
+      "name": "Bobby Simpson",
+      "country": "Australia",
+      "rating": 853,
+      "kind": "peak",
+      "date": "1967-01-04"
+    },
+    {
+      "rank": 75,
+      "name": "Arthur Morris",
+      "country": "Australia",
+      "rating": 850,
+      "kind": "peak",
+      "date": "1951-11-13"
+    },
+    {
+      "rank": 76,
+      "name": "Damien Martyn",
+      "country": "Australia",
+      "rating": 848,
+      "kind": "peak",
+      "date": "2005-03-22"
+    },
+    {
+      "rank": 77,
+      "name": "Usman Khawaja",
+      "country": "Australia",
+      "rating": 847,
+      "kind": "peak",
+      "date": "2023-07-02"
+    },
+    {
+      "rank": 78,
+      "name": "Glenn Turner",
+      "country": "New Zealand",
+      "rating": 845,
+      "kind": "peak",
+      "date": "1974-03-26"
+    },
+    {
+      "rank": 79,
+      "name": "Herbert Taylor",
+      "country": "South Africa",
+      "rating": 844,
+      "kind": "peak",
+      "date": "1923-02-20"
+    },
+    {
+      "rank": 79,
+      "name": "Gordon Greenidge",
+      "country": "West Indies",
+      "rating": 844,
+      "kind": "peak",
+      "date": "1984-07-30"
+    },
+    {
+      "rank": 81,
+      "name": "Graeme Smith",
+      "country": "South Africa",
+      "rating": 843,
+      "kind": "peak",
+      "date": "2010-01-18"
+    },
+    {
+      "rank": 82,
+      "name": "Misbah-ul-Haq",
+      "country": "Pakistan",
+      "rating": 842,
+      "kind": "peak",
+      "date": "2014-11-13"
+    },
+    {
+      "rank": 83,
+      "name": "Dilip Vengsarkar",
+      "country": "India",
+      "rating": 837,
+      "kind": "peak",
+      "date": "1988-11-16"
+    },
+    {
+      "rank": 84,
+      "name": "Kim Hughes",
+      "country": "Australia",
+      "rating": 828,
+      "kind": "peak",
+      "date": "1981-01-27"
+    },
+    {
+      "rank": 84,
+      "name": "Frank Worrell",
+      "country": "West Indies",
+      "rating": 828,
+      "kind": "peak",
+      "date": "1954-02-10"
+    },
+    {
+      "rank": 86,
+      "name": "Ben Stokes",
+      "country": "England",
+      "rating": 827,
+      "kind": "peak",
+      "date": "2020-07-20"
+    },
+    {
+      "rank": 87,
+      "name": "Dennis Amiss",
+      "country": "England",
+      "rating": 825,
+      "kind": "peak",
+      "date": "1974-07-08"
+    },
+    {
+      "rank": 87,
+      "name": "Herschelle Gibbs",
+      "country": "South Africa",
+      "rating": 825,
+      "kind": "peak",
+      "date": "2004-01-20"
+    },
+    {
+      "rank": 87,
+      "name": "Ajinkya Rahane",
+      "country": "India",
+      "rating": 825,
+      "kind": "peak",
+      "date": "2016-10-11"
+    },
+    {
+      "rank": 90,
+      "name": "Adam Voges",
+      "country": "Australia",
+      "rating": 824,
+      "kind": "peak",
+      "date": "2016-08-07"
+    },
+    {
+      "rank": 90,
+      "name": "Saeed Anwar",
+      "country": "Pakistan",
+      "rating": 824,
+      "kind": "peak",
+      "date": "1999-11-09"
+    },
+    {
+      "rank": 92,
+      "name": "Ian Bell",
+      "country": "England",
+      "rating": 823,
+      "kind": "peak",
+      "date": "2011-08-22"
+    },
+    {
+      "rank": 92,
+      "name": "Conrad Hunte",
+      "country": "West Indies",
+      "rating": 823,
+      "kind": "peak",
+      "date": "1966-06-06"
+    },
+    {
+      "rank": 94,
+      "name": "David Gower",
+      "country": "England",
+      "rating": 822,
+      "kind": "peak",
+      "date": "1986-03-25"
+    },
+    {
+      "rank": 95,
+      "name": "Bill Woodfull",
+      "country": "Australia",
+      "rating": 821,
+      "kind": "peak",
+      "date": "1932-02-02"
+    },
+    {
+      "rank": 96,
+      "name": "Hanif Mohammad",
+      "country": "Pakistan",
+      "rating": 819,
+      "kind": "peak",
+      "date": "1960-12-06"
+    },
+    {
+      "rank": 97,
+      "name": "Bob Cowper",
+      "country": "Australia",
+      "rating": 818,
+      "kind": "peak",
+      "date": "1968-01-30"
+    },
+    {
+      "rank": 97,
+      "name": "Clive Lloyd",
+      "country": "West Indies",
+      "rating": 818,
+      "kind": "peak",
+      "date": "1983-12-14"
+    },
+    {
+      "rank": 97,
+      "name": "Marcus Trescothick",
+      "country": "England",
+      "rating": 818,
+      "kind": "peak",
+      "date": "2005-11-16"
+    },
+    {
+      "rank": 100,
+      "name": "Jimmy Adams",
+      "country": "West Indies",
+      "rating": 813,
+      "kind": "peak",
+      "date": "1995-04-25"
+    }
+  ],
+  "test_bowl_best": [
+    {
+      "rank": 1,
+      "name": "Sydney Barnes",
+      "country": "England",
+      "rating": 932,
+      "kind": "peak",
+      "date": "1914-02-18"
+    },
+    {
+      "rank": 2,
+      "name": "George Lohmann",
+      "country": "England",
+      "rating": 931,
+      "kind": "peak",
+      "date": "1896-03-06"
+    },
+    {
+      "rank": 3,
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "rating": 922,
+      "kind": "peak",
+      "date": "1983-02-03"
+    },
+    {
+      "rank": 4,
+      "name": "Muttiah Muralidaran",
+      "country": "Sri Lanka",
+      "rating": 920,
+      "kind": "peak",
+      "date": "2007-07-15"
+    },
+    {
+      "rank": 5,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "rating": 914,
+      "kind": "peak",
+      "date": "2019-08-18"
+    },
+    {
+      "rank": 5,
+      "name": "Glenn McGrath",
+      "country": "Australia",
+      "rating": 914,
+      "kind": "peak",
+      "date": "2001-08-27"
+    },
+    {
+      "rank": 7,
+      "name": "Tony Lock",
+      "country": "England",
+      "rating": 912,
+      "kind": "peak",
+      "date": "1958-07-28"
+    },
+    {
+      "rank": 7,
+      "name": "Curtly Ambrose",
+      "country": "West Indies",
+      "rating": 912,
+      "kind": "peak",
+      "date": "1994-03-29"
+    },
+    {
+      "rank": 7,
+      "name": "Vernon Philander",
+      "country": "South Africa",
+      "rating": 912,
+      "kind": "peak",
+      "date": "2013-12-22"
+    },
+    {
+      "rank": 10,
+      "name": "Ian Botham",
+      "country": "England",
+      "rating": 911,
+      "kind": "peak",
+      "date": "1980-02-19"
+    },
+    {
+      "rank": 11,
+      "name": "Malcolm Marshall",
+      "country": "West Indies",
+      "rating": 910,
+      "kind": "peak",
+      "date": "1988-07-04"
+    },
+    {
+      "rank": 12,
+      "name": "Dale Steyn",
+      "country": "South Africa",
+      "rating": 909,
+      "kind": "peak",
+      "date": "2014-12-21"
+    },
+    {
+      "rank": 12,
+      "name": "Shaun Pollock",
+      "country": "South Africa",
+      "rating": 909,
+      "kind": "peak",
+      "date": "1999-11-29"
+    },
+    {
+      "rank": 12,
+      "name": "Richard Hadlee",
+      "country": "New Zealand",
+      "rating": 909,
+      "kind": "peak",
+      "date": "1985-12-04"
+    },
+    {
+      "rank": 12,
+      "name": "Waqar Younis",
+      "country": "Pakistan",
+      "rating": 909,
+      "kind": "peak",
+      "date": "1993-12-13"
+    },
+    {
+      "rank": 16,
+      "name": "Alan Davidson",
+      "country": "Australia",
+      "rating": 908,
+      "kind": "peak",
+      "date": "1961-01-17"
+    },
+    {
+      "rank": 16,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 908,
+      "kind": "peak",
+      "date": "2025-01-07"
+    },
+    {
+      "rank": 18,
+      "name": "Derek Underwood",
+      "country": "England",
+      "rating": 907,
+      "kind": "peak",
+      "date": "1971-03-09"
+    },
+    {
+      "rank": 19,
+      "name": "Shane Warne",
+      "country": "Australia",
+      "rating": 905,
+      "kind": "peak",
+      "date": "1994-12-28"
+    },
+    {
+      "rank": 20,
+      "name": "Ravichandr Ashwin",
+      "country": "India",
+      "rating": 904,
+      "kind": "peak",
+      "date": "2016-12-12"
+    },
+    {
+      "rank": 21,
+      "name": "Alec Bedser",
+      "country": "England",
+      "rating": 903,
+      "kind": "peak",
+      "date": "1953-07-13"
+    },
+    {
+      "rank": 21,
+      "name": "James Anderson",
+      "country": "England",
+      "rating": 903,
+      "kind": "peak",
+      "date": "2018-08-13"
+    },
+    {
+      "rank": 23,
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "rating": 902,
+      "kind": "peak",
+      "date": "2018-03-12"
+    },
+    {
+      "rank": 24,
+      "name": "Clarrie Grimmett",
+      "country": "Australia",
+      "rating": 901,
+      "kind": "peak",
+      "date": "1936-03-03"
+    },
+    {
+      "rank": 25,
+      "name": "Bill O'Reilly",
+      "country": "Australia",
+      "rating": 900,
+      "kind": "peak",
+      "date": "1946-04-02"
+    },
+    {
+      "rank": 25,
+      "name": "Bill Johnston",
+      "country": "Australia",
+      "rating": 900,
+      "kind": "peak",
+      "date": "1952-01-04"
+    },
+    {
+      "rank": 27,
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "rating": 899,
+      "kind": "peak",
+      "date": "2017-03-20"
+    },
+    {
+      "rank": 28,
+      "name": "Wes Hall",
+      "country": "West Indies",
+      "rating": 898,
+      "kind": "peak",
+      "date": "1962-04-08"
+    },
+    {
+      "rank": 29,
+      "name": "Ray Lindwall",
+      "country": "Australia",
+      "rating": 897,
+      "kind": "peak",
+      "date": "1954-11-30"
+    },
+    {
+      "rank": 29,
+      "name": "Jim Laker",
+      "country": "England",
+      "rating": 897,
+      "kind": "peak",
+      "date": "1956-08-27"
+    },
+    {
+      "rank": 29,
+      "name": "Fred Trueman",
+      "country": "England",
+      "rating": 897,
+      "kind": "peak",
+      "date": "1963-07-08"
+    },
+    {
+      "rank": 29,
+      "name": "Lance Gibbs",
+      "country": "West Indies",
+      "rating": 897,
+      "kind": "peak",
+      "date": "1966-06-06"
+    },
+    {
+      "rank": 33,
+      "name": "Hugh Tayfield",
+      "country": "South Africa",
+      "rating": 895,
+      "kind": "peak",
+      "date": "1957-02-19"
+    },
+    {
+      "rank": 33,
+      "name": "Fazal Mahmood",
+      "country": "Pakistan",
+      "rating": 895,
+      "kind": "peak",
+      "date": "1959-03-10"
+    },
+    {
+      "rank": 33,
+      "name": "Allan Donald",
+      "country": "South Africa",
+      "rating": 895,
+      "kind": "peak",
+      "date": "1999-11-29"
+    },
+    {
+      "rank": 36,
+      "name": "Hugh Trumble",
+      "country": "Australia",
+      "rating": 891,
+      "kind": "peak",
+      "date": "1902-08-15"
+    },
+    {
+      "rank": 37,
+      "name": "Joel Garner",
+      "country": "West Indies",
+      "rating": 890,
+      "kind": "peak",
+      "date": "1981-01-03"
+    },
+    {
+      "rank": 37,
+      "name": "Andy Roberts",
+      "country": "West Indies",
+      "rating": 890,
+      "kind": "peak",
+      "date": "1976-07-26"
+    },
+    {
+      "rank": 39,
+      "name": "Colin Croft",
+      "country": "West Indies",
+      "rating": 888,
+      "kind": "peak",
+      "date": "1981-03-31"
+    },
+    {
+      "rank": 40,
+      "name": "Johnny Briggs",
+      "country": "England",
+      "rating": 886,
+      "kind": "peak",
+      "date": "1893-08-28"
+    },
+    {
+      "rank": 41,
+      "name": "Dennis Lillee",
+      "country": "Australia",
+      "rating": 884,
+      "kind": "peak",
+      "date": "1977-03-16"
+    },
+    {
+      "rank": 42,
+      "name": "Stuart Broad",
+      "country": "England",
+      "rating": 880,
+      "kind": "peak",
+      "date": "2016-01-18"
+    },
+    {
+      "rank": 43,
+      "name": "Yasir Shah",
+      "country": "Pakistan",
+      "rating": 878,
+      "kind": "peak",
+      "date": "2016-07-18"
+    },
+    {
+      "rank": 44,
+      "name": "Kapil Dev",
+      "country": "India",
+      "rating": 877,
+      "kind": "peak",
+      "date": "1980-01-19"
+    },
+    {
+      "rank": 45,
+      "name": "Steve Harmison",
+      "country": "England",
+      "rating": 875,
+      "kind": "peak",
+      "date": "2004-08-23"
+    },
+    {
+      "rank": 46,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "rating": 872,
+      "kind": "peak",
+      "date": "2026-08-26"
+    },
+    {
+      "rank": 47,
+      "name": "Matt Henry",
+      "country": "New Zealand",
+      "rating": 870,
+      "kind": "peak",
+      "date": "2026-06-21"
+    },
+    {
+      "rank": 47,
+      "name": "Ryan Harris",
+      "country": "Australia",
+      "rating": 870,
+      "kind": "peak",
+      "date": "2014-03-05"
+    },
+    {
+      "rank": 49,
+      "name": "Courtney Walsh",
+      "country": "West Indies",
+      "rating": 868,
+      "kind": "peak",
+      "date": "2000-08-21"
+    },
+    {
+      "rank": 50,
+      "name": "Rangana Herath",
+      "country": "Sri Lanka",
+      "rating": 866,
+      "kind": "peak",
+      "date": "2016-11-10"
+    },
+    {
+      "rank": 51,
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "rating": 864,
+      "kind": "peak",
+      "date": "2017-03-08"
+    },
+    {
+      "rank": 52,
+      "name": "Makhaya Ntini",
+      "country": "South Africa",
+      "rating": 863,
+      "kind": "peak",
+      "date": "2006-12-30"
+    },
+    {
+      "rank": 52,
+      "name": "Stuart Clark",
+      "country": "Australia",
+      "rating": 863,
+      "kind": "peak",
+      "date": "2008-06-16"
+    },
+    {
+      "rank": 52,
+      "name": "Richie Benaud",
+      "country": "Australia",
+      "rating": 863,
+      "kind": "peak",
+      "date": "1959-11-17"
+    },
+    {
+      "rank": 55,
+      "name": "Jason Holder",
+      "country": "West Indies",
+      "rating": 862,
+      "kind": "peak",
+      "date": "2020-07-12"
+    },
+    {
+      "rank": 55,
+      "name": "Keith Miller",
+      "country": "Australia",
+      "rating": 862,
+      "kind": "peak",
+      "date": "1953-01-13"
+    },
+    {
+      "rank": 57,
+      "name": "Michael Holding",
+      "country": "West Indies",
+      "rating": 860,
+      "kind": "peak",
+      "date": "1982-02-03"
+    },
+    {
+      "rank": 58,
+      "name": "Neil Wagner",
+      "country": "New Zealand",
+      "rating": 859,
+      "kind": "peak",
+      "date": "2019-12-30"
+    },
+    {
+      "rank": 58,
+      "name": "Anil Kumble",
+      "country": "India",
+      "rating": 859,
+      "kind": "peak",
+      "date": "1994-01-30"
+    },
+    {
+      "rank": 60,
+      "name": "Graeme Swann",
+      "country": "England",
+      "rating": 858,
+      "kind": "peak",
+      "date": "2010-08-30"
+    },
+    {
+      "rank": 61,
+      "name": "Maurice Tate",
+      "country": "England",
+      "rating": 857,
+      "kind": "peak",
+      "date": "1926-08-18"
+    },
+    {
+      "rank": 62,
+      "name": "Charlie Turner",
+      "country": "Australia",
+      "rating": 855,
+      "kind": "peak",
+      "date": "1895-02-05"
+    },
+    {
+      "rank": 62,
+      "name": "Shoaib Akhtar",
+      "country": "Pakistan",
+      "rating": 855,
+      "kind": "peak",
+      "date": "2003-12-30"
+    },
+    {
+      "rank": 62,
+      "name": "Saeed Ajmal",
+      "country": "Pakistan",
+      "rating": 855,
+      "kind": "peak",
+      "date": "2013-09-07"
+    },
+    {
+      "rank": 65,
+      "name": "Geoff Lawson",
+      "country": "Australia",
+      "rating": 854,
+      "kind": "peak",
+      "date": "1984-01-06"
+    },
+    {
+      "rank": 66,
+      "name": "Noman Ali",
+      "country": "Pakistan",
+      "rating": 853,
+      "kind": "peak",
+      "date": "2025-10-16"
+    },
+    {
+      "rank": 66,
+      "name": "Hedley Verity",
+      "country": "England",
+      "rating": 853,
+      "kind": "peak",
+      "date": "1937-01-05"
+    },
+    {
+      "rank": 68,
+      "name": "Bert Ironmonger",
+      "country": "Australia",
+      "rating": 849,
+      "kind": "peak",
+      "date": "1933-02-14"
+    },
+    {
+      "rank": 68,
+      "name": "Mitchell Johnson",
+      "country": "Australia",
+      "rating": 849,
+      "kind": "peak",
+      "date": "2014-10-26"
+    },
+    {
+      "rank": 70,
+      "name": "Graham McKenzie",
+      "country": "Australia",
+      "rating": 846,
+      "kind": "peak",
+      "date": "1964-12-08"
+    },
+    {
+      "rank": 71,
+      "name": "Charlie Blythe",
+      "country": "England",
+      "rating": 843,
+      "kind": "peak",
+      "date": "1910-03-15"
+    },
+    {
+      "rank": 72,
+      "name": "Neil Adcock",
+      "country": "South Africa",
+      "rating": 841,
+      "kind": "peak",
+      "date": "1962-02-20"
+    },
+    {
+      "rank": 73,
+      "name": "Ian Bishop",
+      "country": "West Indies",
+      "rating": 840,
+      "kind": "peak",
+      "date": "1995-07-10"
+    },
+    {
+      "rank": 74,
+      "name": "Ken Higgs",
+      "country": "England",
+      "rating": 839,
+      "kind": "peak",
+      "date": "1967-08-28"
+    },
+    {
+      "rank": 74,
+      "name": "Tim Southee",
+      "country": "New Zealand",
+      "rating": 839,
+      "kind": "peak",
+      "date": "2021-11-29"
+    },
+    {
+      "rank": 76,
+      "name": "Mohammad Abbas",
+      "country": "Pakistan",
+      "rating": 838,
+      "kind": "peak",
+      "date": "2018-11-19"
+    },
+    {
+      "rank": 77,
+      "name": "Bob Willis",
+      "country": "England",
+      "rating": 837,
+      "kind": "peak",
+      "date": "1978-12-19"
+    },
+    {
+      "rank": 78,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "rating": 836,
+      "kind": "peak",
+      "date": "2022-07-20"
+    },
+    {
+      "rank": 78,
+      "name": "Kyle Jamieson",
+      "country": "New Zealand",
+      "rating": 836,
+      "kind": "peak",
+      "date": "2022-06-06"
+    },
+    {
+      "rank": 80,
+      "name": "John Snow",
+      "country": "England",
+      "rating": 835,
+      "kind": "peak",
+      "date": "1971-01-25"
+    },
+    {
+      "rank": 81,
+      "name": "Neil Hawke",
+      "country": "Australia",
+      "rating": 831,
+      "kind": "peak",
+      "date": "1966-02-01"
+    },
+    {
+      "rank": 81,
+      "name": "Johnny Wardle",
+      "country": "England",
+      "rating": 831,
+      "kind": "peak",
+      "date": "1957-01-29"
+    },
+    {
+      "rank": 81,
+      "name": "Ollie Robinson",
+      "country": "England",
+      "rating": 831,
+      "kind": "peak",
+      "date": "2026-08-31"
+    },
+    {
+      "rank": 81,
+      "name": "Peter Pollock",
+      "country": "South Africa",
+      "rating": 831,
+      "kind": "peak",
+      "date": "1970-02-23"
+    },
+    {
+      "rank": 85,
+      "name": "Wasim Akram",
+      "country": "Pakistan",
+      "rating": 830,
+      "kind": "peak",
+      "date": "1994-10-02"
+    },
+    {
+      "rank": 86,
+      "name": "Frederick Spofforth",
+      "country": "Australia",
+      "rating": 827,
+      "kind": "peak",
+      "date": "1886-08-16"
+    },
+    {
+      "rank": 86,
+      "name": "Mushtaq Ahmed",
+      "country": "Pakistan",
+      "rating": 827,
+      "kind": "peak",
+      "date": "1996-12-02"
+    },
+    {
+      "rank": 86,
+      "name": "Bobby Peel",
+      "country": "England",
+      "rating": 827,
+      "kind": "peak",
+      "date": "1896-08-14"
+    },
+    {
+      "rank": 89,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "rating": 825,
+      "kind": "peak",
+      "date": "2015-05-25"
+    },
+    {
+      "rank": 89,
+      "name": "Marco Jansen",
+      "country": "South Africa",
+      "rating": 825,
+      "kind": "peak",
+      "date": "2025-11-26"
+    },
+    {
+      "rank": 91,
+      "name": "Wilfred Rhodes",
+      "country": "England",
+      "rating": 823,
+      "kind": "peak",
+      "date": "1904-03-01"
+    },
+    {
+      "rank": 92,
+      "name": "Scott Boland",
+      "country": "Australia",
+      "rating": 820,
+      "kind": "peak",
+      "date": "2026-01-08"
+    },
+    {
+      "rank": 93,
+      "name": "Mohammad Asif",
+      "country": "Pakistan",
+      "rating": 818,
+      "kind": "peak",
+      "date": "2010-08-02"
+    },
+    {
+      "rank": 94,
+      "name": "John Ferris",
+      "country": "England",
+      "rating": 816,
+      "kind": "peak",
+      "date": "1892-03-23"
+    },
+    {
+      "rank": 94,
+      "name": "Peter Siddle",
+      "country": "Australia",
+      "rating": 816,
+      "kind": "peak",
+      "date": "2013-08-05"
+    },
+    {
+      "rank": 96,
+      "name": "Nathan Lyon",
+      "country": "Australia",
+      "rating": 812,
+      "kind": "peak",
+      "date": "2025-02-10"
+    },
+    {
+      "rank": 96,
+      "name": "Jason Gillespie",
+      "country": "Australia",
+      "rating": 812,
+      "kind": "peak",
+      "date": "2004-11-30"
+    },
+    {
+      "rank": 98,
+      "name": "Vinoo Mankad",
+      "country": "India",
+      "rating": 811,
+      "kind": "peak",
+      "date": "1952-11-17"
+    },
+    {
+      "rank": 98,
+      "name": "Brett Lee",
+      "country": "Australia",
+      "rating": 811,
+      "kind": "peak",
+      "date": "2008-06-03"
+    },
+    {
+      "rank": 100,
+      "name": "Brian Statham",
+      "country": "England",
+      "rating": 810,
+      "kind": "peak",
+      "date": "1960-07-25"
+    }
+  ],
+  "test_ar_best": [
+    {
+      "rank": 1,
+      "name": "Garry Sobers",
+      "country": "West Indies",
+      "rating": 669,
+      "kind": "peak",
+      "date": "1967"
+    },
+    {
+      "rank": 2,
+      "name": "Ian Botham",
+      "country": "England",
+      "rating": 645,
+      "kind": "peak",
+      "date": "1980"
+    },
+    {
+      "rank": 3,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 615,
+      "kind": "peak",
+      "date": "2002"
+    },
+    {
+      "rank": 4,
+      "name": "Keith Miller",
+      "country": "Australia",
+      "rating": 572,
+      "kind": "peak",
+      "date": "1952"
+    },
+    {
+      "rank": 5,
+      "name": "Richie Benaud",
+      "country": "Australia",
+      "rating": 532,
+      "kind": "peak",
+      "date": "1959"
+    },
+    {
+      "rank": 6,
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "rating": 517,
+      "kind": "peak",
+      "date": "1983"
+    },
+    {
+      "rank": 7,
+      "name": "Tony Greig",
+      "country": "England",
+      "rating": 508,
+      "kind": "peak",
+      "date": "1975"
+    },
+    {
+      "rank": 8,
+      "name": "Andrew Flintoff",
+      "country": "England",
+      "rating": 501,
+      "kind": "peak",
+      "date": "2005"
+    },
+    {
+      "rank": 8,
+      "name": "Aubrey Faulkner",
+      "country": "South Africa",
+      "rating": 501,
+      "kind": "peak",
+      "date": "1911"
+    },
+    {
+      "rank": 10,
+      "name": "Chris Cairns",
+      "country": "New Zealand",
+      "rating": 500,
+      "kind": "peak",
+      "date": "2000"
+    }
+  ],
+  "odi_bat_best": [
+    {
+      "rank": 1,
+      "name": "Viv Richards",
+      "country": "West Indies",
+      "rating": 935,
+      "kind": "peak",
+      "date": "1986-03-19"
+    },
+    {
+      "rank": 2,
+      "name": "Zaheer Abbas",
+      "country": "Pakistan",
+      "rating": 931,
+      "kind": "peak",
+      "date": "1983-06-20"
+    },
+    {
+      "rank": 3,
+      "name": "Greg Chappell",
+      "country": "Australia",
+      "rating": 921,
+      "kind": "peak",
+      "date": "1981-02-03"
+    },
+    {
+      "rank": 4,
+      "name": "David Gower",
+      "country": "England",
+      "rating": 918,
+      "kind": "peak",
+      "date": "1983-06-20"
+    },
+    {
+      "rank": 5,
+      "name": "Dean Jones",
+      "country": "Australia",
+      "rating": 915,
+      "kind": "peak",
+      "date": "1991-03-09"
+    },
+    {
+      "rank": 6,
+      "name": "Virat Kohli",
+      "country": "India",
+      "rating": 909,
+      "kind": "peak",
+      "date": "2018-07-12"
+    },
+    {
+      "rank": 7,
+      "name": "Javed Miandad",
+      "country": "Pakistan",
+      "rating": 908,
+      "kind": "peak",
+      "date": "1987-10-08"
+    },
+    {
+      "rank": 8,
+      "name": "Brian Lara",
+      "country": "West Indies",
+      "rating": 906,
+      "kind": "peak",
+      "date": "1993-03-26"
+    },
+    {
+      "rank": 9,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "rating": 901,
+      "kind": "peak",
+      "date": "2015-03-24"
+    },
+    {
+      "rank": 10,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 898,
+      "kind": "peak",
+      "date": "2022-06-10"
+    },
+    {
+      "rank": 11,
+      "name": "Desmond Haynes",
+      "country": "West Indies",
+      "rating": 896,
+      "kind": "peak",
+      "date": "1985-04-23"
+    },
+    {
+      "rank": 11,
+      "name": "Gary Kirsten",
+      "country": "South Africa",
+      "rating": 896,
+      "kind": "peak",
+      "date": "1996-10-19"
+    },
+    {
+      "rank": 11,
+      "name": "Hashim Amla",
+      "country": "South Africa",
+      "rating": 896,
+      "kind": "peak",
+      "date": "2012-09-05"
+    },
+    {
+      "rank": 14,
+      "name": "Gordon Greenidge",
+      "country": "West Indies",
+      "rating": 895,
+      "kind": "peak",
+      "date": "1983-12-07"
+    },
+    {
+      "rank": 15,
+      "name": "Allan Lamb",
+      "country": "England",
+      "rating": 892,
+      "kind": "peak",
+      "date": "1985-03-02"
+    },
+    {
+      "rank": 16,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "rating": 882,
+      "kind": "peak",
+      "date": "2019-07-06"
+    },
+    {
+      "rank": 16,
+      "name": "Michael Bevan",
+      "country": "Australia",
+      "rating": 882,
+      "kind": "peak",
+      "date": "1999-04-18"
+    },
+    {
+      "rank": 18,
+      "name": "Sachin Tendulkar",
+      "country": "India",
+      "rating": 881,
+      "kind": "peak",
+      "date": "1998-11-13"
+    },
+    {
+      "rank": 19,
+      "name": "David Warner",
+      "country": "Australia",
+      "rating": 869,
+      "kind": "peak",
+      "date": "2017-01-26"
+    },
+    {
+      "rank": 20,
+      "name": "Kepler Wessels",
+      "country": "Australia",
+      "rating": 866,
+      "kind": "peak",
+      "date": "1985-01-23"
+    },
+    {
+      "rank": 21,
+      "name": "George Bailey",
+      "country": "Australia",
+      "rating": 859,
+      "kind": "peak",
+      "date": "2014-08-27"
+    },
+    {
+      "rank": 22,
+      "name": "Graham Gooch",
+      "country": "England",
+      "rating": 857,
+      "kind": "peak",
+      "date": "1987-11-22"
+    },
+    {
+      "rank": 23,
+      "name": "Glenn Turner",
+      "country": "New Zealand",
+      "rating": 854,
+      "kind": "peak",
+      "date": "1983-06-13"
+    },
+    {
+      "rank": 24,
+      "name": "Kumar Sangakkara",
+      "country": "Sri Lanka",
+      "rating": 853,
+      "kind": "peak",
+      "date": "2015-03-11"
+    },
+    {
+      "rank": 24,
+      "name": "Aravinda de Silva",
+      "country": "Sri Lanka",
+      "rating": 853,
+      "kind": "peak",
+      "date": "1997-04-11"
+    },
+    {
+      "rank": 26,
+      "name": "Mike Hussey",
+      "country": "Australia",
+      "rating": 847,
+      "kind": "peak",
+      "date": "2007-01-28"
+    },
+    {
+      "rank": 26,
+      "name": "Shubman Gill",
+      "country": "India",
+      "rating": 847,
+      "kind": "peak",
+      "date": "2023-09-24"
+    },
+    {
+      "rank": 28,
+      "name": "Daryl Mitchell",
+      "country": "New Zealand",
+      "rating": 845,
+      "kind": "peak",
+      "date": "2026-01-18"
+    },
+    {
+      "rank": 29,
+      "name": "Mark Waugh",
+      "country": "Australia",
+      "rating": 843,
+      "kind": "peak",
+      "date": "1996-03-11"
+    },
+    {
+      "rank": 30,
+      "name": "Matthew Hayden",
+      "country": "Australia",
+      "rating": 838,
+      "kind": "peak",
+      "date": "2003-02-15"
+    },
+    {
+      "rank": 31,
+      "name": "Ross Taylor",
+      "country": "New Zealand",
+      "rating": 836,
+      "kind": "peak",
+      "date": "2020-02-08"
+    },
+    {
+      "rank": 32,
+      "name": "Sourav Ganguly",
+      "country": "India",
+      "rating": 834,
+      "kind": "peak",
+      "date": "2000-10-15"
+    },
+    {
+      "rank": 33,
+      "name": "Sanath Jayasuriya",
+      "country": "Sri Lanka",
+      "rating": 830,
+      "kind": "peak",
+      "date": "2003-02-14"
+    },
+    {
+      "rank": 34,
+      "name": "Kevin Pietersen",
+      "country": "England",
+      "rating": 828,
+      "kind": "peak",
+      "date": "2007-04-08"
+    },
+    {
+      "rank": 35,
+      "name": "MS Dhoni",
+      "country": "India",
+      "rating": 826,
+      "kind": "peak",
+      "date": "2009-10-31"
+    },
+    {
+      "rank": 35,
+      "name": "David Boon",
+      "country": "Australia",
+      "rating": 826,
+      "kind": "peak",
+      "date": "1988-01-10"
+    },
+    {
+      "rank": 37,
+      "name": "Robin Smith",
+      "country": "England",
+      "rating": 824,
+      "kind": "peak",
+      "date": "1993-05-21"
+    },
+    {
+      "rank": 38,
+      "name": "Hansie Cronje",
+      "country": "South Africa",
+      "rating": 823,
+      "kind": "peak",
+      "date": "1994-12-11"
+    },
+    {
+      "rank": 39,
+      "name": "Ricky Ponting",
+      "country": "Australia",
+      "rating": 819,
+      "kind": "peak",
+      "date": "2007-12-20"
+    },
+    {
+      "rank": 40,
+      "name": "Salim Malik",
+      "country": "Pakistan",
+      "rating": 817,
+      "kind": "peak",
+      "date": "1989-11-01"
+    },
+    {
+      "rank": 41,
+      "name": "Joe Root",
+      "country": "England",
+      "rating": 816,
+      "kind": "peak",
+      "date": "2018-10-13"
+    },
+    {
+      "rank": 42,
+      "name": "Imam-ul-Haq",
+      "country": "Pakistan",
+      "rating": 815,
+      "kind": "peak",
+      "date": "2022-06-12"
+    },
+    {
+      "rank": 43,
+      "name": "Martin Crowe",
+      "country": "New Zealand",
+      "rating": 814,
+      "kind": "peak",
+      "date": "1993-03-27"
+    },
+    {
+      "rank": 43,
+      "name": "Francois du Plessis",
+      "country": "South Africa",
+      "rating": 814,
+      "kind": "peak",
+      "date": "2019-07-06"
+    },
+    {
+      "rank": 45,
+      "name": "Lance Klusener",
+      "country": "South Africa",
+      "rating": 813,
+      "kind": "peak",
+      "date": "1999-09-28"
+    },
+    {
+      "rank": 46,
+      "name": "Geoff Marsh",
+      "country": "Australia",
+      "rating": 812,
+      "kind": "peak",
+      "date": "1989-10-21"
+    },
+    {
+      "rank": 47,
+      "name": "Adam Gilchrist",
+      "country": "Australia",
+      "rating": 808,
+      "kind": "peak",
+      "date": "2004-02-20"
+    },
+    {
+      "rank": 47,
+      "name": "Graeme Hick",
+      "country": "England",
+      "rating": 808,
+      "kind": "peak",
+      "date": "1995-01-10"
+    },
+    {
+      "rank": 47,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 808,
+      "kind": "peak",
+      "date": "2004-02-04"
+    },
+    {
+      "rank": 47,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "rating": 808,
+      "kind": "peak",
+      "date": "2019-03-10"
+    },
+    {
+      "rank": 51,
+      "name": "Shikhar Dhawan",
+      "country": "India",
+      "rating": 807,
+      "kind": "peak",
+      "date": "2018-09-23"
+    },
+    {
+      "rank": 52,
+      "name": "Andrew Jones",
+      "country": "New Zealand",
+      "rating": 806,
+      "kind": "peak",
+      "date": "1990-05-23"
+    },
+    {
+      "rank": 53,
+      "name": "Mohammad Azharuddin",
+      "country": "India",
+      "rating": 804,
+      "kind": "peak",
+      "date": "1993-11-27"
+    },
+    {
+      "rank": 54,
+      "name": "Saeed Anwar",
+      "country": "Pakistan",
+      "rating": 802,
+      "kind": "peak",
+      "date": "1996-11-13"
+    },
+    {
+      "rank": 54,
+      "name": "Shai Hope",
+      "country": "West Indies",
+      "rating": 802,
+      "kind": "peak",
+      "date": "2019-05-17"
+    },
+    {
+      "rank": 56,
+      "name": "Clive Lloyd",
+      "country": "West Indies",
+      "rating": 801,
+      "kind": "peak",
+      "date": "1985-02-02"
+    },
+    {
+      "rank": 56,
+      "name": "Richie Richardson",
+      "country": "West Indies",
+      "rating": 801,
+      "kind": "peak",
+      "date": "1991-10-21"
+    },
+    {
+      "rank": 58,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 798,
+      "kind": "peak",
+      "date": "2003-11-30"
+    },
+    {
+      "rank": 59,
+      "name": "Rassie van der Dussen",
+      "country": "South Africa",
+      "rating": 797,
+      "kind": "peak",
+      "date": "2022-07-19"
+    },
+    {
+      "rank": 60,
+      "name": "Daryll Cullinan",
+      "country": "South Africa",
+      "rating": 796,
+      "kind": "peak",
+      "date": "1997-11-02"
+    },
+    {
+      "rank": 60,
+      "name": "Tillekeratne Dilshan",
+      "country": "Sri Lanka",
+      "rating": 796,
+      "kind": "peak",
+      "date": "2015-03-11"
+    },
+    {
+      "rank": 60,
+      "name": "Jonny Bairstow",
+      "country": "England",
+      "rating": 796,
+      "kind": "peak",
+      "date": "2021-03-26"
+    },
+    {
+      "rank": 60,
+      "name": "Inzamam-ul-Haq",
+      "country": "Pakistan",
+      "rating": 796,
+      "kind": "peak",
+      "date": "1995-12-20"
+    },
+    {
+      "rank": 64,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 792,
+      "kind": "peak",
+      "date": "2015-08-07"
+    },
+    {
+      "rank": 65,
+      "name": "Aaron Finch",
+      "country": "Australia",
+      "rating": 791,
+      "kind": "peak",
+      "date": "2019-06-25"
+    },
+    {
+      "rank": 66,
+      "name": "Allan Border",
+      "country": "Australia",
+      "rating": 789,
+      "kind": "peak",
+      "date": "1985-02-10"
+    },
+    {
+      "rank": 67,
+      "name": "Jonathan Trott",
+      "country": "England",
+      "rating": 788,
+      "kind": "peak",
+      "date": "2013-06-19"
+    },
+    {
+      "rank": 68,
+      "name": "Fakhar Zaman",
+      "country": "Pakistan",
+      "rating": 785,
+      "kind": "peak",
+      "date": "2023-04-29"
+    },
+    {
+      "rank": 68,
+      "name": "Marcus Trescothick",
+      "country": "England",
+      "rating": 785,
+      "kind": "peak",
+      "date": "2003-06-28"
+    },
+    {
+      "rank": 70,
+      "name": "Arjuna Ranatunga",
+      "country": "Sri Lanka",
+      "rating": 784,
+      "kind": "peak",
+      "date": "1994-12-15"
+    },
+    {
+      "rank": 71,
+      "name": "Martin Guptill",
+      "country": "New Zealand",
+      "rating": 781,
+      "kind": "peak",
+      "date": "2017-03-01"
+    },
+    {
+      "rank": 72,
+      "name": "Chris Broad",
+      "country": "England",
+      "rating": 778,
+      "kind": "peak",
+      "date": "1988-03-16"
+    },
+    {
+      "rank": 72,
+      "name": "Navjot Sidhu",
+      "country": "India",
+      "rating": 778,
+      "kind": "peak",
+      "date": "1991-10-22"
+    },
+    {
+      "rank": 74,
+      "name": "Roger Twose",
+      "country": "New Zealand",
+      "rating": 777,
+      "kind": "peak",
+      "date": "2000-11-04"
+    },
+    {
+      "rank": 75,
+      "name": "Kapil Dev",
+      "country": "India",
+      "rating": 775,
+      "kind": "peak",
+      "date": "1983-06-25"
+    },
+    {
+      "rank": 76,
+      "name": "Yuvraj Singh",
+      "country": "India",
+      "rating": 774,
+      "kind": "peak",
+      "date": "2009-06-26"
+    },
+    {
+      "rank": 77,
+      "name": "Virender Sehwag",
+      "country": "India",
+      "rating": 773,
+      "kind": "peak",
+      "date": "2003-01-11"
+    },
+    {
+      "rank": 77,
+      "name": "Jason Roy",
+      "country": "England",
+      "rating": 773,
+      "kind": "peak",
+      "date": "2019-07-11"
+    },
+    {
+      "rank": 79,
+      "name": "Ramnaresh Sarwan",
+      "country": "West Indies",
+      "rating": 771,
+      "kind": "peak",
+      "date": "2006-05-23"
+    },
+    {
+      "rank": 80,
+      "name": "Graeme Smith",
+      "country": "South Africa",
+      "rating": 770,
+      "kind": "peak",
+      "date": "2005-11-25"
+    },
+    {
+      "rank": 81,
+      "name": "Steve Waugh",
+      "country": "Australia",
+      "rating": 769,
+      "kind": "peak",
+      "date": "1989-10-21"
+    },
+    {
+      "rank": 82,
+      "name": "Mohammad Yousuf",
+      "country": "Pakistan",
+      "rating": 768,
+      "kind": "peak",
+      "date": "2003-10-10"
+    },
+    {
+      "rank": 83,
+      "name": "Harry Tector",
+      "country": "Ireland",
+      "rating": 767,
+      "kind": "peak",
+      "date": "2024-03-07"
+    },
+    {
+      "rank": 84,
+      "name": "Shivnarine Chanderpaul",
+      "country": "West Indies",
+      "rating": 764,
+      "kind": "peak",
+      "date": "2009-03-22"
+    },
+    {
+      "rank": 84,
+      "name": "Shane Watson",
+      "country": "Australia",
+      "rating": 764,
+      "kind": "peak",
+      "date": "2011-08-10"
+    },
+    {
+      "rank": 84,
+      "name": "Ibrahim Zadran",
+      "country": "Afghanistan",
+      "rating": 764,
+      "kind": "peak",
+      "date": "2025-10-14"
+    },
+    {
+      "rank": 87,
+      "name": "Andrew Symonds",
+      "country": "Australia",
+      "rating": 761,
+      "kind": "peak",
+      "date": "2007-10-14"
+    },
+    {
+      "rank": 87,
+      "name": "Michael Atherton",
+      "country": "England",
+      "rating": 761,
+      "kind": "peak",
+      "date": "1996-01-11"
+    },
+    {
+      "rank": 89,
+      "name": "Heinrich Klaasen",
+      "country": "South Africa",
+      "rating": 760,
+      "kind": "peak",
+      "date": "2025-03-01"
+    },
+    {
+      "rank": 90,
+      "name": "Roy Dias",
+      "country": "Sri Lanka",
+      "rating": 759,
+      "kind": "peak",
+      "date": "1985-09-21"
+    },
+    {
+      "rank": 91,
+      "name": "Aamir Sohail",
+      "country": "Pakistan",
+      "rating": 758,
+      "kind": "peak",
+      "date": "1996-04-16"
+    },
+    {
+      "rank": 91,
+      "name": "Nathan Astle",
+      "country": "New Zealand",
+      "rating": 758,
+      "kind": "peak",
+      "date": "2000-03-01"
+    },
+    {
+      "rank": 93,
+      "name": "Ramiz Raja",
+      "country": "Pakistan",
+      "rating": 757,
+      "kind": "peak",
+      "date": "1988-10-18"
+    },
+    {
+      "rank": 93,
+      "name": "Russel Arnold",
+      "country": "Sri Lanka",
+      "rating": 757,
+      "kind": "peak",
+      "date": "2001-03-23"
+    },
+    {
+      "rank": 95,
+      "name": "Carl Hooper",
+      "country": "West Indies",
+      "rating": 756,
+      "kind": "peak",
+      "date": "1999-01-30"
+    },
+    {
+      "rank": 96,
+      "name": "Graham Thorpe",
+      "country": "England",
+      "rating": 750,
+      "kind": "peak",
+      "date": "1997-12-19"
+    },
+    {
+      "rank": 96,
+      "name": "Geoffrey Boycott",
+      "country": "England",
+      "rating": 750,
+      "kind": "peak",
+      "date": "1981-06-04"
+    },
+    {
+      "rank": 98,
+      "name": "Nick Knight",
+      "country": "England",
+      "rating": 749,
+      "kind": "peak",
+      "date": "1999-02-03"
+    },
+    {
+      "rank": 99,
+      "name": "Dilip Vengsarkar",
+      "country": "India",
+      "rating": 746,
+      "kind": "peak",
+      "date": "1985-09-22"
+    },
+    {
+      "rank": 100,
+      "name": "Basit Ali",
+      "country": "Pakistan",
+      "rating": 743,
+      "kind": "peak",
+      "date": "1994-12-02"
+    }
+  ],
+  "odi_bowl_best": [
+    {
+      "rank": 1,
+      "name": "Joel Garner",
+      "country": "West Indies",
+      "rating": 940,
+      "kind": "peak",
+      "date": "1985-04-17"
+    },
+    {
+      "rank": 2,
+      "name": "Richard Hadlee",
+      "country": "New Zealand",
+      "rating": 922,
+      "kind": "peak",
+      "date": "1983-06-18"
+    },
+    {
+      "rank": 3,
+      "name": "Shaun Pollock",
+      "country": "South Africa",
+      "rating": 915,
+      "kind": "peak",
+      "date": "2007-02-14"
+    },
+    {
+      "rank": 4,
+      "name": "Muttiah Muralidaran",
+      "country": "Sri Lanka",
+      "rating": 912,
+      "kind": "peak",
+      "date": "2002-04-09"
+    },
+    {
+      "rank": 5,
+      "name": "Glenn McGrath",
+      "country": "Australia",
+      "rating": 902,
+      "kind": "peak",
+      "date": "2002-03-30"
+    },
+    {
+      "rank": 6,
+      "name": "Dennis Lillee",
+      "country": "Australia",
+      "rating": 891,
+      "kind": "peak",
+      "date": "1982-02-20"
+    },
+    {
+      "rank": 6,
+      "name": "Malcolm Marshall",
+      "country": "West Indies",
+      "rating": 891,
+      "kind": "peak",
+      "date": "1985-01-27"
+    },
+    {
+      "rank": 6,
+      "name": "Ewen Chatfield",
+      "country": "New Zealand",
+      "rating": 891,
+      "kind": "peak",
+      "date": "1984-11-04"
+    },
+    {
+      "rank": 9,
+      "name": "Curtly Ambrose",
+      "country": "West Indies",
+      "rating": 876,
+      "kind": "peak",
+      "date": "1991-05-25"
+    },
+    {
+      "rank": 10,
+      "name": "Michael Holding",
+      "country": "West Indies",
+      "rating": 874,
+      "kind": "peak",
+      "date": "1985-12-02"
+    },
+    {
+      "rank": 11,
+      "name": "Bob Willis",
+      "country": "England",
+      "rating": 866,
+      "kind": "peak",
+      "date": "1983-06-20"
+    },
+    {
+      "rank": 12,
+      "name": "Chaminda Vaas",
+      "country": "Sri Lanka",
+      "rating": 857,
+      "kind": "peak",
+      "date": "2004-08-20"
+    },
+    {
+      "rank": 13,
+      "name": "Maninder Singh",
+      "country": "India",
+      "rating": 849,
+      "kind": "peak",
+      "date": "1988-01-02"
+    },
+    {
+      "rank": 13,
+      "name": "Wasim Akram",
+      "country": "Pakistan",
+      "rating": 849,
+      "kind": "peak",
+      "date": "1994-10-16"
+    },
+    {
+      "rank": 15,
+      "name": "Andy Roberts",
+      "country": "West Indies",
+      "rating": 847,
+      "kind": "peak",
+      "date": "1983-10-13"
+    },
+    {
+      "rank": 16,
+      "name": "Brett Lee",
+      "country": "Australia",
+      "rating": 845,
+      "kind": "peak",
+      "date": "2006-02-03"
+    },
+    {
+      "rank": 17,
+      "name": "Geoff Lawson",
+      "country": "Australia",
+      "rating": 841,
+      "kind": "peak",
+      "date": "1984-03-14"
+    },
+    {
+      "rank": 18,
+      "name": "Kapil Dev",
+      "country": "India",
+      "rating": 840,
+      "kind": "peak",
+      "date": "1986-04-10"
+    },
+    {
+      "rank": 18,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 840,
+      "kind": "peak",
+      "date": "2018-11-01"
+    },
+    {
+      "rank": 20,
+      "name": "Jason Gillespie",
+      "country": "Australia",
+      "rating": 822,
+      "kind": "peak",
+      "date": "2004-09-04"
+    },
+    {
+      "rank": 21,
+      "name": "Paul Reiffel",
+      "country": "Australia",
+      "rating": 811,
+      "kind": "peak",
+      "date": "1996-01-01"
+    },
+    {
+      "rank": 22,
+      "name": "Craig McDermott",
+      "country": "Australia",
+      "rating": 808,
+      "kind": "peak",
+      "date": "1993-12-14"
+    },
+    {
+      "rank": 23,
+      "name": "Nathan Bracken",
+      "country": "Australia",
+      "rating": 803,
+      "kind": "peak",
+      "date": "2007-04-16"
+    },
+    {
+      "rank": 24,
+      "name": "Saqlain Mushtaq",
+      "country": "Pakistan",
+      "rating": 802,
+      "kind": "peak",
+      "date": "1997-01-14"
+    },
+    {
+      "rank": 25,
+      "name": "Saeed Ajmal",
+      "country": "Pakistan",
+      "rating": 801,
+      "kind": "peak",
+      "date": "2013-03-15"
+    },
+    {
+      "rank": 25,
+      "name": "Shane Bond",
+      "country": "New Zealand",
+      "rating": 801,
+      "kind": "peak",
+      "date": "2007-04-14"
+    },
+    {
+      "rank": 27,
+      "name": "Courtney Walsh",
+      "country": "West Indies",
+      "rating": 799,
+      "kind": "peak",
+      "date": "1989-10-16"
+    },
+    {
+      "rank": 27,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "rating": 799,
+      "kind": "peak",
+      "date": "2018-09-21"
+    },
+    {
+      "rank": 29,
+      "name": "Anil Kumble",
+      "country": "India",
+      "rating": 795,
+      "kind": "peak",
+      "date": "1996-11-06"
+    },
+    {
+      "rank": 30,
+      "name": "Allan Donald",
+      "country": "South Africa",
+      "rating": 790,
+      "kind": "peak",
+      "date": "1998-01-23"
+    },
+    {
+      "rank": 31,
+      "name": "Sunil Narine",
+      "country": "West Indies",
+      "rating": 789,
+      "kind": "peak",
+      "date": "2013-06-28"
+    },
+    {
+      "rank": 32,
+      "name": "Rodney Hogg",
+      "country": "Australia",
+      "rating": 784,
+      "kind": "peak",
+      "date": "1984-01-25"
+    },
+    {
+      "rank": 32,
+      "name": "Shane Warne",
+      "country": "Australia",
+      "rating": 784,
+      "kind": "peak",
+      "date": "1996-03-14"
+    },
+    {
+      "rank": 34,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "rating": 782,
+      "kind": "peak",
+      "date": "2015-03-29"
+    },
+    {
+      "rank": 35,
+      "name": "Lance Cairns",
+      "country": "New Zealand",
+      "rating": 781,
+      "kind": "peak",
+      "date": "1983-06-11"
+    },
+    {
+      "rank": 36,
+      "name": "Makhaya Ntini",
+      "country": "South Africa",
+      "rating": 780,
+      "kind": "peak",
+      "date": "2004-01-25"
+    },
+    {
+      "rank": 37,
+      "name": "Imran Tahir",
+      "country": "South Africa",
+      "rating": 776,
+      "kind": "peak",
+      "date": "2017-02-04"
+    },
+    {
+      "rank": 38,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "rating": 775,
+      "kind": "peak",
+      "date": "2022-09-11"
+    },
+    {
+      "rank": 39,
+      "name": "Waqar Younis",
+      "country": "Pakistan",
+      "rating": 774,
+      "kind": "peak",
+      "date": "1991-10-21"
+    },
+    {
+      "rank": 39,
+      "name": "Terry Alderman",
+      "country": "Australia",
+      "rating": 774,
+      "kind": "peak",
+      "date": "1990-12-11"
+    },
+    {
+      "rank": 41,
+      "name": "Daniel Vettori",
+      "country": "New Zealand",
+      "rating": 771,
+      "kind": "peak",
+      "date": "2008-02-23"
+    },
+    {
+      "rank": 42,
+      "name": "Irfan Pathan",
+      "country": "India",
+      "rating": 770,
+      "kind": "peak",
+      "date": "2006-04-03"
+    },
+    {
+      "rank": 43,
+      "name": "Abdul Qadir",
+      "country": "Pakistan",
+      "rating": 767,
+      "kind": "peak",
+      "date": "1987-11-20"
+    },
+    {
+      "rank": 44,
+      "name": "Jacob Oram",
+      "country": "New Zealand",
+      "rating": 765,
+      "kind": "peak",
+      "date": "2004-09-16"
+    },
+    {
+      "rank": 44,
+      "name": "Hasan Ali",
+      "country": "Pakistan",
+      "rating": 765,
+      "kind": "peak",
+      "date": "2018-01-06"
+    },
+    {
+      "rank": 44,
+      "name": "Craig Matthews",
+      "country": "South Africa",
+      "rating": 765,
+      "kind": "peak",
+      "date": "1996-04-16"
+    },
+    {
+      "rank": 47,
+      "name": "Darren Gough",
+      "country": "England",
+      "rating": 764,
+      "kind": "peak",
+      "date": "2000-02-13"
+    },
+    {
+      "rank": 47,
+      "name": "Mike Whitney",
+      "country": "Australia",
+      "rating": 764,
+      "kind": "peak",
+      "date": "1993-01-10"
+    },
+    {
+      "rank": 49,
+      "name": "Kuldeep Yadav",
+      "country": "India",
+      "rating": 761,
+      "kind": "peak",
+      "date": "2019-01-26"
+    },
+    {
+      "rank": 49,
+      "name": "Fanie de Villiers",
+      "country": "South Africa",
+      "rating": 761,
+      "kind": "peak",
+      "date": "1996-09-29"
+    },
+    {
+      "rank": 51,
+      "name": "Ian Bradshaw",
+      "country": "West Indies",
+      "rating": 759,
+      "kind": "peak",
+      "date": "2006-10-26"
+    },
+    {
+      "rank": 52,
+      "name": "Alan Mullally",
+      "country": "England",
+      "rating": 757,
+      "kind": "peak",
+      "date": "2000-07-15"
+    },
+    {
+      "rank": 53,
+      "name": "Phillip DeFreitas",
+      "country": "England",
+      "rating": 756,
+      "kind": "peak",
+      "date": "1989-05-25"
+    },
+    {
+      "rank": 54,
+      "name": "Mohammad Hafeez",
+      "country": "Pakistan",
+      "rating": 752,
+      "kind": "peak",
+      "date": "2013-01-03"
+    },
+    {
+      "rank": 55,
+      "name": "Steven Finn",
+      "country": "England",
+      "rating": 745,
+      "kind": "peak",
+      "date": "2013-02-23"
+    },
+    {
+      "rank": 55,
+      "name": "Dale Steyn",
+      "country": "South Africa",
+      "rating": 745,
+      "kind": "peak",
+      "date": "2013-12-08"
+    },
+    {
+      "rank": 57,
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "rating": 743,
+      "kind": "peak",
+      "date": "1983-01-21"
+    },
+    {
+      "rank": 57,
+      "name": "Azhar Mahmood",
+      "country": "Pakistan",
+      "rating": 743,
+      "kind": "peak",
+      "date": "1999-10-22"
+    },
+    {
+      "rank": 57,
+      "name": "Sarfraz Nawaz",
+      "country": "Pakistan",
+      "rating": 743,
+      "kind": "peak",
+      "date": "1984-01-12"
+    },
+    {
+      "rank": 60,
+      "name": "Lonwabo Tsotsobe",
+      "country": "South Africa",
+      "rating": 741,
+      "kind": "peak",
+      "date": "2012-03-03"
+    },
+    {
+      "rank": 60,
+      "name": "Keshav Maharaj",
+      "country": "South Africa",
+      "rating": 741,
+      "kind": "peak",
+      "date": "2023-11-16"
+    },
+    {
+      "rank": 60,
+      "name": "Naved-ul-Hasan",
+      "country": "Pakistan",
+      "rating": 741,
+      "kind": "peak",
+      "date": "2006-02-06"
+    },
+    {
+      "rank": 63,
+      "name": "Manoj Prabhakar",
+      "country": "India",
+      "rating": 739,
+      "kind": "peak",
+      "date": "1992-03-04"
+    },
+    {
+      "rank": 64,
+      "name": "Gavin Larsen",
+      "country": "New Zealand",
+      "rating": 738,
+      "kind": "peak",
+      "date": "1994-03-16"
+    },
+    {
+      "rank": 64,
+      "name": "Andrew Flintoff",
+      "country": "England",
+      "rating": 738,
+      "kind": "peak",
+      "date": "2003-11-12"
+    },
+    {
+      "rank": 66,
+      "name": "Reon King",
+      "country": "West Indies",
+      "rating": 737,
+      "kind": "peak",
+      "date": "2000-07-20"
+    },
+    {
+      "rank": 67,
+      "name": "Mohammed Siraj",
+      "country": "India",
+      "rating": 736,
+      "kind": "peak",
+      "date": "2023-01-21"
+    },
+    {
+      "rank": 68,
+      "name": "Harbhajan Singh",
+      "country": "India",
+      "rating": 734,
+      "kind": "peak",
+      "date": "2002-05-29"
+    },
+    {
+      "rank": 69,
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "rating": 733,
+      "kind": "peak",
+      "date": "2013-08-01"
+    },
+    {
+      "rank": 70,
+      "name": "Javagal Srinath",
+      "country": "India",
+      "rating": 731,
+      "kind": "peak",
+      "date": "1994-11-05"
+    },
+    {
+      "rank": 71,
+      "name": "Graeme Swann",
+      "country": "England",
+      "rating": 730,
+      "kind": "peak",
+      "date": "2011-10-14"
+    },
+    {
+      "rank": 72,
+      "name": "Damien Fleming",
+      "country": "Australia",
+      "rating": 729,
+      "kind": "peak",
+      "date": "1999-10-23"
+    },
+    {
+      "rank": 73,
+      "name": "Sharma Madan Lal",
+      "country": "India",
+      "rating": 727,
+      "kind": "peak",
+      "date": "1984-04-08"
+    },
+    {
+      "rank": 73,
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "rating": 727,
+      "kind": "peak",
+      "date": "2017-06-10"
+    },
+    {
+      "rank": 75,
+      "name": "Steve Harmison",
+      "country": "England",
+      "rating": 726,
+      "kind": "peak",
+      "date": "2005-07-07"
+    },
+    {
+      "rank": 76,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "rating": 725,
+      "kind": "peak",
+      "date": "2019-06-12"
+    },
+    {
+      "rank": 76,
+      "name": "Yuzvendra Chahal",
+      "country": "India",
+      "rating": 725,
+      "kind": "peak",
+      "date": "2019-01-23"
+    },
+    {
+      "rank": 76,
+      "name": "Mehidy Hasan",
+      "country": "Bangladesh",
+      "rating": 725,
+      "kind": "peak",
+      "date": "2021-05-25"
+    },
+    {
+      "rank": 79,
+      "name": "Nuwan Kulasekara",
+      "country": "Sri Lanka",
+      "rating": 724,
+      "kind": "peak",
+      "date": "2009-08-01"
+    },
+    {
+      "rank": 80,
+      "name": "Mitchell Johnson",
+      "country": "Australia",
+      "rating": 723,
+      "kind": "peak",
+      "date": "2008-09-03"
+    },
+    {
+      "rank": 81,
+      "name": "Aqib Javed",
+      "country": "Pakistan",
+      "rating": 722,
+      "kind": "peak",
+      "date": "1992-05-20"
+    },
+    {
+      "rank": 82,
+      "name": "Ray Price",
+      "country": "Zimbabwe",
+      "rating": 720,
+      "kind": "peak",
+      "date": "2010-03-06"
+    },
+    {
+      "rank": 83,
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "rating": 719,
+      "kind": "peak",
+      "date": "2017-05-29"
+    },
+    {
+      "rank": 83,
+      "name": "Ravi Shastri",
+      "country": "India",
+      "rating": 719,
+      "kind": "peak",
+      "date": "1986-01-31"
+    },
+    {
+      "rank": 85,
+      "name": "Kyle Mills",
+      "country": "New Zealand",
+      "rating": 717,
+      "kind": "peak",
+      "date": "2009-02-06"
+    },
+    {
+      "rank": 86,
+      "name": "Mark Ealham",
+      "country": "England",
+      "rating": 716,
+      "kind": "peak",
+      "date": "2000-01-30"
+    },
+    {
+      "rank": 87,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 715,
+      "kind": "peak",
+      "date": "2009-11-05"
+    },
+    {
+      "rank": 87,
+      "name": "Morne Morkel",
+      "country": "South Africa",
+      "rating": 715,
+      "kind": "peak",
+      "date": "2012-01-14"
+    },
+    {
+      "rank": 87,
+      "name": "Heath Streak",
+      "country": "Zimbabwe",
+      "rating": 715,
+      "kind": "peak",
+      "date": "2004-03-14"
+    },
+    {
+      "rank": 90,
+      "name": "James Anderson",
+      "country": "England",
+      "rating": 713,
+      "kind": "peak",
+      "date": "2013-06-19"
+    },
+    {
+      "rank": 90,
+      "name": "Rahman",
+      "country": "Afghanistan",
+      "rating": 713,
+      "kind": "peak",
+      "date": "2021-01-24"
+    },
+    {
+      "rank": 92,
+      "name": "Ian Bishop",
+      "country": "West Indies",
+      "rating": 712,
+      "kind": "peak",
+      "date": "1993-02-19"
+    },
+    {
+      "rank": 92,
+      "name": "John Emburey",
+      "country": "England",
+      "rating": 712,
+      "kind": "peak",
+      "date": "1987-11-18"
+    },
+    {
+      "rank": 94,
+      "name": "Chris Woakes",
+      "country": "England",
+      "rating": 711,
+      "kind": "peak",
+      "date": "2021-07-04"
+    },
+    {
+      "rank": 94,
+      "name": "Nuwan Zoysa",
+      "country": "Sri Lanka",
+      "rating": 711,
+      "kind": "peak",
+      "date": "2001-03-23"
+    },
+    {
+      "rank": 96,
+      "name": "Clint McKay",
+      "country": "Australia",
+      "rating": 709,
+      "kind": "peak",
+      "date": "2013-09-14"
+    },
+    {
+      "rank": 97,
+      "name": "Carl Rackemann",
+      "country": "Australia",
+      "rating": 708,
+      "kind": "peak",
+      "date": "1990-12-09"
+    },
+    {
+      "rank": 98,
+      "name": "Simon Davis",
+      "country": "Australia",
+      "rating": 706,
+      "kind": "peak",
+      "date": "1988-01-24"
+    },
+    {
+      "rank": 98,
+      "name": "Andrew Caddick",
+      "country": "England",
+      "rating": 706,
+      "kind": "peak",
+      "date": "2000-10-05"
+    },
+    {
+      "rank": 100,
+      "name": "Chris Pringle",
+      "country": "New Zealand",
+      "rating": 705,
+      "kind": "peak",
+      "date": "1994-03-25"
+    }
+  ],
+  "odi_ar_best": [
+    {
+      "rank": 1,
+      "name": "Kapil Dev",
+      "country": "India",
+      "rating": 631,
+      "kind": "peak",
+      "date": "1985"
+    },
+    {
+      "rank": 2,
+      "name": "Greg Chappell",
+      "country": "Australia",
+      "rating": 568,
+      "kind": "peak",
+      "date": "1982"
+    },
+    {
+      "rank": 3,
+      "name": "Andrew Flintoff",
+      "country": "England",
+      "rating": 543,
+      "kind": "peak",
+      "date": "2004"
+    },
+    {
+      "rank": 4,
+      "name": "Viv Richards",
+      "country": "West Indies",
+      "rating": 532,
+      "kind": "peak",
+      "date": "1985"
+    },
+    {
+      "rank": 5,
+      "name": "Lance Klusener",
+      "country": "South Africa",
+      "rating": 521,
+      "kind": "peak",
+      "date": "1999"
+    },
+    {
+      "rank": 6,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 509,
+      "kind": "peak",
+      "date": "2003"
+    },
+    {
+      "rank": 7,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 505,
+      "kind": "peak",
+      "date": "2001"
+    },
+    {
+      "rank": 8,
+      "name": "Steve Waugh",
+      "country": "Australia",
+      "rating": 501,
+      "kind": "peak",
+      "date": "1988"
+    },
+    {
+      "rank": 9,
+      "name": "Shaun Pollock",
+      "country": "South Africa",
+      "rating": 494,
+      "kind": "peak",
+      "date": "2008"
+    },
+    {
+      "rank": 10,
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "rating": 480,
+      "kind": "peak",
+      "date": "1983"
+    },
+    {
+      "rank": 10,
+      "name": "Ravi Shastri",
+      "country": "India",
+      "rating": 480,
+      "kind": "peak",
+      "date": "1986"
+    }
+  ],
+  "t20i_bat_current": [
+    {
+      "rank": 1,
+      "name": "Ishan Kishan",
+      "country": "India",
+      "rating": 910,
+      "kind": "current"
+    },
+    {
+      "rank": 2,
+      "name": "Sahibzada Farhan",
+      "country": "Pakistan",
+      "rating": 848,
+      "kind": "current"
+    },
+    {
+      "rank": 3,
+      "name": "Abhishek Sharma",
+      "country": "India",
+      "rating": 819,
+      "kind": "current"
+    },
+    {
+      "rank": 4,
+      "name": "Philip Salt",
+      "country": "England",
+      "rating": 799,
+      "kind": "current"
+    },
+    {
+      "rank": 5,
+      "name": "Dewald Brevis",
+      "country": "South Africa",
+      "rating": 789,
+      "kind": "current"
+    },
+    {
+      "rank": 6,
+      "name": "Pathum Nissanka",
+      "country": "Sri Lanka",
+      "rating": 751,
+      "kind": "current"
+    },
+    {
+      "rank": 7,
+      "name": "N.T. Tilak Varma",
+      "country": "India",
+      "rating": 750,
+      "kind": "current"
+    },
+    {
+      "rank": 8,
+      "name": "Jos Buttler",
+      "country": "England",
+      "rating": 748,
+      "kind": "current"
+    },
+    {
+      "rank": 9,
+      "name": "Harry Brook",
+      "country": "England",
+      "rating": 734,
+      "kind": "current"
+    },
+    {
+      "rank": 10,
+      "name": "Mitchell Marsh",
+      "country": "Australia",
+      "rating": 706,
+      "kind": "current"
+    },
+    {
+      "rank": 11,
+      "name": "Tim Seifert",
+      "country": "New Zealand",
+      "rating": 698,
+      "kind": "current"
+    },
+    {
+      "rank": 12,
+      "name": "Travis Head",
+      "country": "Australia",
+      "rating": 679,
+      "kind": "current"
+    },
+    {
+      "rank": 13,
+      "name": "Ibrahim Zadran",
+      "country": "Afghanistan",
+      "rating": 678,
+      "kind": "current"
+    },
+    {
+      "rank": 13,
+      "name": "Jacob Bethell",
+      "country": "England",
+      "rating": 678,
+      "kind": "current"
+    },
+    {
+      "rank": 15,
+      "name": "Brian Bennett",
+      "country": "Zimbabwe",
+      "rating": 671,
+      "kind": "current"
+    },
+    {
+      "rank": 16,
+      "name": "Shai Hope",
+      "country": "West Indies",
+      "rating": 668,
+      "kind": "current"
+    },
+    {
+      "rank": 17,
+      "name": "Rahmanullah Gurbaz",
+      "country": "Afghanistan",
+      "rating": 662,
+      "kind": "current"
+    },
+    {
+      "rank": 18,
+      "name": "Kamil Mishara",
+      "country": "Sri Lanka",
+      "rating": 657,
+      "kind": "current"
+    },
+    {
+      "rank": 19,
+      "name": "Suryakumar Yadav",
+      "country": "India",
+      "rating": 653,
+      "kind": "current"
+    },
+    {
+      "rank": 20,
+      "name": "Tanzid Hasan",
+      "country": "Bangladesh",
+      "rating": 648,
+      "kind": "current"
+    },
+    {
+      "rank": 21,
+      "name": "Kusal Mendis",
+      "country": "Sri Lanka",
+      "rating": 637,
+      "kind": "current"
+    },
+    {
+      "rank": 22,
+      "name": "George Munsey",
+      "country": "Scotland",
+      "rating": 633,
+      "kind": "current"
+    },
+    {
+      "rank": 23,
+      "name": "Shreyas Iyer",
+      "country": "India",
+      "rating": 630,
+      "kind": "current"
+    },
+    {
+      "rank": 24,
+      "name": "Tim David",
+      "country": "Australia",
+      "rating": 628,
+      "kind": "current"
+    },
+    {
+      "rank": 25,
+      "name": "Connor Esterhuizen",
+      "country": "South Africa",
+      "rating": 627,
+      "kind": "current"
+    },
+    {
+      "rank": 26,
+      "name": "Saiteja Mukkamalla",
+      "country": "United States",
+      "rating": 620,
+      "kind": "current"
+    },
+    {
+      "rank": 27,
+      "name": "Ryan Rickelton",
+      "country": "South Africa",
+      "rating": 610,
+      "kind": "current"
+    },
+    {
+      "rank": 28,
+      "name": "Saif Hassan",
+      "country": "Bangladesh",
+      "rating": 608,
+      "kind": "current"
+    },
+    {
+      "rank": 29,
+      "name": "Finn Allen",
+      "country": "New Zealand",
+      "rating": 605,
+      "kind": "current"
+    },
+    {
+      "rank": 30,
+      "name": "Aiden Markram",
+      "country": "South Africa",
+      "rating": 598,
+      "kind": "current"
+    },
+    {
+      "rank": 31,
+      "name": "Shivam Dube",
+      "country": "India",
+      "rating": 580,
+      "kind": "current"
+    },
+    {
+      "rank": 31,
+      "name": "Michael Levitt",
+      "country": "Netherlands",
+      "rating": 580,
+      "kind": "current"
+    },
+    {
+      "rank": 33,
+      "name": "Towhid Hridoy",
+      "country": "Bangladesh",
+      "rating": 577,
+      "kind": "current"
+    },
+    {
+      "rank": 34,
+      "name": "Sanju Samson",
+      "country": "India",
+      "rating": 575,
+      "kind": "current"
+    },
+    {
+      "rank": 35,
+      "name": "Josh Inglis",
+      "country": "Australia",
+      "rating": 573,
+      "kind": "current"
+    },
+    {
+      "rank": 36,
+      "name": "Cameron Green",
+      "country": "Australia",
+      "rating": 572,
+      "kind": "current"
+    },
+    {
+      "rank": 37,
+      "name": "Kusal Perera",
+      "country": "Sri Lanka",
+      "rating": 570,
+      "kind": "current"
+    },
+    {
+      "rank": 37,
+      "name": "Tim Robinson",
+      "country": "New Zealand",
+      "rating": 570,
+      "kind": "current"
+    },
+    {
+      "rank": 39,
+      "name": "Rovman Powell",
+      "country": "West Indies",
+      "rating": 568,
+      "kind": "current"
+    },
+    {
+      "rank": 39,
+      "name": "Muhammad Waseem",
+      "country": "United Arab Emirates",
+      "rating": 568,
+      "kind": "current"
+    },
+    {
+      "rank": 41,
+      "name": "Saim Ayub",
+      "country": "Pakistan",
+      "rating": 560,
+      "kind": "current"
+    },
+    {
+      "rank": 42,
+      "name": "Shimron Hetmyer",
+      "country": "West Indies",
+      "rating": 559,
+      "kind": "current"
+    },
+    {
+      "rank": 43,
+      "name": "Pretorius",
+      "country": "South Africa",
+      "rating": 555,
+      "kind": "current"
+    },
+    {
+      "rank": 43,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 555,
+      "kind": "current"
+    },
+    {
+      "rank": 45,
+      "name": "Salman Agha",
+      "country": "Pakistan",
+      "rating": 547,
+      "kind": "current"
+    },
+    {
+      "rank": 46,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "rating": 545,
+      "kind": "current"
+    },
+    {
+      "rank": 47,
+      "name": "Sherfane Rutherford",
+      "country": "West Indies",
+      "rating": 544,
+      "kind": "current"
+    },
+    {
+      "rank": 48,
+      "name": "Brandon King",
+      "country": "West Indies",
+      "rating": 538,
+      "kind": "current"
+    },
+    {
+      "rank": 49,
+      "name": "Vaibhav Sooryavanshi",
+      "country": "India",
+      "rating": 536,
+      "kind": "current"
+    },
+    {
+      "rank": 50,
+      "name": "Richard Berrington",
+      "country": "Scotland",
+      "rating": 530,
+      "kind": "current"
+    }
+  ],
+  "t20i_bowl_current": [
+    {
+      "rank": 1,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "rating": 753,
+      "kind": "current"
+    },
+    {
+      "rank": 2,
+      "name": "Abrar Ahmed",
+      "country": "Pakistan",
+      "rating": 736,
+      "kind": "current"
+    },
+    {
+      "rank": 3,
+      "name": "Adil Rashid",
+      "country": "England",
+      "rating": 710,
+      "kind": "current"
+    },
+    {
+      "rank": 4,
+      "name": "Adam Zampa",
+      "country": "Australia",
+      "rating": 700,
+      "kind": "current"
+    },
+    {
+      "rank": 5,
+      "name": "Nathan Ellis",
+      "country": "Australia",
+      "rating": 675,
+      "kind": "current"
+    },
+    {
+      "rank": 6,
+      "name": "Wanindu Hasaranga",
+      "country": "Sri Lanka",
+      "rating": 668,
+      "kind": "current"
+    },
+    {
+      "rank": 7,
+      "name": "Rahman",
+      "country": "Afghanistan",
+      "rating": 663,
+      "kind": "current"
+    },
+    {
+      "rank": 7,
+      "name": "Varun Chakravarthy",
+      "country": "India",
+      "rating": 663,
+      "kind": "current"
+    },
+    {
+      "rank": 9,
+      "name": "Mohammad Nawaz",
+      "country": "Pakistan",
+      "rating": 658,
+      "kind": "current"
+    },
+    {
+      "rank": 9,
+      "name": "Maheesh Theekshana",
+      "country": "Sri Lanka",
+      "rating": 658,
+      "kind": "current"
+    },
+    {
+      "rank": 11,
+      "name": "Nasum Ahmed",
+      "country": "Bangladesh",
+      "rating": 646,
+      "kind": "current"
+    },
+    {
+      "rank": 11,
+      "name": "Matthew Forde",
+      "country": "West Indies",
+      "rating": 646,
+      "kind": "current"
+    },
+    {
+      "rank": 13,
+      "name": "Dunith Wellalage",
+      "country": "Sri Lanka",
+      "rating": 640,
+      "kind": "current"
+    },
+    {
+      "rank": 14,
+      "name": "Corbin Bosch",
+      "country": "South Africa",
+      "rating": 637,
+      "kind": "current"
+    },
+    {
+      "rank": 15,
+      "name": "Jofra Archer",
+      "country": "England",
+      "rating": 636,
+      "kind": "current"
+    },
+    {
+      "rank": 15,
+      "name": "Salman Mirza",
+      "country": "Pakistan",
+      "rating": 636,
+      "kind": "current"
+    },
+    {
+      "rank": 17,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 635,
+      "kind": "current"
+    },
+    {
+      "rank": 18,
+      "name": "Mahedi Hasan",
+      "country": "Bangladesh",
+      "rating": 632,
+      "kind": "current"
+    },
+    {
+      "rank": 19,
+      "name": "Mitchell Santner",
+      "country": "New Zealand",
+      "rating": 631,
+      "kind": "current"
+    },
+    {
+      "rank": 19,
+      "name": "Akeal Hosein",
+      "country": "West Indies",
+      "rating": 631,
+      "kind": "current"
+    },
+    {
+      "rank": 21,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "rating": 630,
+      "kind": "current"
+    },
+    {
+      "rank": 22,
+      "name": "Liam Dawson",
+      "country": "England",
+      "rating": 624,
+      "kind": "current"
+    },
+    {
+      "rank": 22,
+      "name": "Brad Evans",
+      "country": "Zimbabwe",
+      "rating": 624,
+      "kind": "current"
+    },
+    {
+      "rank": 24,
+      "name": "Matthew Humphreys",
+      "country": "Ireland",
+      "rating": 619,
+      "kind": "current"
+    },
+    {
+      "rank": 25,
+      "name": "Arshdeep Singh",
+      "country": "India",
+      "rating": 617,
+      "kind": "current"
+    },
+    {
+      "rank": 25,
+      "name": "Rishad Hossain",
+      "country": "Bangladesh",
+      "rating": 617,
+      "kind": "current"
+    },
+    {
+      "rank": 27,
+      "name": "Sikandar Raza",
+      "country": "Zimbabwe",
+      "rating": 613,
+      "kind": "current"
+    },
+    {
+      "rank": 28,
+      "name": "Shamar Joseph",
+      "country": "West Indies",
+      "rating": 611,
+      "kind": "current"
+    },
+    {
+      "rank": 29,
+      "name": "Jason Holder",
+      "country": "West Indies",
+      "rating": 610,
+      "kind": "current"
+    },
+    {
+      "rank": 30,
+      "name": "Blessing Muzarabani",
+      "country": "Zimbabwe",
+      "rating": 604,
+      "kind": "current"
+    },
+    {
+      "rank": 31,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "rating": 602,
+      "kind": "current"
+    },
+    {
+      "rank": 32,
+      "name": "Gudakesh Motie-Kanhai",
+      "country": "West Indies",
+      "rating": 599,
+      "kind": "current"
+    },
+    {
+      "rank": 33,
+      "name": "Axar Patel",
+      "country": "India",
+      "rating": 598,
+      "kind": "current"
+    },
+    {
+      "rank": 34,
+      "name": "Bradley Currie",
+      "country": "Scotland",
+      "rating": 593,
+      "kind": "current"
+    },
+    {
+      "rank": 35,
+      "name": "Harmeet Singh",
+      "country": "United States",
+      "rating": 592,
+      "kind": "current"
+    },
+    {
+      "rank": 36,
+      "name": "Jacob Duffy",
+      "country": "New Zealand",
+      "rating": 591,
+      "kind": "current"
+    },
+    {
+      "rank": 37,
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "rating": 584,
+      "kind": "current"
+    },
+    {
+      "rank": 38,
+      "name": "Aryan Dutt",
+      "country": "Netherlands",
+      "rating": 581,
+      "kind": "current"
+    },
+    {
+      "rank": 38,
+      "name": "Kwena Maphaka",
+      "country": "South Africa",
+      "rating": 581,
+      "kind": "current"
+    },
+    {
+      "rank": 40,
+      "name": "Azmatullah Omarzai",
+      "country": "Afghanistan",
+      "rating": 580,
+      "kind": "current"
+    },
+    {
+      "rank": 41,
+      "name": "Ravi Bishnoi",
+      "country": "India",
+      "rating": 574,
+      "kind": "current"
+    },
+    {
+      "rank": 42,
+      "name": "Matt Henry",
+      "country": "New Zealand",
+      "rating": 571,
+      "kind": "current"
+    },
+    {
+      "rank": 43,
+      "name": "Lungi Ngidi",
+      "country": "South Africa",
+      "rating": 569,
+      "kind": "current"
+    },
+    {
+      "rank": 43,
+      "name": "Fazalhaq Farooqi",
+      "country": "Afghanistan",
+      "rating": 569,
+      "kind": "current"
+    },
+    {
+      "rank": 45,
+      "name": "Dushmantha Chameera",
+      "country": "Sri Lanka",
+      "rating": 567,
+      "kind": "current"
+    },
+    {
+      "rank": 45,
+      "name": "Mark Watt",
+      "country": "Scotland",
+      "rating": 567,
+      "kind": "current"
+    },
+    {
+      "rank": 47,
+      "name": "Xavier Bartlett",
+      "country": "Australia",
+      "rating": 566,
+      "kind": "current"
+    },
+    {
+      "rank": 48,
+      "name": "Lockie Ferguson",
+      "country": "New Zealand",
+      "rating": 563,
+      "kind": "current"
+    },
+    {
+      "rank": 49,
+      "name": "Matheesha Pathirana",
+      "country": "Sri Lanka",
+      "rating": 557,
+      "kind": "current"
+    },
+    {
+      "rank": 50,
+      "name": "Roston Chase",
+      "country": "West Indies",
+      "rating": 555,
+      "kind": "current"
+    }
+  ],
+  "t20i_ar_current": [
+    {
+      "rank": 1,
+      "name": "Sikandar Raza",
+      "country": "Zimbabwe",
+      "rating": 321,
+      "kind": "current"
+    },
+    {
+      "rank": 2,
+      "name": "Saim Ayub",
+      "country": "Pakistan",
+      "rating": 275,
+      "kind": "current"
+    },
+    {
+      "rank": 3,
+      "name": "Dipendra Airee",
+      "country": "Nepal",
+      "rating": 256,
+      "kind": "current"
+    },
+    {
+      "rank": 4,
+      "name": "Roston Chase",
+      "country": "West Indies",
+      "rating": 249,
+      "kind": "current"
+    },
+    {
+      "rank": 5,
+      "name": "Hardik Pandya",
+      "country": "India",
+      "rating": 244,
+      "kind": "current"
+    },
+    {
+      "rank": 6,
+      "name": "Will Jacks",
+      "country": "England",
+      "rating": 243,
+      "kind": "current"
+    },
+    {
+      "rank": 7,
+      "name": "Azmatullah Omarzai",
+      "country": "Afghanistan",
+      "rating": 241,
+      "kind": "current"
+    },
+    {
+      "rank": 8,
+      "name": "Gerhard Erasmus",
+      "country": "Namibia",
+      "rating": 213,
+      "kind": "current"
+    },
+    {
+      "rank": 9,
+      "name": "Jason Holder",
+      "country": "West Indies",
+      "rating": 209,
+      "kind": "current"
+    },
+    {
+      "rank": 9,
+      "name": "Mohammad Nabi",
+      "country": "Afghanistan",
+      "rating": 209,
+      "kind": "current"
+    }
+  ],
+  "t20i_bat_best": [
+    {
+      "rank": 1,
+      "name": "Abhishek Sharma",
+      "country": "India",
+      "rating": 931,
+      "kind": "peak",
+      "date": "2025-09-26"
+    },
+    {
+      "rank": 2,
+      "name": "Dawid Malan",
+      "country": "England",
+      "rating": 919,
+      "kind": "peak",
+      "date": "2020-12-01"
+    },
+    {
+      "rank": 3,
+      "name": "Ishan Kishan",
+      "country": "India",
+      "rating": 916,
+      "kind": "peak",
+      "date": "2026-07-25"
+    },
+    {
+      "rank": 4,
+      "name": "Suryakumar Yadav",
+      "country": "India",
+      "rating": 912,
+      "kind": "peak",
+      "date": "2023-01-27"
+    },
+    {
+      "rank": 5,
+      "name": "Virat Kohli",
+      "country": "India",
+      "rating": 909,
+      "kind": "peak",
+      "date": "2014-09-07"
+    },
+    {
+      "rank": 6,
+      "name": "Aaron Finch",
+      "country": "Australia",
+      "rating": 904,
+      "kind": "peak",
+      "date": "2018-07-03"
+    },
+    {
+      "rank": 7,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 900,
+      "kind": "peak",
+      "date": "2019-05-05"
+    },
+    {
+      "rank": 8,
+      "name": "David Warner",
+      "country": "Australia",
+      "rating": 894,
+      "kind": "peak",
+      "date": "2010-05-11"
+    },
+    {
+      "rank": 9,
+      "name": "Kevin Pietersen",
+      "country": "England",
+      "rating": 886,
+      "kind": "peak",
+      "date": "2010-05-16"
+    },
+    {
+      "rank": 10,
+      "name": "Travis Head",
+      "country": "Australia",
+      "rating": 885,
+      "kind": "peak",
+      "date": "2024-09-04"
+    },
+    {
+      "rank": 11,
+      "name": "Mohammad Rizwan",
+      "country": "Pakistan",
+      "rating": 882,
+      "kind": "peak",
+      "date": "2022-09-28"
+    },
+    {
+      "rank": 12,
+      "name": "Philip Salt",
+      "country": "England",
+      "rating": 881,
+      "kind": "peak",
+      "date": "2024-11-09"
+    },
+    {
+      "rank": 13,
+      "name": "Alex Hales",
+      "country": "England",
+      "rating": 878,
+      "kind": "peak",
+      "date": "2014-09-07"
+    },
+    {
+      "rank": 14,
+      "name": "Eoin Morgan",
+      "country": "England",
+      "rating": 864,
+      "kind": "peak",
+      "date": "2011-08-31"
+    },
+    {
+      "rank": 15,
+      "name": "Lokesh Rahul",
+      "country": "India",
+      "rating": 861,
+      "kind": "peak",
+      "date": "2018-07-03"
+    },
+    {
+      "rank": 15,
+      "name": "Brendon McCullum",
+      "country": "New Zealand",
+      "rating": 861,
+      "kind": "peak",
+      "date": "2012-09-21"
+    },
+    {
+      "rank": 17,
+      "name": "Francois du Plessis",
+      "country": "South Africa",
+      "rating": 856,
+      "kind": "peak",
+      "date": "2015-07-05"
+    },
+    {
+      "rank": 18,
+      "name": "Fakhar Zaman",
+      "country": "Pakistan",
+      "rating": 854,
+      "kind": "peak",
+      "date": "2018-07-08"
+    },
+    {
+      "rank": 19,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "rating": 848,
+      "kind": "peak",
+      "date": "2019-10-27"
+    },
+    {
+      "rank": 19,
+      "name": "Sahibzada Farhan",
+      "country": "Pakistan",
+      "rating": 848,
+      "kind": "peak",
+      "date": "2026-02-28"
+    },
+    {
+      "rank": 21,
+      "name": "Shane Watson",
+      "country": "Australia",
+      "rating": 847,
+      "kind": "peak",
+      "date": "2012-09-30"
+    },
+    {
+      "rank": 22,
+      "name": "N.T. Tilak Varma",
+      "country": "India",
+      "rating": 845,
+      "kind": "peak",
+      "date": "2025-01-25"
+    },
+    {
+      "rank": 23,
+      "name": "Colin Munro",
+      "country": "New Zealand",
+      "rating": 841,
+      "kind": "peak",
+      "date": "2018-11-02"
+    },
+    {
+      "rank": 24,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 839,
+      "kind": "peak",
+      "date": "2012-10-05"
+    },
+    {
+      "rank": 24,
+      "name": "Devon Conway",
+      "country": "New Zealand",
+      "rating": 839,
+      "kind": "peak",
+      "date": "2022-10-22"
+    },
+    {
+      "rank": 26,
+      "name": "Tillekeratne Dilshan",
+      "country": "Sri Lanka",
+      "rating": 812,
+      "kind": "peak",
+      "date": "2009-09-02"
+    },
+    {
+      "rank": 27,
+      "name": "Dewald Brevis",
+      "country": "South Africa",
+      "rating": 806,
+      "kind": "peak",
+      "date": "2026-09-01"
+    },
+    {
+      "rank": 28,
+      "name": "Martin Guptill",
+      "country": "New Zealand",
+      "rating": 803,
+      "kind": "peak",
+      "date": "2012-02-19"
+    },
+    {
+      "rank": 29,
+      "name": "Rassie van der Dussen",
+      "country": "South Africa",
+      "rating": 802,
+      "kind": "peak",
+      "date": "2021-06-26"
+    },
+    {
+      "rank": 29,
+      "name": "Yuvraj Singh",
+      "country": "India",
+      "rating": 802,
+      "kind": "peak",
+      "date": "2010-05-02"
+    },
+    {
+      "rank": 31,
+      "name": "Aiden Markram",
+      "country": "South Africa",
+      "rating": 801,
+      "kind": "peak",
+      "date": "2021-11-06"
+    },
+    {
+      "rank": 32,
+      "name": "Pathum Nissanka",
+      "country": "Sri Lanka",
+      "rating": 796,
+      "kind": "peak",
+      "date": "2026-02-19"
+    },
+    {
+      "rank": 33,
+      "name": "Mahela Jayawardene",
+      "country": "Sri Lanka",
+      "rating": 795,
+      "kind": "peak",
+      "date": "2011-08-08"
+    },
+    {
+      "rank": 34,
+      "name": "Jos Buttler",
+      "country": "England",
+      "rating": 794,
+      "kind": "peak",
+      "date": "2025-09-12"
+    },
+    {
+      "rank": 35,
+      "name": "Graeme Smith",
+      "country": "South Africa",
+      "rating": 787,
+      "kind": "peak",
+      "date": "2010-10-10"
+    },
+    {
+      "rank": 36,
+      "name": "Evin Lewis",
+      "country": "West Indies",
+      "rating": 786,
+      "kind": "peak",
+      "date": "2017-09-16"
+    },
+    {
+      "rank": 36,
+      "name": "Kusal Perera",
+      "country": "Sri Lanka",
+      "rating": 786,
+      "kind": "peak",
+      "date": "2014-04-03"
+    },
+    {
+      "rank": 36,
+      "name": "Kumar Sangakkara",
+      "country": "Sri Lanka",
+      "rating": 786,
+      "kind": "peak",
+      "date": "2010-05-07"
+    },
+    {
+      "rank": 39,
+      "name": "Suresh Raina",
+      "country": "India",
+      "rating": 785,
+      "kind": "peak",
+      "date": "2011-10-29"
+    },
+    {
+      "rank": 40,
+      "name": "Yashasvi Jaiswal",
+      "country": "India",
+      "rating": 781,
+      "kind": "peak",
+      "date": "2024-07-28"
+    },
+    {
+      "rank": 41,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 771,
+      "kind": "peak",
+      "date": "2017-01-03"
+    },
+    {
+      "rank": 42,
+      "name": "D'Arcy Short",
+      "country": "Australia",
+      "rating": 764,
+      "kind": "peak",
+      "date": "2018-10-22"
+    },
+    {
+      "rank": 43,
+      "name": "Joe Root",
+      "country": "England",
+      "rating": 760,
+      "kind": "peak",
+      "date": "2016-04-03"
+    },
+    {
+      "rank": 44,
+      "name": "Hazratullah Zazai",
+      "country": "Afghanistan",
+      "rating": 750,
+      "kind": "peak",
+      "date": "2019-11-16"
+    },
+    {
+      "rank": 45,
+      "name": "Tim Seifert",
+      "country": "New Zealand",
+      "rating": 749,
+      "kind": "peak",
+      "date": "2026-03-08"
+    },
+    {
+      "rank": 46,
+      "name": "Jacques Kallis",
+      "country": "South Africa",
+      "rating": 747,
+      "kind": "peak",
+      "date": "2012-09-08"
+    },
+    {
+      "rank": 47,
+      "name": "Umar Akmal",
+      "country": "Pakistan",
+      "rating": 745,
+      "kind": "peak",
+      "date": "2011-09-16"
+    },
+    {
+      "rank": 47,
+      "name": "Marlon Samuels",
+      "country": "West Indies",
+      "rating": 745,
+      "kind": "peak",
+      "date": "2012-12-10"
+    },
+    {
+      "rank": 49,
+      "name": "Muhammad Waseem",
+      "country": "United Arab Emirates",
+      "rating": 744,
+      "kind": "peak",
+      "date": "2022-08-22"
+    },
+    {
+      "rank": 50,
+      "name": "Gautam Gambhir",
+      "country": "India",
+      "rating": 734,
+      "kind": "peak",
+      "date": "2009-12-12"
+    },
+    {
+      "rank": 50,
+      "name": "Harry Brook",
+      "country": "England",
+      "rating": 734,
+      "kind": "peak",
+      "date": "2026-07-11"
+    },
+    {
+      "rank": 52,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "rating": 733,
+      "kind": "peak",
+      "date": "2018-11-06"
+    },
+    {
+      "rank": 53,
+      "name": "JP Duminy",
+      "country": "South Africa",
+      "rating": 731,
+      "kind": "peak",
+      "date": "2014-03-24"
+    },
+    {
+      "rank": 54,
+      "name": "Finn Allen",
+      "country": "New Zealand",
+      "rating": 730,
+      "kind": "peak",
+      "date": "2024-01-17"
+    },
+    {
+      "rank": 54,
+      "name": "Josh Inglis",
+      "country": "Australia",
+      "rating": 730,
+      "kind": "peak",
+      "date": "2025-07-26"
+    },
+    {
+      "rank": 56,
+      "name": "Rilee Rossouw",
+      "country": "South Africa",
+      "rating": 726,
+      "kind": "peak",
+      "date": "2023-03-28"
+    },
+    {
+      "rank": 57,
+      "name": "Hamilton Masakadza",
+      "country": "Zimbabwe",
+      "rating": 723,
+      "kind": "peak",
+      "date": "2016-01-22"
+    },
+    {
+      "rank": 58,
+      "name": "Ahmed Shehzad",
+      "country": "Pakistan",
+      "rating": 721,
+      "kind": "peak",
+      "date": "2014-03-30"
+    },
+    {
+      "rank": 59,
+      "name": "David Hussey",
+      "country": "Australia",
+      "rating": 719,
+      "kind": "peak",
+      "date": "2010-07-07"
+    },
+    {
+      "rank": 60,
+      "name": "Jacob Bethell",
+      "country": "England",
+      "rating": 718,
+      "kind": "peak",
+      "date": "2026-07-04"
+    },
+    {
+      "rank": 60,
+      "name": "Mohammad Shahzad",
+      "country": "Afghanistan",
+      "rating": 718,
+      "kind": "peak",
+      "date": "2017-03-08"
+    },
+    {
+      "rank": 62,
+      "name": "Reeza Hendricks",
+      "country": "South Africa",
+      "rating": 717,
+      "kind": "peak",
+      "date": "2024-05-25"
+    },
+    {
+      "rank": 63,
+      "name": "Brian Bennett",
+      "country": "Zimbabwe",
+      "rating": 716,
+      "kind": "peak",
+      "date": "2026-07-19"
+    },
+    {
+      "rank": 64,
+      "name": "Shai Hope",
+      "country": "West Indies",
+      "rating": 712,
+      "kind": "peak",
+      "date": "2025-07-25"
+    },
+    {
+      "rank": 65,
+      "name": "Glenn Phillips",
+      "country": "New Zealand",
+      "rating": 710,
+      "kind": "peak",
+      "date": "2022-11-01"
+    },
+    {
+      "rank": 66,
+      "name": "Brandon King",
+      "country": "West Indies",
+      "rating": 707,
+      "kind": "peak",
+      "date": "2024-05-26"
+    },
+    {
+      "rank": 66,
+      "name": "Ruturaj Gaikwad",
+      "country": "India",
+      "rating": 707,
+      "kind": "peak",
+      "date": "2024-07-10"
+    },
+    {
+      "rank": 68,
+      "name": "Mitchell Marsh",
+      "country": "Australia",
+      "rating": 706,
+      "kind": "peak",
+      "date": "2026-06-21"
+    },
+    {
+      "rank": 69,
+      "name": "Jason Roy",
+      "country": "England",
+      "rating": 702,
+      "kind": "peak",
+      "date": "2018-10-27"
+    },
+    {
+      "rank": 70,
+      "name": "Hashim Amla",
+      "country": "South Africa",
+      "rating": 700,
+      "kind": "peak",
+      "date": "2017-10-29"
+    },
+    {
+      "rank": 71,
+      "name": "Sanath Jayasuriya",
+      "country": "Sri Lanka",
+      "rating": 699,
+      "kind": "peak",
+      "date": "2009-06-14"
+    },
+    {
+      "rank": 72,
+      "name": "Ryan Rickelton",
+      "country": "South Africa",
+      "rating": 697,
+      "kind": "peak",
+      "date": "2026-03-01"
+    },
+    {
+      "rank": 72,
+      "name": "Shikhar Dhawan",
+      "country": "India",
+      "rating": 697,
+      "kind": "peak",
+      "date": "2019-02-06"
+    },
+    {
+      "rank": 74,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "rating": 686,
+      "kind": "peak",
+      "date": "2021-09-14"
+    },
+    {
+      "rank": 75,
+      "name": "Tim David",
+      "country": "Australia",
+      "rating": 680,
+      "kind": "peak",
+      "date": "2025-08-12"
+    },
+    {
+      "rank": 76,
+      "name": "Shaiman Anwar",
+      "country": "United Arab Emirates",
+      "rating": 679,
+      "kind": "peak",
+      "date": "2019-01-31"
+    },
+    {
+      "rank": 76,
+      "name": "Nicholas Pooran",
+      "country": "West Indies",
+      "rating": 679,
+      "kind": "peak",
+      "date": "2022-07-07"
+    },
+    {
+      "rank": 78,
+      "name": "Cameron White",
+      "country": "Australia",
+      "rating": 678,
+      "kind": "peak",
+      "date": "2011-10-16"
+    },
+    {
+      "rank": 78,
+      "name": "Ibrahim Zadran",
+      "country": "Afghanistan",
+      "rating": 678,
+      "kind": "peak",
+      "date": "2026-02-19"
+    },
+    {
+      "rank": 80,
+      "name": "Sabbir Rahman",
+      "country": "Bangladesh",
+      "rating": 676,
+      "kind": "peak",
+      "date": "2017-01-06"
+    },
+    {
+      "rank": 81,
+      "name": "Misbah-ul-Haq",
+      "country": "Pakistan",
+      "rating": 674,
+      "kind": "peak",
+      "date": "2009-06-09"
+    },
+    {
+      "rank": 82,
+      "name": "Rahmanullah Gurbaz",
+      "country": "Afghanistan",
+      "rating": 672,
+      "kind": "peak",
+      "date": "2026-02-11"
+    },
+    {
+      "rank": 83,
+      "name": "Johnson Charles",
+      "country": "West Indies",
+      "rating": 671,
+      "kind": "peak",
+      "date": "2024-06-19"
+    },
+    {
+      "rank": 84,
+      "name": "Kusal Mendis",
+      "country": "Sri Lanka",
+      "rating": 666,
+      "kind": "peak",
+      "date": "2026-02-16"
+    },
+    {
+      "rank": 85,
+      "name": "Mohammad Hafeez",
+      "country": "Pakistan",
+      "rating": 664,
+      "kind": "peak",
+      "date": "2013-12-11"
+    },
+    {
+      "rank": 86,
+      "name": "Kamil Mishara",
+      "country": "Sri Lanka",
+      "rating": 657,
+      "kind": "peak",
+      "date": "2026-06-14"
+    },
+    {
+      "rank": 87,
+      "name": "Tim Robinson",
+      "country": "New Zealand",
+      "rating": 655,
+      "kind": "peak",
+      "date": "2025-11-13"
+    },
+    {
+      "rank": 88,
+      "name": "Michael Levitt",
+      "country": "Netherlands",
+      "rating": 651,
+      "kind": "peak",
+      "date": "2025-06-19"
+    },
+    {
+      "rank": 89,
+      "name": "Tanzid Hasan",
+      "country": "Bangladesh",
+      "rating": 649,
+      "kind": "peak",
+      "date": "2026-07-19"
+    },
+    {
+      "rank": 90,
+      "name": "Matthew Hayden",
+      "country": "Australia",
+      "rating": 643,
+      "kind": "peak",
+      "date": "2007-09-22"
+    },
+    {
+      "rank": 91,
+      "name": "Cameron Green",
+      "country": "Australia",
+      "rating": 642,
+      "kind": "peak",
+      "date": "2026-01-31"
+    },
+    {
+      "rank": 91,
+      "name": "Jonny Bairstow",
+      "country": "England",
+      "rating": 642,
+      "kind": "peak",
+      "date": "2024-06-21"
+    },
+    {
+      "rank": 93,
+      "name": "Andrew Symonds",
+      "country": "Australia",
+      "rating": 640,
+      "kind": "peak",
+      "date": "2007-12-11"
+    },
+    {
+      "rank": 94,
+      "name": "Mohammad Naim",
+      "country": "Bangladesh",
+      "rating": 637,
+      "kind": "peak",
+      "date": "2021-10-24"
+    },
+    {
+      "rank": 94,
+      "name": "Sanju Samson",
+      "country": "India",
+      "rating": 637,
+      "kind": "peak",
+      "date": "2026-03-08"
+    },
+    {
+      "rank": 96,
+      "name": "Saiteja Mukkamalla",
+      "country": "United States",
+      "rating": 636,
+      "kind": "peak",
+      "date": "2026-02-13"
+    },
+    {
+      "rank": 97,
+      "name": "Ben Duckett",
+      "country": "England",
+      "rating": 635,
+      "kind": "peak",
+      "date": "2025-06-10"
+    },
+    {
+      "rank": 98,
+      "name": "George Munsey",
+      "country": "Scotland",
+      "rating": 633,
+      "kind": "peak",
+      "date": "2026-04-18"
+    },
+    {
+      "rank": 99,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 632,
+      "kind": "peak",
+      "date": "2015-04-24"
+    },
+    {
+      "rank": 100,
+      "name": "Shreyas Iyer",
+      "country": "India",
+      "rating": 630,
+      "kind": "peak",
+      "date": "2026-07-26"
+    }
+  ],
+  "t20i_bowl_best": [
+    {
+      "rank": 1,
+      "name": "Umar Gul",
+      "country": "Pakistan",
+      "rating": 865,
+      "kind": "peak",
+      "date": "2009-06-15"
+    },
+    {
+      "rank": 2,
+      "name": "Samuel Badree",
+      "country": "West Indies",
+      "rating": 864,
+      "kind": "peak",
+      "date": "2014-04-01"
+    },
+    {
+      "rank": 3,
+      "name": "Daniel Vettori",
+      "country": "New Zealand",
+      "rating": 858,
+      "kind": "peak",
+      "date": "2010-02-26"
+    },
+    {
+      "rank": 4,
+      "name": "Sunil Narine",
+      "country": "West Indies",
+      "rating": 832,
+      "kind": "peak",
+      "date": "2013-07-28"
+    },
+    {
+      "rank": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "rating": 828,
+      "kind": "peak",
+      "date": "2018-06-05"
+    },
+    {
+      "rank": 6,
+      "name": "Tabraiz Shamsi",
+      "country": "South Africa",
+      "rating": 827,
+      "kind": "peak",
+      "date": "2021-07-03"
+    },
+    {
+      "rank": 7,
+      "name": "Shahid Afridi",
+      "country": "Pakistan",
+      "rating": 822,
+      "kind": "peak",
+      "date": "2009-08-12"
+    },
+    {
+      "rank": 8,
+      "name": "Varun Chakravarthy",
+      "country": "India",
+      "rating": 818,
+      "kind": "peak",
+      "date": "2025-12-14"
+    },
+    {
+      "rank": 9,
+      "name": "Shadab Khan",
+      "country": "Pakistan",
+      "rating": 811,
+      "kind": "peak",
+      "date": "2018-06-13"
+    },
+    {
+      "rank": 10,
+      "name": "Wanindu Hasaranga",
+      "country": "Sri Lanka",
+      "rating": 809,
+      "kind": "peak",
+      "date": "2021-11-04"
+    },
+    {
+      "rank": 11,
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "rating": 808,
+      "kind": "peak",
+      "date": "2022-02-13"
+    },
+    {
+      "rank": 12,
+      "name": "Imran Tahir",
+      "country": "South Africa",
+      "rating": 803,
+      "kind": "peak",
+      "date": "2017-02-17"
+    },
+    {
+      "rank": 13,
+      "name": "Imad Wasim",
+      "country": "Pakistan",
+      "rating": 797,
+      "kind": "peak",
+      "date": "2017-04-02"
+    },
+    {
+      "rank": 14,
+      "name": "Shaun Tait",
+      "country": "Australia",
+      "rating": 791,
+      "kind": "peak",
+      "date": "2010-07-07"
+    },
+    {
+      "rank": 15,
+      "name": "Saeed Ajmal",
+      "country": "Pakistan",
+      "rating": 790,
+      "kind": "peak",
+      "date": "2012-09-23"
+    },
+    {
+      "rank": 16,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 783,
+      "kind": "peak",
+      "date": "2017-02-01"
+    },
+    {
+      "rank": 17,
+      "name": "Ajantha Mendis",
+      "country": "Sri Lanka",
+      "rating": 777,
+      "kind": "peak",
+      "date": "2012-10-07"
+    },
+    {
+      "rank": 18,
+      "name": "Ravichandr Ashwin",
+      "country": "India",
+      "rating": 772,
+      "kind": "peak",
+      "date": "2016-02-14"
+    },
+    {
+      "rank": 19,
+      "name": "Graeme Swann",
+      "country": "England",
+      "rating": 768,
+      "kind": "peak",
+      "date": "2010-09-07"
+    },
+    {
+      "rank": 20,
+      "name": "Rahman",
+      "country": "Afghanistan",
+      "rating": 757,
+      "kind": "peak",
+      "date": "2019-11-17"
+    },
+    {
+      "rank": 20,
+      "name": "Abrar Ahmed",
+      "country": "Pakistan",
+      "rating": 757,
+      "kind": "peak",
+      "date": "2026-02-07"
+    },
+    {
+      "rank": 22,
+      "name": "Jacob Duffy",
+      "country": "New Zealand",
+      "rating": 750,
+      "kind": "peak",
+      "date": "2025-07-16"
+    },
+    {
+      "rank": 23,
+      "name": "Adil Rashid",
+      "country": "England",
+      "rating": 747,
+      "kind": "peak",
+      "date": "2022-01-30"
+    },
+    {
+      "rank": 24,
+      "name": "Adam Zampa",
+      "country": "Australia",
+      "rating": 746,
+      "kind": "peak",
+      "date": "2022-02-11"
+    },
+    {
+      "rank": 25,
+      "name": "Corbin Bosch",
+      "country": "South Africa",
+      "rating": 745,
+      "kind": "peak",
+      "date": "2026-02-26"
+    },
+    {
+      "rank": 26,
+      "name": "Kuldeep Yadav",
+      "country": "India",
+      "rating": 737,
+      "kind": "peak",
+      "date": "2019-02-10"
+    },
+    {
+      "rank": 26,
+      "name": "Ish Sodhi",
+      "country": "New Zealand",
+      "rating": 737,
+      "kind": "peak",
+      "date": "2018-01-22"
+    },
+    {
+      "rank": 28,
+      "name": "Johan Botha",
+      "country": "South Africa",
+      "rating": 736,
+      "kind": "peak",
+      "date": "2012-02-22"
+    },
+    {
+      "rank": 29,
+      "name": "Mitchell Santner",
+      "country": "New Zealand",
+      "rating": 735,
+      "kind": "peak",
+      "date": "2018-01-22"
+    },
+    {
+      "rank": 30,
+      "name": "Akeal Hosein",
+      "country": "West Indies",
+      "rating": 726,
+      "kind": "peak",
+      "date": "2025-10-29"
+    },
+    {
+      "rank": 31,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "rating": 723,
+      "kind": "peak",
+      "date": "2014-10-05"
+    },
+    {
+      "rank": 32,
+      "name": "Mitchell Johnson",
+      "country": "Australia",
+      "rating": 720,
+      "kind": "peak",
+      "date": "2010-05-11"
+    },
+    {
+      "rank": 33,
+      "name": "Ashton Agar",
+      "country": "Australia",
+      "rating": 719,
+      "kind": "peak",
+      "date": "2020-09-06"
+    },
+    {
+      "rank": 34,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "rating": 718,
+      "kind": "peak",
+      "date": "2017-04-06"
+    },
+    {
+      "rank": 35,
+      "name": "Sachithra Senanayake",
+      "country": "Sri Lanka",
+      "rating": 716,
+      "kind": "peak",
+      "date": "2014-05-20"
+    },
+    {
+      "rank": 36,
+      "name": "Gudakesh Motie-Kanhai",
+      "country": "West Indies",
+      "rating": 715,
+      "kind": "peak",
+      "date": "2024-10-15"
+    },
+    {
+      "rank": 36,
+      "name": "Yuzvendra Chahal",
+      "country": "India",
+      "rating": 715,
+      "kind": "peak",
+      "date": "2018-03-18"
+    },
+    {
+      "rank": 38,
+      "name": "Nuwan Thushara",
+      "country": "Sri Lanka",
+      "rating": 714,
+      "kind": "peak",
+      "date": "2025-09-18"
+    },
+    {
+      "rank": 39,
+      "name": "Nathan McCullum",
+      "country": "New Zealand",
+      "rating": 713,
+      "kind": "peak",
+      "date": "2011-10-17"
+    },
+    {
+      "rank": 40,
+      "name": "Mohammad Amir",
+      "country": "Pakistan",
+      "rating": 712,
+      "kind": "peak",
+      "date": "2010-07-07"
+    },
+    {
+      "rank": 41,
+      "name": "Harbhajan Singh",
+      "country": "India",
+      "rating": 707,
+      "kind": "peak",
+      "date": "2010-05-09"
+    },
+    {
+      "rank": 41,
+      "name": "Ravi Bishnoi",
+      "country": "India",
+      "rating": 707,
+      "kind": "peak",
+      "date": "2023-12-03"
+    },
+    {
+      "rank": 43,
+      "name": "Dale Steyn",
+      "country": "South Africa",
+      "rating": 703,
+      "kind": "peak",
+      "date": "2010-05-20"
+    },
+    {
+      "rank": 44,
+      "name": "Fazalhaq Farooqi",
+      "country": "Afghanistan",
+      "rating": 700,
+      "kind": "peak",
+      "date": "2023-03-26"
+    },
+    {
+      "rank": 45,
+      "name": "Anrich Nortje",
+      "country": "South Africa",
+      "rating": 699,
+      "kind": "peak",
+      "date": "2022-06-12"
+    },
+    {
+      "rank": 46,
+      "name": "James Faulkner",
+      "country": "Australia",
+      "rating": 695,
+      "kind": "peak",
+      "date": "2017-02-22"
+    },
+    {
+      "rank": 47,
+      "name": "Daren Sammy",
+      "country": "West Indies",
+      "rating": 691,
+      "kind": "peak",
+      "date": "2011-09-23"
+    },
+    {
+      "rank": 48,
+      "name": "Mohammad Hafeez",
+      "country": "Pakistan",
+      "rating": 690,
+      "kind": "peak",
+      "date": "2013-08-24"
+    },
+    {
+      "rank": 48,
+      "name": "Sam Curran",
+      "country": "England",
+      "rating": 690,
+      "kind": "peak",
+      "date": "2022-11-13"
+    },
+    {
+      "rank": 50,
+      "name": "Maheesh Theekshana",
+      "country": "Sri Lanka",
+      "rating": 686,
+      "kind": "peak",
+      "date": "2023-04-08"
+    },
+    {
+      "rank": 51,
+      "name": "Lasith Malinga",
+      "country": "Sri Lanka",
+      "rating": 685,
+      "kind": "peak",
+      "date": "2015-11-11"
+    },
+    {
+      "rank": 52,
+      "name": "Bhuvneshwar Kumar",
+      "country": "India",
+      "rating": 683,
+      "kind": "peak",
+      "date": "2022-09-08"
+    },
+    {
+      "rank": 53,
+      "name": "Nuwan Kulasekara",
+      "country": "Sri Lanka",
+      "rating": 682,
+      "kind": "peak",
+      "date": "2013-01-28"
+    },
+    {
+      "rank": 54,
+      "name": "Abdur Razzak",
+      "country": "Bangladesh",
+      "rating": 680,
+      "kind": "peak",
+      "date": "2012-07-20"
+    },
+    {
+      "rank": 54,
+      "name": "Brad Evans",
+      "country": "Zimbabwe",
+      "rating": 680,
+      "kind": "peak",
+      "date": "2026-02-13"
+    },
+    {
+      "rank": 56,
+      "name": "Dirk Nannes",
+      "country": "Australia",
+      "rating": 679,
+      "kind": "peak",
+      "date": "2010-10-31"
+    },
+    {
+      "rank": 56,
+      "name": "Arshdeep Singh",
+      "country": "India",
+      "rating": 679,
+      "kind": "peak",
+      "date": "2025-01-22"
+    },
+    {
+      "rank": 56,
+      "name": "Matthew Forde",
+      "country": "West Indies",
+      "rating": 679,
+      "kind": "peak",
+      "date": "2026-02-23"
+    },
+    {
+      "rank": 59,
+      "name": "Lonwabo Tsotsobe",
+      "country": "South Africa",
+      "rating": 678,
+      "kind": "peak",
+      "date": "2013-11-20"
+    },
+    {
+      "rank": 59,
+      "name": "Nathan Ellis",
+      "country": "Australia",
+      "rating": 678,
+      "kind": "peak",
+      "date": "2025-11-06"
+    },
+    {
+      "rank": 61,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 677,
+      "kind": "peak",
+      "date": "2014-03-30"
+    },
+    {
+      "rank": 62,
+      "name": "Prosper Utseya",
+      "country": "Zimbabwe",
+      "rating": 676,
+      "kind": "peak",
+      "date": "2013-08-23"
+    },
+    {
+      "rank": 63,
+      "name": "George Dockrell",
+      "country": "Ireland",
+      "rating": 675,
+      "kind": "peak",
+      "date": "2014-03-17"
+    },
+    {
+      "rank": 63,
+      "name": "Graeme Cremer",
+      "country": "Zimbabwe",
+      "rating": 675,
+      "kind": "peak",
+      "date": "2016-01-20"
+    },
+    {
+      "rank": 63,
+      "name": "Kyle Abbott",
+      "country": "South Africa",
+      "rating": 675,
+      "kind": "peak",
+      "date": "2016-03-28"
+    },
+    {
+      "rank": 66,
+      "name": "Steven Finn",
+      "country": "England",
+      "rating": 674,
+      "kind": "peak",
+      "date": "2013-08-31"
+    },
+    {
+      "rank": 66,
+      "name": "Andile Phehlukwayo",
+      "country": "South Africa",
+      "rating": 674,
+      "kind": "peak",
+      "date": "2020-02-12"
+    },
+    {
+      "rank": 68,
+      "name": "Kane Richardson",
+      "country": "Australia",
+      "rating": 673,
+      "kind": "peak",
+      "date": "2020-09-04"
+    },
+    {
+      "rank": 68,
+      "name": "Keshav Maharaj",
+      "country": "South Africa",
+      "rating": 673,
+      "kind": "peak",
+      "date": "2022-10-04"
+    },
+    {
+      "rank": 68,
+      "name": "Stuart Broad",
+      "country": "England",
+      "rating": 673,
+      "kind": "peak",
+      "date": "2010-09-07"
+    },
+    {
+      "rank": 71,
+      "name": "Mohammad Nawaz",
+      "country": "Pakistan",
+      "rating": 672,
+      "kind": "peak",
+      "date": "2026-02-01"
+    },
+    {
+      "rank": 72,
+      "name": "Tim Southee",
+      "country": "New Zealand",
+      "rating": 670,
+      "kind": "peak",
+      "date": "2021-04-01"
+    },
+    {
+      "rank": 73,
+      "name": "Andrew Tye",
+      "country": "Australia",
+      "rating": 669,
+      "kind": "peak",
+      "date": "2018-07-08"
+    },
+    {
+      "rank": 73,
+      "name": "Shane Watson",
+      "country": "Australia",
+      "rating": 669,
+      "kind": "peak",
+      "date": "2012-10-02"
+    },
+    {
+      "rank": 75,
+      "name": "Jofra Archer",
+      "country": "England",
+      "rating": 668,
+      "kind": "peak",
+      "date": "2025-01-25"
+    },
+    {
+      "rank": 75,
+      "name": "Adam Milne",
+      "country": "New Zealand",
+      "rating": 668,
+      "kind": "peak",
+      "date": "2016-03-22"
+    },
+    {
+      "rank": 77,
+      "name": "Axar Patel",
+      "country": "India",
+      "rating": 667,
+      "kind": "peak",
+      "date": "2024-01-14"
+    },
+    {
+      "rank": 77,
+      "name": "Nathan Bracken",
+      "country": "Australia",
+      "rating": 667,
+      "kind": "peak",
+      "date": "2009-02-15"
+    },
+    {
+      "rank": 79,
+      "name": "Chris Jordan",
+      "country": "England",
+      "rating": 664,
+      "kind": "peak",
+      "date": "2019-11-03"
+    },
+    {
+      "rank": 79,
+      "name": "Jade Dernbach",
+      "country": "England",
+      "rating": 664,
+      "kind": "peak",
+      "date": "2013-08-31"
+    },
+    {
+      "rank": 81,
+      "name": "Reece Topley",
+      "country": "England",
+      "rating": 662,
+      "kind": "peak",
+      "date": "2022-10-12"
+    },
+    {
+      "rank": 82,
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "rating": 661,
+      "kind": "peak",
+      "date": "2016-02-27"
+    },
+    {
+      "rank": 83,
+      "name": "Faheem Ashraf",
+      "country": "Pakistan",
+      "rating": 660,
+      "kind": "peak",
+      "date": "2019-02-01"
+    },
+    {
+      "rank": 83,
+      "name": "Nasum Ahmed",
+      "country": "Bangladesh",
+      "rating": 660,
+      "kind": "peak",
+      "date": "2026-06-21"
+    },
+    {
+      "rank": 85,
+      "name": "Billy Stanlake",
+      "country": "Australia",
+      "rating": 659,
+      "kind": "peak",
+      "date": "2018-10-26"
+    },
+    {
+      "rank": 85,
+      "name": "Haris Rauf",
+      "country": "Pakistan",
+      "rating": 659,
+      "kind": "peak",
+      "date": "2023-04-15"
+    },
+    {
+      "rank": 87,
+      "name": "Sufiyan Muqeem",
+      "country": "Pakistan",
+      "rating": 656,
+      "kind": "peak",
+      "date": "2025-09-12"
+    },
+    {
+      "rank": 88,
+      "name": "Alzarri Joseph",
+      "country": "West Indies",
+      "rating": 654,
+      "kind": "peak",
+      "date": "2023-12-14"
+    },
+    {
+      "rank": 88,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "rating": 654,
+      "kind": "peak",
+      "date": "2022-10-29"
+    },
+    {
+      "rank": 90,
+      "name": "Mitchell McClenaghan",
+      "country": "New Zealand",
+      "rating": 653,
+      "kind": "peak",
+      "date": "2016-03-18"
+    },
+    {
+      "rank": 91,
+      "name": "Liam Dawson",
+      "country": "England",
+      "rating": 652,
+      "kind": "peak",
+      "date": "2026-02-27"
+    },
+    {
+      "rank": 92,
+      "name": "Morne Morkel",
+      "country": "South Africa",
+      "rating": 651,
+      "kind": "peak",
+      "date": "2011-10-13"
+    },
+    {
+      "rank": 93,
+      "name": "Sheldon Cottrell",
+      "country": "West Indies",
+      "rating": 650,
+      "kind": "peak",
+      "date": "2020-11-27"
+    },
+    {
+      "rank": 93,
+      "name": "David Wiese",
+      "country": "South Africa",
+      "rating": 650,
+      "kind": "peak",
+      "date": "2016-03-25"
+    },
+    {
+      "rank": 95,
+      "name": "David Willey",
+      "country": "England",
+      "rating": 647,
+      "kind": "peak",
+      "date": "2019-03-10"
+    },
+    {
+      "rank": 96,
+      "name": "Majid Haq",
+      "country": "Scotland",
+      "rating": 646,
+      "kind": "peak",
+      "date": "2013-11-22"
+    },
+    {
+      "rank": 96,
+      "name": "Liam Plunkett",
+      "country": "England",
+      "rating": 646,
+      "kind": "peak",
+      "date": "2018-07-06"
+    },
+    {
+      "rank": 98,
+      "name": "Salman Mirza",
+      "country": "Pakistan",
+      "rating": 645,
+      "kind": "peak",
+      "date": "2026-02-18"
+    },
+    {
+      "rank": 99,
+      "name": "Mohammad Naveed",
+      "country": "United Arab Emirates",
+      "rating": 644,
+      "kind": "peak",
+      "date": "2016-12-18"
+    },
+    {
+      "rank": 99,
+      "name": "Ashish Nehra",
+      "country": "India",
+      "rating": 644,
+      "kind": "peak",
+      "date": "2016-03-31"
+    }
+  ],
+  "sources": [
+    "https://iccbackup.co.uk/alltime/test/batting/",
+    "https://iccbackup.co.uk/alltime/test/bowling/",
+    "https://iccbackup.co.uk/alltime/odi/batting/",
+    "https://iccbackup.co.uk/alltime/odi/bowling/",
+    "https://iccbackup.co.uk/alltime/t20/batting/",
+    "https://iccbackup.co.uk/alltime/t20/bowling/",
+    "https://iccbackup.co.uk/ranking/t20/batting/",
+    "https://iccbackup.co.uk/ranking/t20/bowling/",
+    "https://iccbackup.co.uk/ranking/t20/all-rounder/",
+    "https://en.wikipedia.org/wiki/ICC_Men%27s_Player_Rankings",
+    "https://www.cricbuzz.com/cricket-stats/icc-rankings/men/all-rounder",
+    "https://web.archive.org/web/20231011021229/https://www.icc-cricket.com/rankings/mens/player-rankings/test/all-time-all-rounder"
+  ],
+  "as_of": "Current T20I rankings reflect all matches up to and including South Africa v Zimbabwe, 06 September 2026 (per iccbackup.co.uk current-rankings pages). Best-ever/peak tables are all-time and each entry carries its own career-best date/year.",
+  "notes": "Ratings are ICC 0-1000 player-rating points. PEAK tables (test_bat_best, test_bowl_best, odi_bat_best, odi_bowl_best, t20i_bat_best, t20i_bowl_best) are the ICC 'best-ever / career-best rating' lists, 100 entries each, scraped from iccbackup.co.uk (a long-standing mirror of the official ICC/Reliance ICC Rankings all-time feed; icc-cricket.com itself renders its tables client-side and returns no data to a plain fetch). Every one of the top ~26 Test batting and top ~26 Test bowling rows, and the top 10 ODI batting/bowling rows, were cross-checked against the cited tables in the Wikipedia article 'ICC Men's Player Rankings' and matched exactly (Bradman 961, Smith 947, Hutton 945, Hobbs/Ponting 942, Barnes 932, Lohmann 931, Imran 922, Muralitharan 920, Garner 940, Viv Richards 935 ODI, etc.). The 'date' on peak rows is the date the career-best rating was achieved, as given by the source. CAVEAT: the source dates Bradman's 961 to 22/08/1934, while Wikipedia/most secondary sources give 1948 - the rating value 961 is agreed, the date is not. ALL-ROUNDER PEAK LISTS: the ICC never published a deep all-time all-rounder list (confirmed via Wayback CDX of relianceiccrankings.com - only /alltime/{test,odi,t20}/{batting,bowling} ever existed; the icc-cricket.com pages titled 'all-time all-rounder' actually show current standings). test_ar_best (10 rows, peak >=500) and odi_ar_best (11 rows) are therefore taken verbatim from the ICC-cited tables in the Wikipedia article and are the complete published lists, not truncations. T20I ALL-ROUNDER CURRENT is only 10 rows: every accessible source caps the all-rounder list (iccbackup renders top 10, Cricbuzz top 15, icc-cricket.com is JS-only); the 10 rows match Wikipedia's current top 10 exactly. t20i_bat_current and t20i_bowl_current are the top 50 of a fetched top-100 list; their top 10 match Wikipedia's current tables exactly (Ishan Kishan 910, Rashid Khan 753). Bonus keys t20i_bat_best / t20i_bowl_best (100 rows each, peak) were also collected. Source typos 'Mohammad Mohammad Nabi'/'Mohammad Mohammad Rizwan' were normalised to 'Mohammad Nabi'/'Mohammad Rizwan'; Muralitharan is spelled 'Muralidaran' in the Test bowling source. Country codes were expanded to full names. Shared ranks indicate ties. No figure here was estimated, interpolated or invented."
+}
