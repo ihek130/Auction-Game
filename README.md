@@ -43,6 +43,7 @@ Official setup and plan documentation, checked September 2026:
 - Every bid is a positive whole-dollar amount above the current high bid. Only the successful buyer pays.
 - **30 seconds for each bidding turn**, reset on a valid raise. Timeout is a pass. If both pass before bidding, the player is unsold and can return later.
 - An auction also closes when the other side cannot afford a higher bid, already passed, or has filled the current category.
+- **Once one side has filled a category, the other side auctions alone until it catches up.** The full side is not asked to bid: any bid from the other side wins outright, and a pass sends the player back into the pool. The screen says so on both sides — the full side sees why it is waiting, the active side is told its bid wins outright, and an unsold card names who passed and who could not bid. It is worth knowing before you finish a category early: your opponent then gets to pick through the remaining players cheaply.
 - Keep **$1 per unfilled squad slot**. Your displayed maximum bid accounts for that reserve.
 - Both sides complete each category before the next starts:
 

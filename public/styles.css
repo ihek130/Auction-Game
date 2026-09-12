@@ -178,6 +178,16 @@ legend{font-size:14px;font-weight:650;margin-bottom:8px;padding:0}
 .pass{flex:0 0 auto}
 .bidbar .help{font-size:11px;color:var(--muted);margin-top:8px;text-align:center}
 .pulse{width:8px;height:8px;border-radius:50%;background:var(--lime);animation:beat 1.2s infinite}
+/* Locked out of this lot (category already full): explain, do not just wait. */
+.bidbar.waiting.out{justify-content:flex-start;align-items:flex-start;text-align:left;gap:10px;border-color:#6b5b33;background:linear-gradient(#22301c,#141f14);color:var(--text)}
+.bidbar.out .lock{font-size:22px;line-height:1.2}
+.bidbar.out strong{display:block;color:var(--gold);font-size:14px;margin-bottom:2px}
+.bidbar.out small{display:block;font-size:12px;line-height:1.45;color:var(--muted)}
+/* Your turn, but the other side cannot answer: say what that means. */
+.bidbar .why{margin:0 0 8px;padding:8px 10px;border-radius:10px;background:#2a3d1f;color:var(--lime);font-size:12px;line-height:1.4}
+.bidbar .why b{color:var(--text)}
+.hud-seat.out{opacity:.85}
+.hud-seat .tag-out{display:inline-block;font-style:normal;font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--gold);border:1px solid #6b5b33;border-radius:99px;padding:1px 6px;vertical-align:middle}
 
 /* ---------- squads ---------- */
 .squads{border:1px solid var(--line);border-radius:16px;background:#112117;overflow:hidden}

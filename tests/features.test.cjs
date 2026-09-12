@@ -190,3 +190,33 @@ test('a settled lot never wedges the room even if the winning bid became impossi
   assert.equal(s.phase, 'sold');
   assert.equal(s.outcome.type, 'unsold');
 });
+
+test('a side that has filled the category is marked out of each new lot, and the view says so', () => {
+  const now = Date.now();
+  const s = newRoom('full', 't20', 'Creator', 'hash', now);
+  s.seats[1] = { name: 'Guest', tokenHash: 'other', wallet: 100, squad: [] };
+  act(s, 0, { type: 'start', revision: s.revision }, now);
+  // Guest buys five batters at $1; the creator passes every lot.
+  let bought = 0, guard = 0;
+  while (bought < 5 && guard++ < 60) {
+    if (s.phase === 'sold') { if (s.outcome.type === 'sold') bought++; act(s, 0, { type: 'next', revision: s.revision }, now); continue; }
+    if (s.turn === 0) act(s, 0, { type: 'pass', revision: s.revision }, now);
+    else act(s, 1, { type: 'bid', amount: 1, revision: s.revision }, now);
+  }
+  assert.equal(s.seats[1].squad.length, 5);
+  assert.equal(s.phase, 'auction');
+  assert.equal(s.turn, 0, 'only the creator can act once the guest is full');
+  const v = view(s, 1, now);
+  assert.deepEqual(v.passed, [false, true], 'the view exposes that the guest is out of this lot');
+  assert.equal(v.seats[1].counts[0], 5);
+  // The lone eligible side passing closes the lot without ever asking the other.
+  act(s, 0, { type: 'pass', revision: s.revision }, now);
+  assert.equal(s.phase, 'sold');
+  assert.equal(s.outcome.type, 'unsold');
+  // And a bid from the lone eligible side wins outright at that price.
+  act(s, 0, { type: 'next', revision: s.revision }, now);
+  act(s, 0, { type: 'bid', amount: 1, revision: s.revision }, now);
+  assert.equal(s.phase, 'sold');
+  assert.equal(s.outcome.buyer, 0);
+  assert.equal(s.outcome.price, 1);
+});

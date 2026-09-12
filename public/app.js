@@ -280,11 +280,31 @@ function rematch() {
 }
 
 /* ---------- the room ---------- */
+// Why a seat cannot bid on the current lot, or null if it can. Phrased in
+// the second person when `you` is set. A turn that never comes must always
+// be explained: a side that has filled the category, or has already passed,
+// or cannot afford a raise, is silently skipped by the rules.
+function whyOut(s, i, you) {
+  const p = s.seats[i]; if (!p) return null;
+  const stage = s.stages[s.stage];
+  const name = you ? 'You' : esc(p.name), have = you ? 'have' : 'has';
+  if (p.squad.length >= 12) return { kind: 'full', text: `${name} ${have} a full squad` };
+  if (p.counts[s.stage] >= stage.quota) {
+    return { kind: 'full', text: s.stage === 4 ? `${name} ${have} used the wildcard` : `${name} ${have} filled ${stageNames[s.stage].toLowerCase()} (${stage.quota}/${stage.quota})` };
+  }
+  if ((s.passed || [])[i]) return { kind: 'passed', text: `${name} passed` };
+  if (s.high > 0 && p.maxBid <= s.high) return { kind: 'broke', text: `${name} can't afford a higher bid` };
+  return null;
+}
 function hud(s) {
   const seconds = s.phase === 'auction' ? Math.max(0, Math.ceil((s.deadline - Date.now() - clockOffset) / 1000)) : null;
-  const seat = (p, i) => `<div class="hud-seat ${i === s.you ? 'you' : ''} ${s.turn === i ? 'turn' : ''}">`
+  // A side that has filled the current category wears a small "full" tag so
+  // the skipped turns make sense at a glance.
+  const seat = (p, i) => { const out = s.phase !== 'choose' ? whyOut(s, i, false) : null; const full = out && out.kind === 'full';
+    return `<div class="hud-seat ${i === s.you ? 'you' : ''} ${s.turn === i ? 'turn' : ''} ${full ? 'out' : ''}">`
     + `<span class="hud-name">${esc(p.name)}${i === s.you ? ' · You' : ''}</span>`
-    + `<strong>$${p.wallet}</strong><small>${p.squad.length}/12 · max $${p.maxBid}</small></div>`;
+    // A full side has no maximum bid worth showing; say "full" in its place.
+    + `<strong>$${p.wallet}</strong><small>${p.squad.length}/12 · ${full ? '<em class="tag-out">full</em>' : 'max $' + p.maxBid}</small></div>`; };
   return `<div class="hud">${seat(s.seats[0], 0)}`
     + `<div class="hud-clock"><div class="ring" id="timerRing" style="--p:1"><span id="timer" aria-label="Seconds remaining">${seconds === null ? '—' : seconds}</span></div>`
     + `<small>${s.phase === 'auction' ? 'seconds' : 'closed'}</small></div>${seat(s.seats[1], 1)}</div>`;
@@ -300,7 +320,16 @@ function lotCard(s) {
     const sold = s.outcome.type === 'sold';
     const won = sold && s.outcome.buyer === s.you;
     const headline = sold ? `${esc(s.seats[s.outcome.buyer].name)} buys ${esc(s.current.name)}` : 'Nobody bid';
-    const detail = sold ? `$${s.outcome.price} · ${s.current.rating} rating points` : esc(s.outcome.text || 'This player can return later.');
+    // An unsold lot needs a reason, otherwise a side that was never asked
+    // reads it as a bug. Name who passed and who was out of the running.
+    const unsoldWhy = () => {
+      const exits = s.history.filter(h => h.type === 'pass' || h.type === 'timeout');
+      if (exits.length >= 2) return 'Both passed. This player can return later.';
+      if (!exits.length) return esc(s.outcome.text || 'This player can return later.');
+      const e = exits[0], out = whyOut(s, 1 - e.seat, false);
+      return `${esc(s.seats[e.seat].name)} ${e.type === 'timeout' ? 'ran out of time' : 'passed'}${out ? ' · ' + out.text : ''}. This player can return later.`;
+    };
+    const detail = sold ? `$${s.outcome.price} · ${s.current.rating} rating points` : unsoldWhy();
     return `<section class="lot outcome-card ${sold ? (won ? 'won' : 'lost') : 'unsold'}">`
       + `<div class="stamp">${sold ? 'SOLD' : 'UNSOLD'}</div><h2>${headline}</h2><p class="muted">${detail}</p>`
       + `<button class="primary big" data-action="next">Next player · Enter ↵</button></section>`;
@@ -323,13 +352,24 @@ function lotCard(s) {
 }
 function bidBar(s) {
   if (s.phase !== 'auction') return '';
-  const me = s.seats[s.you];
+  const me = s.seats[s.you], other = 1 - s.you, who = s.seats[s.turn];
   if (s.turn !== s.you) {
-    return `<div class="bidbar waiting"><span class="pulse"></span>${esc(s.seats[s.turn].name)} is ${s.seats[s.turn].bot ? 'thinking' : 'deciding'}…</div>`;
+    const out = whyOut(s, s.you, true);
+    if (out && out.kind === 'full') {
+      // Locked out of this lot: say so, and say what the other side can do.
+      return `<div class="bidbar waiting out"><span class="lock" aria-hidden="true">🔒</span><div><strong>${out.text}.</strong>`
+        + `<small>You are back in once ${esc(s.seats[other].name)} catches up. Until then ${esc(who.name)} can buy each player outright or skip them.</small></div></div>`;
+    }
+    const lead = out && out.kind === 'passed' ? 'You passed. ' : '';
+    return `<div class="bidbar waiting"><span class="pulse"></span>${lead}${esc(who.name)} is ${who.bot ? 'thinking' : 'deciding'}…</div>`;
   }
+  const rival = whyOut(s, other, false);
+  const note = rival
+    ? `<p class="why">${rival.text}. <b>Any bid wins outright</b>${rival.kind === 'full' ? ', or pass to skip this player' : ''}.</p>`
+    : '';
   const chips = [1, 2, 5].map(n => `<button type="button" class="chip-btn" data-raise="${n}">+$${n}</button>`).join('')
     + '<button type="button" class="chip-btn" data-raise="max">Max</button>';
-  return `<div class="bidbar active"><div class="bidbar-top"><strong>Your turn</strong><small>up to $${me.maxBid}</small></div>`
+  return `<div class="bidbar active"><div class="bidbar-top"><strong>Your turn</strong><small>up to $${me.maxBid}</small></div>${note}`
     + `<div class="quick" role="group" aria-label="Quick bids">${chips}</div>`
     + `<div class="bidder"><form id="bidForm"><label for="bidInput" hidden>Your bid</label>`
     + `<input id="bidInput" type="text" inputmode="numeric" pattern="[0-9]*" autocomplete="off" placeholder="Amount" aria-describedby="bidHelp">`
