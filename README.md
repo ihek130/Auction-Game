@@ -55,7 +55,7 @@ Official setup and plan documentation, checked September 2026:
    | 5 | Wildcard: any category | 1 |
 
 - In the wildcard round, the nominated side chooses a category. A random unowned player from that category is revealed; either side can bid if their wildcard slot is empty. Category selection itself has no timer. After every sale, either participant can reveal the next player.
-- The 148-player master pool represents cricketers from the 1990–2026 period. Eligibility differs by format, because a player only enters a pool if they actually played enough of it: 116 T20, 128 ODI, 114 Test. The order is shuffled within categories, and future players are never sent to the browser.
+- The 148-player master pool represents cricketers from the 1990–2026 period. Eligibility differs by format, because a player only enters a pool if they actually played enough of it: 116 T20, 147 ODI, 130 Test. The order is shuffled within categories, and future players are never sent to the browser.
 - Each cricketer on the block shows three real career numbers for the format being played, so you are bidding on a record rather than a name.
 - Results appear only when **both sides have exactly 12 players**. Money remaining breaks a tied score, otherwise it is a draw.
 
@@ -83,7 +83,7 @@ Ratings are **derived from real statistics**, not authored by hand. Two committe
 - `data/career-stats.json` — career statistics per player per format: matches, runs, batting average and strike rate, hundreds, wickets, bowling average, economy and, where available, bowling strike rate. Test, ODI and T20 International records come from Wikipedia player articles read as **raw wikitext**, so infobox fields are parsed verbatim instead of being summarised, cross-checked against the per-country lists of Test, ODI and Twenty20 International cricketers. Those infoboxes cite ESPNcricinfo. Strike rates and economies, which infoboxes do not publish, were **computed exactly** from runs and balls faced, or runs conceded and balls bowled, using figures from robots-permitted statistics sites, and independently reproduced against Wikipedia's own ball counts. The file also carries an all-Twenty20 career line for 119 players, covering franchise leagues as well as internationals.
 - `data/icc-ratings.json` — ICC Men's Player Rankings rating points on the official 0–1000 scale, including the published best-ever tables that cover retired players. Cross-validated against the ICC-cited tables in Wikipedia's *ICC Men's Player Rankings* article, which matched exactly on every row checked.
 
-Coverage: Test records for 125 of 148 players, ODI for 131, T20 International for 106 with a batting strike rate for all of them, and an all-Twenty20 line for 119. Every record carries its source URLs and a confidence flag; 131 are high confidence, 16 medium and 1 low.
+Coverage: Test records for 142 of 148 players, ODI for all 148, T20 International for 122 with a batting strike rate for all of them, and an all-Twenty20 line for 119. Every record carries its source URLs and a confidence flag; 131 are high confidence, 16 medium and 1 low.
 
 `tools/build-ratings.cjs` turns those into the 0–99 game rating for each player and format and writes `lib/players.cjs`. Rebuild any time with:
 
