@@ -128,7 +128,11 @@ A solo room cannot be joined by a second person.
 
 ## Chat and reactions
 
-Every room has a chat panel — open it with the **Chat** button during an auction; it sits on the lobby and results screens too. Alongside typed messages there is a one-tap reaction bar of sixteen emoji for the moments that do not need words.
+Every room has a chat panel. On a phone it slides up as a bottom sheet from the **Chat** button; on a desktop it stays docked beside the auction. Three ways to say something:
+
+- **Sixteen one-tap emoji.** A reaction also **floats up over both players' screens** for a couple of seconds, so it lands even if the panel is closed.
+- **Sarcastic presets.** A row of ready-made sledges ("My nan bids harder", "Are you bidding or donating?") because nobody wants to type during a thirty-second turn. The shuffle button rotates the selection.
+- **Free text**, up to 160 characters.
 
 - Messages are capped at 160 characters, and a room keeps the last 60.
 - One message per seat per 0.7 seconds. The browser greys out the send button and the reaction bar for the same interval, so a fast second tap is ignored rather than rejected.
@@ -140,15 +144,34 @@ Messages travel on the same two-second poll as the rest of the room, so expect a
 
 ## On a phone
 
-The layout is built mobile-first and tested at 390 CSS pixels wide.
+The layout is built mobile-first and tested in a real browser at 390 CSS pixels wide.
 
-- One column on a phone, two from 700 pixels, and the full board with a side panel from 1000.
-- No sideways scrolling at any width. The stage strip and the reaction bar scroll horizontally inside themselves instead of stretching the page.
-- Tap targets are at least 46 pixels; inputs use a 16-pixel font so iOS does not zoom when you focus them.
-- Quick-bid chips (**+$1**, **+$2**, **+$5**, **Max**) fill the bid box without typing.
-- The page respects the safe-area inset at the bottom of a notched phone, and honours `prefers-reduced-motion`.
+The auction screen is arranged around one question: what do I need to decide, right now?
+
+- A **heads-up display** pins both wallets and a draining countdown ring to the top. The ring turns red inside the last ten seconds.
+- The **bid bar sticks to the bottom of the screen**, so bidding never needs a scroll. Quick chips (**+$1**, **+$2**, **+$5**, **Max**) fill the box without typing.
+- Squads sit in a collapsible drawer rather than a long list, and each one shows a live shape readout so you can see the gaps while there is still money to fix them.
+- A lot that sells gets a **SOLD** stamp that tells you immediately whether you won it.
+
+The rest:
+
+- One column on a phone, two from 700 pixels, the full board with a side panel from 1000.
+- No sideways scrolling at any width. The stage strip, reaction bar and preset row scroll inside themselves instead of stretching the page.
+- Tap targets are at least 46 pixels; inputs use a 16-pixel font so iOS does not zoom on focus.
+- Safe-area insets are respected on notched phones, and `prefers-reduced-motion` turns off every animation including the floating reactions.
 
 The browser **Back** button returns you to the home screen rather than leaving the site. Opening an invite link cold still works: a home entry is put behind the room so Back has somewhere to go.
+
+## After the final whistle
+
+The results screen is built to start another game rather than end the session.
+
+- The headline is personal: **You win** or how many points short you finished.
+- **Your best value** calls out the most rating points you got per dollar.
+- The **six-component breakdown** shows both squads side by side, with the leader in each row highlighted, so a loss is explainable.
+- **Play again** starts a fresh auction on the same format and difficulty in one tap. **Share result** copies a short scoreline you can paste to your opponent.
+
+
 
 ## Keyboard controls and reconnecting
 
