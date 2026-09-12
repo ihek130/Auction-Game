@@ -75,7 +75,8 @@ legend{font-size:14px;font-weight:650;margin-bottom:8px;padding:0}
 .format{position:relative;cursor:pointer;background:#15281c;border:1px solid var(--line);padding:14px 8px;border-radius:12px;font-size:17px;margin:0;text-align:center;font-weight:700}
 .format small{display:block;font-size:11px;font-weight:400}
 .format input,.choice input{position:absolute;opacity:0;width:1px;height:1px}
-.format:has(input:checked),.choice:has(input:checked){border-color:var(--lime);background:#2a4025;box-shadow:inset 0 0 0 1px var(--lime)}
+/* .checked is set from JavaScript for browsers without :has() support. */
+.format:has(input:checked),.choice:has(input:checked),.format.checked,.choice.checked{border-color:var(--lime);background:#2a4025;box-shadow:inset 0 0 0 1px var(--lime)}
 .format:has(input:focus-visible),.choice:has(input:focus-visible){outline:3px solid var(--gold)}
 .choice-group{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .choice-group.levels{grid-template-columns:repeat(3,1fr)}

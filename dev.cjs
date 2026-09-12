@@ -24,5 +24,12 @@ const server = http.createServer(async (req,res) => {
   const file=path.join(__dirname,'public',allowed[url.pathname]);
   res.setHeader('Content-Type',types[path.extname(file)]);res.end(fs.readFileSync(file));
 });
-if(require.main===module) server.listen(Number(process.env.PORT)||3000,'127.0.0.1',()=>console.log('Cricket Auction: http://localhost:'+server.address().port+' (local rooms reset when this process stops)'));
+// Listen on every interface so a phone on the same Wi-Fi can join a local
+// game; set HOST=127.0.0.1 to keep it to this machine only.
+if(require.main===module) server.listen(Number(process.env.PORT)||3000,process.env.HOST||'0.0.0.0',()=>{
+  const port=server.address().port;
+  const lan=Object.values(require('node:os').networkInterfaces()).flat().filter(n=>n&&n.family==='IPv4'&&!n.internal).map(n=>`http://${n.address}:${port}`);
+  console.log('Cricket Auction: http://localhost:'+port+' (local rooms reset when this process stops)');
+  if(lan.length&&(process.env.HOST||'0.0.0.0')==='0.0.0.0') console.log('On your phone (same Wi-Fi): '+lan.join('  or  '));
+});
 module.exports=server;

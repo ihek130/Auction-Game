@@ -24,6 +24,25 @@ const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
 try { token = localStorage.getItem('cricket-seat:' + room) || ''; } catch {}
 
 function message(text) { $('toast').textContent = text; $('toast').hidden = false; clearTimeout(toastTimer); toastTimer = setTimeout(() => $('toast').hidden = true, 5000); }
+
+// AbortSignal.timeout() only arrived in 2022 browsers. Older phones still get
+// a request timeout; the oldest simply get no timeout rather than no game.
+function timeoutSignal(ms) {
+  if (typeof AbortSignal !== 'undefined' && typeof AbortSignal.timeout === 'function') return AbortSignal.timeout(ms);
+  if (typeof AbortController === 'undefined') return undefined;
+  const controller = new AbortController();
+  setTimeout(() => controller.abort(), ms);
+  return controller.signal;
+}
+// The selected-card highlight uses the CSS :has() selector, which some older
+// phone browsers lack. Mirror the checked state onto the label so the choice
+// is always visible.
+function mirrorChecked(root) {
+  const inputs = root.querySelectorAll('.format input, .choice input');
+  const apply = () => inputs.forEach(i => i.closest('label').classList.toggle('checked', i.checked));
+  inputs.forEach(i => i.addEventListener('change', apply));
+  apply();
+}
 function connection(text, ok) { connected = ok; $('connection').textContent = text; $('connection').classList.toggle('offline', !ok); updateControls(); }
 
 /* ---------- reactions that float up the screen ---------- */
@@ -133,6 +152,7 @@ function setup(invited = false) {
   });
   const own = $('ownRoom');
   if (own) own.addEventListener('click', e => { e.preventDefault(); goHome(true); });
+  mirrorChecked($('setupForm'));
   connection('Ready to play', true);
 }
 
@@ -429,7 +449,7 @@ async function request(action = null, polling = false) {
     const response = await fetch('/api/room' + (room ? '?room=' + encodeURIComponent(room) : ''), {
       method: action ? 'POST' : 'GET', headers,
       body: action ? JSON.stringify(action) : undefined,
-      cache: 'no-store', signal: AbortSignal.timeout(12000)
+      cache: 'no-store', signal: timeoutSignal(12000)
     });
     const data = await response.json();
     if (!response.ok) { const e = new Error(data.error || 'Unable to connect.'); e.status = response.status; throw e; }
@@ -452,7 +472,9 @@ async function request(action = null, polling = false) {
     if (data.error) { message(data.error); lastFocus = ''; focusBid(); }
   } catch (e) {
     connection('Reconnecting…', false);
-    if (!polling) message(e.message || 'Could not connect. Please try again.');
+    // Say why, so a report from a phone can be acted on. A status means the
+    // server answered; anything else is the network or the browser.
+    if (!polling) message(e.status ? e.message : `Could not reach the server (${e.message || 'no response'}). Check your connection and try again.`);
     if (e.status === 401 && !state) { token = ''; setup(true); }
     if (e.status === 404 && !state) { message('That room is gone. Start a new one.'); goHome(false); }
   } finally {
