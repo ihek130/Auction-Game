@@ -55,7 +55,8 @@ Official setup and plan documentation, checked September 2026:
    | 4 | Wicketkeepers | 1 |
    | 5 | Wildcard: any category | 1 |
 
-- In the wildcard round, the nominated side chooses a category. A random unowned player from that category is revealed; either side can bid if their wildcard slot is empty. Category selection itself has no timer. After every sale, either participant can reveal the next player.
+- The wildcard round works like every other: a random unowned player from **any** category is revealed, and either side can bid if their wildcard slot is empty. Nobody picks a category. After every sale, either participant can reveal the next player.
+- **Ratings are hidden while the auction is live.** The card shows the player's real career numbers for the format, and that is what you bid on. The game rating for every player appears only with the result, next to the score it produced.
 - The 148-player master pool represents cricketers from the 1990–2026 period. Eligibility differs by format, because a player only enters a pool if they actually played enough of it: 116 T20, 147 ODI, 130 Test. The order is shuffled within categories, and future players are never sent to the browser.
 - Each cricketer on the block shows three real career numbers for the format being played, so you are bidding on a record rather than a name.
 - Results appear only when **both sides have exactly 12 players**. Money remaining breaks a tied score, otherwise it is a draw.

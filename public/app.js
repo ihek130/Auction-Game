@@ -17,7 +17,7 @@ const PRESETS = [
 
 let state = null, busy = false, pollingInFlight = false, pollTimer, room = new URLSearchParams(location.search).get('room') || '', token = '', clockOffset = 0, toastTimer;
 let lastFocus = '', connected = false, lastRender = '', chatDraft = '', chatOpen = false, unread = 0;
-let seenChat = 0, chatPrimed = false, presetSeed = 0, squadsOpen = false;
+let seenChat = 0, chatPrimed = false, presetSeed = 0, squadsOpen = true, lastChat = '', renderedLot = -1;
 const CHAT_COOLDOWN_MS = 800;
 let lastChatAt = 0, cooldownTimer;
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -97,7 +97,7 @@ function rules() {
   return '<details class="rules"><summary>How the auction works</summary><ol>'
     + '<li>Two sides start with <b>$100 each</b>. Take turns bidding any whole-dollar amount. There is no base price, and every raise must beat the visible bid.</li>'
     + '<li>You get <b>30 seconds</b> a turn. Pass, or let the clock run out, and the player goes to the highest bidder. Only the buyer pays.</li>'
-    + '<li>Fill the squad in order: <b>5 batters, 2 all-rounders, 3 bowlers, 1 keeper</b>, then a <b>wildcard</b> from any category.</li>'
+    + '<li>Fill the squad in order: <b>5 batters, 2 all-rounders, 3 bowlers, 1 keeper</b>, then a <b>wildcard</b> drawn at random from any category. Ratings stay hidden until the result: bid on the real career numbers.</li>'
     + '<li>Keep <b>$1 for each empty slot</b> so you can always finish your twelve.</li>'
     + '<li>Squads are marked out of <b>1000</b> on quality, batting, bowling, fielding, balance and impact. A balanced side beats a lopsided one of similar quality.</li>'
     + '<li><b>Enter</b> bids, <b>P</b> passes, <b>Enter</b> again reveals the next player.</li></ol></details>';
@@ -176,7 +176,7 @@ function roster(p, i) {
   const mine = i === state.you;
   const counts = p.counts.map((c, k) => `<span class="${c >= state.stages[k].quota ? 'done' : ''}">${stageShort[k]} ${c}/${state.stages[k].quota}</span>`).join('');
   const list = p.squad.length
-    ? '<ul>' + p.squad.map(x => `<li><span class="who">${esc(x.flag)} ${esc(x.name)}<small>${esc(x.role)}${x.stage === 4 ? ' · Wildcard' : ''} · ${x.rating} pts</small></span><span class="price">$${x.price}</span></li>`).join('') + '</ul>'
+    ? '<ul>' + p.squad.map(x => `<li><span class="who">${esc(x.flag)} ${esc(x.name)}<small>${esc(x.role)}${x.stage === 4 ? ' · Wildcard' : ''}${x.rating != null ? ' · ' + x.rating + ' pts' : ''}</small></span><span class="price">$${x.price}</span></li>`).join('') + '</ul>'
     : '<div class="empty">No signings yet.</div>';
   return `<section class="roster ${mine ? 'mine' : ''}"><div class="roster-head"><div class="roster-title"><h3>${esc(p.name)}${mine ? ' · You' : ''}</h3>`
     + `<span class="pill">${p.squad.length}/12</span></div><div class="counts">${counts}</div>${shapeBar(p)}</div>${list}`
@@ -239,8 +239,23 @@ function wireChat() {
   if (shuffle) shuffle.addEventListener('click', () => { presetSeed = (presetSeed + 1) % PRESETS.length; lastRender = ''; render(); });
   const close = $('chatClose'); if (close) close.addEventListener('click', () => toggleChat(false));
   const backdrop = $('chatBackdrop'); if (backdrop) backdrop.addEventListener('click', () => toggleChat(false));
-  const toggle = $('chatToggle'); if (toggle) toggle.addEventListener('click', () => toggleChat(!chatOpen));
   applyChatCooldown();
+}
+// The toggle lives outside the chat panel and survives a chat-only refresh,
+// so it is bound once per full render rather than in wireChat().
+function wireChatToggle() {
+  const toggle = $('chatToggle'); if (toggle) toggle.addEventListener('click', () => toggleChat(!chatOpen));
+}
+// Swap only the chat panel and its unread badge. Nothing else on the board
+// is touched, so a bid being typed stays exactly as it was.
+function refreshChat() {
+  const old = $('chatPanel'); if (!old) return;
+  const tmp = document.createElement('div'); tmp.innerHTML = chatPanel();
+  const fresh = tmp.querySelector('#chatPanel'); if (!fresh) return;
+  old.replaceWith(fresh);
+  wireChat();
+  const toggle = $('chatToggle');
+  if (toggle) { toggle.className = unread ? 'has-unread' : ''; toggle.innerHTML = '💬' + (unread ? ` <span class="badge">${unread}</span>` : ''); }
 }
 
 /* ---------- results ---------- */
@@ -261,7 +276,7 @@ function breakdownTable(s) {
 }
 function bestBuy() {
   const mine = state.seats[state.you].squad;
-  if (!mine.length) return '—';
+  if (!mine.length || mine[0].rating == null) return '—';
   const best = mine.reduce((a, b) => (b.rating / Math.max(1, b.price) > a.rating / Math.max(1, a.price) ? b : a));
   return `${best.name} for $${best.price} (${best.rating} pts)`;
 }
@@ -310,12 +325,6 @@ function hud(s) {
     + `<small>${s.phase === 'auction' ? 'seconds' : 'closed'}</small></div>${seat(s.seats[1], 1)}</div>`;
 }
 function lotCard(s) {
-  if (s.phase === 'choose') {
-    return `<section class="lot choose"><div class="eyebrow">The 12th player · Wildcard</div>`
-      + `<h2>${s.you === s.turn ? 'Pick your final category.' : esc(s.seats[s.turn].name) + ' is choosing…'}</h2>`
-      + `<p class="intro">A hidden player from that category comes up. Both sides can bid if their wildcard slot is empty.</p>`
-      + `<div class="choice-grid">${s.categories.map(c => `<button data-category="${c}" ${s.you !== s.turn ? 'disabled' : ''}>${labels[c]}</button>`).join('')}</div></section>`;
-  }
   if (s.phase === 'sold') {
     const sold = s.outcome.type === 'sold';
     const won = sold && s.outcome.buyer === s.you;
@@ -329,7 +338,7 @@ function lotCard(s) {
       const e = exits[0], out = whyOut(s, 1 - e.seat, false);
       return `${esc(s.seats[e.seat].name)} ${e.type === 'timeout' ? 'ran out of time' : 'passed'}${out ? ' · ' + out.text : ''}. This player can return later.`;
     };
-    const detail = sold ? `$${s.outcome.price} · ${s.current.rating} rating points` : unsoldWhy();
+    const detail = sold ? `$${s.outcome.price}${s.current.rating != null ? ' · ' + s.current.rating + ' rating points' : ''}` : unsoldWhy();
     return `<section class="lot outcome-card ${sold ? (won ? 'won' : 'lost') : 'unsold'}">`
       + `<div class="stamp">${sold ? 'SOLD' : 'UNSOLD'}</div><h2>${headline}</h2><p class="muted">${detail}</p>`
       + `<button class="primary big" data-action="next">Next player · Enter ↵</button></section>`;
@@ -344,7 +353,7 @@ function lotCard(s) {
   return `<section class="lot"><div class="lot-top"><span>Lot ${s.lot}</span><span>${esc(stageNames[s.stage])}</span></div>`
     + `<div class="flag">${esc(c.flag)}</div><h1 class="player-name">${esc(c.name)}</h1>`
     + `<p class="muted">${esc(c.country)} · ${esc(c.era)}</p>`
-    + `<div class="tags"><span class="tag">${esc(c.role)}</span><span class="tag rating">${s.format.toUpperCase()} ${c.rating}</span>`
+    + `<div class="tags"><span class="tag">${esc(c.role)}</span>${c.rating != null ? `<span class="tag rating">${s.format.toUpperCase()} ${c.rating}</span>` : ''}`
     + `${s.stage === 4 ? '<span class="tag wild">Wildcard</span>' : ''}</div>${statline}`
     + `<div class="bid-display" aria-live="polite"><small>${s.high ? 'Highest bid' : 'No bids yet'}</small>`
     + `<span class="amount${s.high ? '' : ' open'}">${amount}</span><small>${under}</small></div>`
@@ -380,10 +389,20 @@ function bidBar(s) {
 
 function render() {
   const s = state;
-  const key = `${s.phase}:${s.revision}:${s.chatSeq}:${chatOpen}:${squadsOpen}:${presetSeed}`;
-  if (key === lastRender) return;
-  lastRender = key;
   const draft = $('chatInput'); if (draft) chatDraft = draft.value;
+  // Two keys: the board rebuilds only when the auction itself moves; chat
+  // traffic swaps the chat panel alone. A half-typed bid must never be lost
+  // because the opponent sent an emoji.
+  const boardKey = `${s.phase}:${s.revision}:${chatOpen}:${squadsOpen}`;
+  const chatKey = `${s.chatSeq}:${presetSeed}:${chatOpen}`;
+  if (boardKey === lastRender) {
+    if (chatKey !== lastChat) { lastChat = chatKey; refreshChat(); }
+    return;
+  }
+  lastRender = boardKey; lastChat = chatKey;
+  // Remember a bid that was being typed, to put back after the rebuild.
+  const bidBox = $('bidInput');
+  const keep = bidBox && bidBox.value ? { lot: renderedLot, value: bidBox.value, focused: document.activeElement === bidBox, start: bidBox.selectionStart, end: bidBox.selectionEnd } : null;
 
   if (s.phase === 'lobby') {
     const waiting = !s.seats[1];
@@ -419,7 +438,7 @@ function render() {
       + `<button id="leaveBtn" class="ghost">Menu</button></div></div>`
       + `<nav class="stages" aria-label="Auction stages">${stages}</nav>${hud(s)}`
       + `<div class="game-grid"><div class="main-col">${lotCard(s)}${bidBar(s)}</div>`
-      + `<aside class="side-col"><details class="squads" ${squadsOpen ? 'open' : ''} id="squadsBox"><summary>Squads<span class="muted">${signed}/24</span></summary>`
+      + `<aside class="side-col"><details class="squads" ${squadsOpen || matchMedia('(min-width:1000px)').matches ? 'open' : ''} id="squadsBox"><summary>Squads<span class="muted">${signed}/24</span></summary>`
       + `<div class="squad-grid">${s.seats.map(roster).join('')}</div></details></aside></div>${chatPanel()}</section>`;
   }
 
@@ -430,17 +449,25 @@ function render() {
   const fresh = $('newGame'); if (fresh) fresh.addEventListener('click', () => goHome(true));
   const box = $('squadsBox'); if (box) box.addEventListener('toggle', e => { squadsOpen = e.target.open; lastRender = ''; });
   document.querySelectorAll('[data-action]').forEach(b => b.addEventListener('click', () => request({ type: b.dataset.action, revision: state.revision })));
-  document.querySelectorAll('[data-category]').forEach(b => b.addEventListener('click', () => request({ type: 'choose', category: b.dataset.category, revision: state.revision })));
   document.querySelectorAll('[data-raise]').forEach(b => b.addEventListener('click', () => {
     const me = state.seats[state.you];
     const amount = b.dataset.raise === 'max' ? me.maxBid : Math.min(me.maxBid, state.high + Number(b.dataset.raise));
     const input = $('bidInput'); if (input) { input.value = String(amount); input.focus(); }
   }));
   const bidForm = $('bidForm'); if (bidForm) bidForm.addEventListener('submit', e => { e.preventDefault(); submitBid(); });
-  wireChat();
+  wireChat(); wireChatToggle();
+  // Put the half-typed bid back if this is still the same lot.
+  if (keep && keep.lot === s.lot) {
+    const box = $('bidInput');
+    if (box && !box.value) {
+      box.value = keep.value;
+      if (keep.focused) { box.focus({ preventScroll: true }); try { box.setSelectionRange(keep.start, keep.end); } catch {} }
+    }
+  }
+  renderedLot = s.lot;
   updateControls(); tick();
   const focusKey = `${s.phase}:${s.lot}:${s.turn}:${s.high}`;
-  if (focusKey !== lastFocus) { lastFocus = focusKey; if (s.phase === 'auction' && s.turn === s.you && !chatOpen) setTimeout(focusBid, 0); }
+  if (focusKey !== lastFocus) { lastFocus = focusKey; if (s.phase === 'auction' && s.turn === s.you && !chatOpen && !(keep && keep.focused)) setTimeout(focusBid, 0); }
 }
 function focusBid() { const input = $('bidInput'); if (input && !input.disabled) { input.focus({ preventScroll: true }); input.select(); } }
 function submitBid() {
@@ -461,7 +488,6 @@ function updateControls() {
       || (b.dataset.action === 'start' && (!state.seats[1] || state.you !== 0))
       || (b.dataset.action === 'pass' && (!mine || late));
   });
-  document.querySelectorAll('[data-category]').forEach(b => { b.disabled = busy || !connected || state.turn !== state.you; });
 }
 function tick() {
   const el = $('timer'); if (!el) return;

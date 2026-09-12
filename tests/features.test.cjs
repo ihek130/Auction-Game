@@ -220,3 +220,53 @@ test('a side that has filled the category is marked out of each new lot, and the
   assert.equal(s.outcome.buyer, 0);
   assert.equal(s.outcome.price, 1);
 });
+
+test('ratings are withheld from the room view until the auction has finished', () => {
+  const now = Date.now();
+  const s = newRoom('hide', 'odi', 'Creator', 'hash', now);
+  s.seats[1] = { name: 'Guest', tokenHash: 'other', wallet: 100, squad: [] };
+  act(s, 0, { type: 'start', revision: s.revision }, now);
+  const live = view(s, 0, now);
+  assert.equal(live.current.rating, undefined, 'the player on the block carries no rating');
+  assert.ok(live.current.stats && live.current.stats.line.length >= 2, 'but the real career numbers are there');
+  act(s, s.turn, { type: 'bid', amount: 3, revision: s.revision }, now);
+  act(s, s.turn, { type: 'pass', revision: s.revision }, now);
+  const afterSale = view(s, 0, now);
+  const bought = afterSale.seats.find(p => p.squad.length)?.squad[0];
+  assert.ok(bought, 'someone bought the player');
+  assert.equal(bought.rating, undefined, 'a signed player in the squad list carries no rating either');
+  // Finish the whole auction at $1 a lot and the ratings appear with the result.
+  let guard = 0;
+  while (s.phase !== 'finished' && guard++ < 400) {
+    if (s.phase === 'sold') { act(s, 0, { type: 'next', revision: s.revision }, now); continue; }
+    if (s.phase === 'auction') { const i = s.turn; if (s.high + 1 <= maxBidOf(s, i)) act(s, i, { type: 'bid', amount: s.high + 1, revision: s.revision }, now); else act(s, i, { type: 'pass', revision: s.revision }, now); }
+  }
+  assert.equal(s.phase, 'finished');
+  const done = view(s, 0, now);
+  assert.ok(done.seats.every(p => p.squad.every(x => typeof x.rating === 'number')), 'every rating is revealed with the result');
+});
+
+test('the wildcard is drawn at random from every category with no choosing step', () => {
+  const seen = new Set();
+  for (let seed = 0; seed < 12; seed++) {
+    let now = 1_700_000_000_000 + seed;
+    const s = newRoom('wild' + seed, 't20', 'Creator', 'hash', now);
+    s.seats[1] = { name: 'Guest', tokenHash: 'other', wallet: 100, squad: [] };
+    act(s, 0, { type: 'start', revision: s.revision }, now);
+    let guard = 0;
+    while (s.phase !== 'finished' && guard++ < 400) {
+      now += 1000;
+      assert.notEqual(s.phase, 'choose', 'the auction must never wait for a category to be chosen');
+      if (s.phase === 'sold') { act(s, 0, { type: 'next', revision: s.revision }, now); continue; }
+      if (s.stage === 4 && s.phase === 'auction') seen.add(playerPool[s.current].category);
+      const i = s.turn;
+      if (s.high + 1 <= maxBidOf(s, i)) act(s, i, { type: 'bid', amount: s.high + 1, revision: s.revision }, now);
+      else act(s, i, { type: 'pass', revision: s.revision }, now);
+    }
+    assert.equal(s.phase, 'finished');
+    for (const seat of s.seats) assert.equal(seat.squad.filter(x => x.stage === 4).length, 1, 'each side still gets exactly one wildcard');
+  }
+  assert.ok(seen.size >= 2, `wildcards across a dozen games should span categories, saw ${[...seen].join(',')}`);
+});
+
+function maxBidOf(s, i) { return Math.max(0, s.seats[i].wallet - (11 - s.seats[i].squad.length)); }
