@@ -144,6 +144,16 @@ Every room has a chat panel. On a phone it slides up as a bottom sheet from the 
 
 Messages travel on the same two-second poll as the rest of the room, so expect a short delay rather than instant delivery.
 
+## Walk-on music
+
+Some players get a tune when their card comes up. Babar Azam's plays from `public/audio/babar-azam.mp3` the moment his lot is revealed, loops for as long as he is on the block, stops when the auction moves on, and starts again if he returns unsold later. Browsers keep sound off until a page has been tapped, so a tab that has never been touched starts the tune at its first tap or key press instead. To give another player a tune, add the file under `public/audio/`, map the name to it in `THEMES` at the top of `public/app.js`, and list the path in `dev.cjs`.
+
+## Every tab refreshes when you commit
+
+Every reply from the server names the build that produced it: the checked-out commit when running locally, or the deployment's commit on Vercel. When a tab sees that name change it reloads itself. The seat is restored from the room code in the address and the token in browser storage, so nobody is kicked out. Tabs inside a room notice on their next poll, within about two seconds; the home and results screens ask every half minute while visible.
+
+Locally, a commit is enough for anything under `public/`, because the files are read from disk on every request. A change under `lib/` still needs `node dev.cjs` restarted, and local rooms reset when it is. A tab still running code from before this feature does not know to refresh: reload it by hand once.
+
 ## On a phone
 
 The layout is built mobile-first and tested in a real browser at 390 CSS pixels wide.

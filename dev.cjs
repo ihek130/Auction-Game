@@ -6,7 +6,7 @@ const { service } = require('./lib/service.cjs');
 const { memoryStore, redisStore } = require('./lib/store.cjs');
 // In-memory rooms are explicitly local only; the Vercel API always uses Redis.
 const handle = service(process.env.UPSTASH_REDIS_REST_URL ? redisStore : memoryStore());
-const types = {'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml'};
+const types = {'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml','.mp3':'audio/mpeg'};
 const server = http.createServer(async (req,res) => {
   const url = new URL(req.url,'http://localhost');
   if(url.pathname==='/api/room') {
@@ -19,10 +19,12 @@ const server = http.createServer(async (req,res) => {
     }catch(e){res.statusCode=e.status||503;res.end(JSON.stringify({error:e.message}));}
     return;
   }
-  const allowed = {'/':'index.html','/index.html':'index.html','/app.js':'app.js','/styles.css':'styles.css','/favicon.svg':'favicon.svg'};
+  const allowed = {'/':'index.html','/index.html':'index.html','/app.js':'app.js','/styles.css':'styles.css','/favicon.svg':'favicon.svg','/audio/babar-azam.mp3':'audio/babar-azam.mp3'};
   if(!allowed[url.pathname]) {res.statusCode=404;return res.end('Not found');}
   const file=path.join(__dirname,'public',allowed[url.pathname]);
-  res.setHeader('Content-Type',types[path.extname(file)]);res.end(fs.readFileSync(file));
+  // Read from disk on every request and never kept by the browser, so a tab
+  // that reloads itself after a commit gets the new code, not a cached copy.
+  res.setHeader('Content-Type',types[path.extname(file)]);res.setHeader('Cache-Control','no-cache');res.end(fs.readFileSync(file));
 });
 // Listen on every interface so a phone on the same Wi-Fi can join a local
 // game; set HOST=127.0.0.1 to keep it to this machine only.

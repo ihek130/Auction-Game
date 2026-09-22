@@ -72,6 +72,44 @@ function playNewReactions(next) {
   seenChat = chat.length;
 }
 
+/* ---------- walk-on music ---------- */
+// Some players get a tune when their card comes up. It starts as the lot is
+// revealed, loops for as long as that player is on the block, stops the
+// moment the auction moves on, and starts again if the same player comes
+// back unsold later.
+const THEMES = { 'Babar Azam': '/audio/babar-azam.mp3' };
+let themeKey = '', themeAudio = null, themeRetry = null;
+function stopTheme() {
+  themeKey = '';
+  if (themeRetry) { document.removeEventListener('pointerdown', themeRetry); document.removeEventListener('keydown', themeRetry); themeRetry = null; }
+  if (themeAudio) { themeAudio.pause(); try { themeAudio.currentTime = 0; } catch {} }
+}
+function updateTheme(s) {
+  const src = s && (s.phase === 'auction' || s.phase === 'sold') && s.current ? THEMES[s.current.name] : null;
+  const key = src ? s.lot + ':' + s.current.name : '';
+  if (key === themeKey) return;
+  stopTheme();
+  if (!src) return;
+  themeKey = key;
+  if (!themeAudio) { themeAudio = new Audio(); themeAudio.preload = 'auto'; themeAudio.volume = 0.7; themeAudio.loop = true; }
+  if (themeAudio.getAttribute('src') !== src) themeAudio.src = src;
+  const attempt = () => {
+    const playing = themeAudio.play();
+    if (!playing || !playing.catch) return;
+    // Browsers keep sound off until the page has been touched, and a tab
+    // that just reloaded itself has not been. Try again at the first tap.
+    playing.catch(() => {
+      if (themeKey !== key || themeRetry) return;
+      themeRetry = () => {
+        document.removeEventListener('pointerdown', themeRetry); document.removeEventListener('keydown', themeRetry); themeRetry = null;
+        if (themeKey === key) attempt();
+      };
+      document.addEventListener('pointerdown', themeRetry); document.addEventListener('keydown', themeRetry);
+    });
+  };
+  attempt();
+}
+
 /* ---------- history: Back returns to the menu, not off the site ---------- */
 function seedHistory() {
   if (room) { history.replaceState({ view: 'home' }, '', '/'); history.pushState({ view: 'room', room }, '', '/?room=' + room); }
@@ -105,7 +143,7 @@ function rules() {
 
 /* ---------- home ---------- */
 function setup(invited = false) {
-  state = null; lastFocus = ''; lastRender = ''; clearTimeout(pollTimer);
+  state = null; lastFocus = ''; lastRender = ''; clearTimeout(pollTimer); stopTheme();
   const opponentFields = `<fieldset class="choice-group wide"><legend>Who are you playing?</legend>`
     + `<label class="choice"><input type="radio" name="opponent" value="computer" checked><span>🤖 The computer<small>Start right now</small></span></label>`
     + `<label class="choice"><input type="radio" name="opponent" value="friend"><span>👥 A friend<small>Share an invite link</small></span></label></fieldset>`
@@ -290,7 +328,7 @@ function rematch() {
   const body = { type: 'create', name: s.seats[s.you].name, format: s.format };
   if (s.solo) { body.opponent = 'computer'; body.level = s.botLevel || 'normal'; }
   else body.opponent = 'friend';
-  clearTimeout(pollTimer); state = null; room = ''; token = ''; lastRender = ''; seenChat = 0; chatPrimed = false; chatOpen = false;
+  clearTimeout(pollTimer); state = null; room = ''; token = ''; lastRender = ''; seenChat = 0; chatPrimed = false; chatOpen = false; stopTheme();
   request(body);
 }
 
@@ -400,6 +438,7 @@ function render() {
     return;
   }
   lastRender = boardKey; lastChat = chatKey;
+  updateTheme(s);
   // Remember a bid that was being typed, to put back after the rebuild.
   const bidBox = $('bidInput');
   const keep = bidBox && bidBox.value ? { lot: renderedLot, value: bidBox.value, focused: document.activeElement === bidBox, start: bidBox.selectionStart, end: bidBox.selectionEnd } : null;
@@ -518,6 +557,7 @@ async function request(action = null, polling = false) {
       cache: 'no-store', signal: timeoutSignal(12000)
     });
     const data = await response.json();
+    noteBuild(data.build);
     if (!response.ok) { const e = new Error(data.error || 'Unable to connect.'); e.status = response.status; throw e; }
     connection('Connected', true);
     if (data.token) {
@@ -549,6 +589,31 @@ async function request(action = null, polling = false) {
     if (state && state.phase === 'auction' && state.turn === state.you && !chatOpen && document.activeElement === document.body) focusBid();
   }
 }
+/* ---------- pick up a new build ---------- */
+// Every reply from the server names the build that produced it. When that
+// changes, the tab reloads itself so nobody keeps playing on stale code. The
+// seat survives: the room is in the address and the seat token in storage.
+// Tabs inside a room notice on their next poll; the home and results
+// screens ask on their own every half minute while visible.
+let build = '';
+function noteBuild(next) {
+  if (!next || next === build) return;
+  const first = !build; build = next;
+  if (first) return;
+  // At most one reload per half minute, so a confused server cannot spin a tab.
+  let last = 0; try { last = Number(sessionStorage.getItem('cricket-reload')) || 0; } catch {}
+  if (Date.now() - last < 30000) return;
+  try { sessionStorage.setItem('cricket-reload', String(Date.now())); } catch {}
+  location.reload();
+}
+async function pingBuild() {
+  try {
+    const response = await fetch('/api/room', { cache: 'no-store', signal: timeoutSignal(8000) });
+    noteBuild((await response.json()).build);
+  } catch {}
+}
+setInterval(() => { if (!document.hidden && (!state || state.phase === 'finished')) pingBuild(); }, 30000);
+
 document.addEventListener('keydown', e => {
   if (!state || busy || e.repeat || e.ctrlKey || e.metaKey || e.altKey || e.isComposing) return;
   const active = document.activeElement;
@@ -563,7 +628,7 @@ document.addEventListener('keydown', e => {
     e.preventDefault(); submitBid();
   }
 });
-document.addEventListener('visibilitychange', () => { if (!document.hidden && state) request(null, true); });
+document.addEventListener('visibilitychange', () => { if (document.hidden) return; if (state) request(null, true); else pingBuild(); });
 window.addEventListener('online', () => { if (state) request(null, true); });
 window.addEventListener('focus', () => { if (state && state.phase === 'auction' && state.turn === state.you && !chatOpen) focusBid(); });
 setInterval(tick, 200);
@@ -575,4 +640,4 @@ if (room && token) {
   $('retry').onclick = () => request();
   $('back').onclick = () => goHome(true);
   request();
-} else setup(!!room);
+} else { setup(!!room); pingBuild(); }
